@@ -6,7 +6,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 
 ## Survey
 
-(IJCV 2022) Countering Malicious DeepFakes: Survey, Battleground, and Horizon [Paper]([https://arxiv.org/abs/2404.09516](https://arxiv.org/abs/2103.00218)) [Code](https://www.xujuefei.com/dfsurvey)
+(IJCV 2022) Countering Malicious DeepFakes: Survey, Battleground, and Horizon [Paper](https://arxiv.org/abs/2103.00218) [Code](https://www.xujuefei.com/dfsurvey)
 
 ## Datasets
 
