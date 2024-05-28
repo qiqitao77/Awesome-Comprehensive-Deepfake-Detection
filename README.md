@@ -23,6 +23,11 @@ This repository provides a comprehensive investigation of advanced single-modal 
 (EMNLP 2023) Multimodal automated fact-checking: A survey [Paper](https://arxiv.org/abs/2305.13507)
 
 ## Facial Deepfake Datasets
+
+|Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|-|-|
+|FaceForensics++(FF++)|2019|Classification|V|1000|4000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Link](https://github.com/ondyari/FaceForensics)|
+
 ### Single-modal GAN-generated Datasets
 
 ### Single-modal Diffusion-generated Datasets
