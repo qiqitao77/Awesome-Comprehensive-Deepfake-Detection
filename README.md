@@ -39,6 +39,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ## Single-modal (Visual) Deepfake Detection
 ### Passive Detection
 #### Single-task Naive Detection
+(WIFS 2018) Mesonet: a compact facial video forgery detection network [Paper](https://ieeexplore.ieee.org/document/8630761/)
 #### Single-task Generalized Detection
 #### Multi-task Detection
 #### Diffusion Model Detection
