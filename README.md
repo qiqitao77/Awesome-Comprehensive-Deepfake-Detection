@@ -27,11 +27,9 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FaceForensics++(FF++)|2019|Classification|V|1000|4000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Link](https://github.com/ondyari/FaceForensics)|
-|DFD|2019|Classification|Visual|363|3068|[Contributing data to deepfake detection
-research](https://blog.research.google/2019/09/contributing-datato-
-deepfake-detection.html)|[Link](https://github.com/ondyari/FaceForensics)|
+|DFD|2019|Classification|Visual|363|3068|[Contributing data to deepfake detection research](https://blog.research.google/2019/09/contributing-datato-deepfake-detection.html)|[Link](https://github.com/ondyari/FaceForensics)|
 |FaceShifter|2020|Classification|Visual|-|1000|[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)|[Link](https://github.com/ondyari/FaceForensics)|
-|DFDC|2020|Classification|Visual|23654|104500|||
+|DFDC|2020|Classification|Visual|23654|104500|[The DeepFake Detection Challenge (DFDC) Dataset](https://arxiv.org/abs/2006.07397)|[Link](https://ai.meta.com/datasets/dfdc/)|
 |Celeb-DF|2020|Classification|Visual|590|5639|[Celeb-df: A large-scale
 challenging dataset for deepfake forensics](https://arxiv.org/abs/1909.12962)|[Link](https://github.com/yuezunli/celeb-deepfakeforensics)|
 |DeeperForensics-1.0|2020|Classification|Visual|||||
