@@ -3,7 +3,12 @@
 ![Awesome](https://awesome.re/badge.svg)
 
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection.
+---
+- [Relevant Surveys](##)
+     - [Deepfake/AIGC Generation and Detection]()
+     - [Multi-modal Fact-checking]()
 
+---
 ## Relevant Surveys
 
 ### Deepfake/AIGC Generation and Detection
