@@ -26,29 +26,29 @@ This repository provides a comprehensive investigation of advanced single-modal 
 
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
-|FaceForensics++(FF++)|2019|Classification|V|1000|4000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Link](https://github.com/ondyari/FaceForensics)|
-|DFD|2019|Classification|Visual|363|3068|[Contributing data to deepfake detection research](https://blog.research.google/2019/09/contributing-datato-deepfake-detection.html)|[Link](https://github.com/ondyari/FaceForensics)|
-|FaceShifter|2020|Classification|Visual|-|1000|[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)|[Link](https://github.com/ondyari/FaceForensics)|
-|DFDC|2020|Classification|Visual|23654|104500|[The DeepFake Detection Challenge (DFDC) Dataset](https://arxiv.org/abs/2006.07397)|[Link](https://ai.meta.com/datasets/dfdc/)|
-|Celeb-DF|2020|Classification|Visual|590|5639|[Celeb-df: A large-scale challenging dataset for deepfake forensics](https://arxiv.org/abs/1909.12962)|[Link](https://github.com/yuezunli/celeb-deepfakeforensics)|
-|DeeperForensics-1.0|2020|Classification|Visual|50000|10000|[DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection](https://www.arxiv.org/abs/2001.03024)|[Link](https://github.com/EndlessSora/DeeperForensics-1.0)|
-|WildDeepfake|2020|Classification|Visual|3805|3509|[WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection](https://dl.acm.org/doi/10.1145/3394171.3413769)|[Link](https://github.com/deepfakeinthewild/deepfake-in-the-wild)|
-|KoDF|2020|Classification|Visual|50000|10000|||
-|FFIW_10k|2021|Classification & Spatial Grounding|Visual|10000|10000|||
-|ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99630|121617|||
-|DF-Platter|2023|Classification|Visual|133260|132496|||
-|DeepFakeFace|2023|Classification|Visual|30000|90000|||
-|DiffusionFace|2024|Classification|Visual|30000|600000|||
-|DiffusionDB-Face|2024|Classification|Visual|94120|24794|||
-|JourneyDB-Face|2024|Classification|Visual|94120|87833|||
-|Diff|2024|Classification|Visual|-|500000|||
-|FakeAVCeleb|2021|Classification|Visual & Audio|570|25000+|||
-|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2563|4380|||
-|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36431|99873|||
-|DefakeAVMiT|2023|Classification|Visual & Audio|540|6480|||
-|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286721|860039|||
+|FaceForensics++(FF++)|2019|Classification|V|1,000|4,000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Download](https://github.com/ondyari/FaceForensics)|
+|DFD|2019|Classification|Visual|363|3,068|[Contributing data to deepfake detection research](https://blog.research.google/2019/09/contributing-datato-deepfake-detection.html)|[Download](https://github.com/ondyari/FaceForensics)|
+|FaceShifter|2020|Classification|Visual|-|1,000|[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)|[Download](https://github.com/ondyari/FaceForensics)|
+|DFDC|2020|Classification|Visual|23,654|104,500|[The DeepFake Detection Challenge (DFDC) Dataset](https://arxiv.org/abs/2006.07397)|[Download](https://ai.meta.com/datasets/dfdc/)|
+|Celeb-DF|2020|Classification|Visual|590|5,639|[Celeb-df: A large-scale challenging dataset for deepfake forensics](https://arxiv.org/abs/1909.12962)|[Download](https://github.com/yuezunli/celeb-deepfakeforensics)|
+|DeeperForensics-1.0|2020|Classification|Visual|50,000|10,000|[DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection](https://www.arxiv.org/abs/2001.03024)|[Download](https://github.com/EndlessSora/DeeperForensics-1.0)|
+|WildDeepfake|2020|Classification|Visual|3,805|3,509|[WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection](https://dl.acm.org/doi/10.1145/3394171.3413769)|[Download](https://github.com/deepfakeinthewild/deepfake-in-the-wild)|
+|KoDF|2020|Classification|Visual|62,166|175,776|[KoDF: A Large-scale Korean DeepFake Detection Dataset](https://arxiv.org/abs/2103.10094)|[Download](https://deepbrainai-research.github.io/kodf/)|
+|FFIW_10k|2021|Classification & Spatial Grounding|Visual|10,000|10,000|[Face Forensics in the Wild](https://arxiv.org/abs/2103.16076)|[Download](https://github.com/tfzhou/FFIW)|
+|ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99,630|12,1617|[Forgerynet: A versatile benchmark for comprehensive forgery analysis(https://arxiv.org/abs/2103.05630)]|[Download](https://yinanhe.github.io/projects/forgerynet.html)|
+|DF-Platter|2023|Classification|Visual|133260|132496||[Download]()|
+|DeepFakeFace|2023|Classification|Visual|30000|90000||[Download]()|
+|DiffusionFace|2024|Classification|Visual|30000|600000||[Download]()|
+|DiffusionDB-Face|2024|Classification|Visual|94120|24794||[Download]()|
+|JourneyDB-Face|2024|Classification|Visual|94120|87833||[Download]()|
+|Diff|2024|Classification|Visual|-|500000||[Download]()|
+|FakeAVCeleb|2021|Classification|Visual & Audio|570|25000+||[Download]()|
+|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2563|4380||[Download]()|
+|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36431|99873||[Download]()|
+|DefakeAVMiT|2023|Classification|Visual & Audio|540|6480||[Download]()|
+|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286721|860039||[Download]()|
 |MMDFD|2023|Classification|Visual & Audio & Text|1500|5000||-|
-|DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text|||||
+|DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text||||[Download]()|
 ### Single-modal GAN-generated Datasets
 
 ### Single-modal Diffusion-generated Datasets
