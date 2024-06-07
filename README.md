@@ -137,6 +137,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 10. \[ECCV 2020\] Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues [Paper](https://arxiv.org/abs/2007.09355)
 ##### Model Level: Transformer-based
 ##### Model Level: VLM-based
+1. \[arXive 2024\] Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model [Paper](https://arxiv.org/abs/2404.05583)
+2. \[arxiv 2023\] Forgery-aware Adaptive Vision Transformer for Face Forgery Detection [Paper](https://arxiv.org/abs/2309.11092)
 ##### Learning Level: Advanced Loss
 ##### Learning Level: Disentangled Representation
 ##### Learning Level: Reconstruction
