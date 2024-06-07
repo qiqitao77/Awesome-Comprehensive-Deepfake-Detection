@@ -1,12 +1,12 @@
-# Comprehensive-Advances-in-Deepfake-Detection-Spanning-Diverse-Modalities
+# Comprehensive Advances in Deepfake Detection Spanning Diverse Modalities
 
 ![Awesome](https://awesome.re/badge.svg)
 
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection.
 ---
-- [Relevant Surveys](##)
-     - [Deepfake/AIGC Generation and Detection]()
-     - [Multi-modal Fact-checking]()
+- [Relevant Surveys](##Relevant-Surveys)
+     - [Deepfake/AIGC Generation and Detection](##Deepfake/AIGC-Generation-and-Detection)
+     - [Multi-modal Fact-checking](##Multi-modal-Fact-checking)
 
 ---
 ## Relevant Surveys
