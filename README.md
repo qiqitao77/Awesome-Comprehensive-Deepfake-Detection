@@ -5,7 +5,7 @@
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection.
 ---
 - [Relevant Surveys](#relevant-surveys)
-     - [Deepfake/AIGC Generation and Detection](###deepfake/aigc-generation-and-detection)
+     - [Deepfake/AIGC Generation and Detection](#deepfake/aigc-generation-and-detection)
      - [Multi-modal Fact-checking](###Multi-modal-Fact-checking)
 - [Facial Deepfake Datasets](##facial-deepfake-datasets)
      - [Single-modal GAN-generated Datasets](###Single-modal-GAN-generated-Datasets)
