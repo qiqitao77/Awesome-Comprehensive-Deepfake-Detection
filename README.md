@@ -23,7 +23,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 (EMNLP 2023) Multimodal automated fact-checking: A survey [Paper](https://arxiv.org/abs/2305.13507)
 
 ## Facial Deepfake Datasets
-
+### Single-modal GAN-generated Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FaceForensics++(FF++)|2019|Classification|V|1,000|4,000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Download](https://github.com/ondyari/FaceForensics)|
@@ -38,10 +38,16 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99,630|12,1617|[Forgerynet: A versatile benchmark for comprehensive forgery analysis](https://arxiv.org/abs/2103.05630)|[Download](https://yinanhe.github.io/projects/forgerynet.html)|
 |DF-Platter|2023|Classification|Visual|133260|132496||[Download]()|
 |DeepFakeFace|2023|Classification|Visual|30000|90000||[Download]()|
+### Single-modal Diffusion-generated Datasets
+|Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |DiffusionFace|2024|Classification|Visual|30000|600000||[Download]()|
 |DiffusionDB-Face|2024|Classification|Visual|94120|24794||[Download]()|
 |JourneyDB-Face|2024|Classification|Visual|94120|87833||[Download]()|
 |Diff|2024|Classification|Visual|-|500000||[Download]()|
+### Multi-modal Audio-Visual and Text-Visual Datasets
+|Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FakeAVCeleb|2021|Classification|Visual & Audio|570|25000+||[Download]()|
 |TMC|2022|Classification & Temporal Grounding|Visual & Audio|2563|4380||[Download]()|
 |LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36431|99873||[Download]()|
@@ -49,14 +55,6 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286721|860039||[Download]()|
 |MMDFD|2023|Classification|Visual & Audio & Text|1500|5000||-|
 |DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text||||[Download]()|
-### Single-modal GAN-generated Datasets
-
-### Single-modal Diffusion-generated Datasets
-
-### Multi-modal Audio-Visual Datasets
-
-### Multi-modal Text-Visual Datasets
-
 ## Single-modal (Visual) Deepfake Detection
 ### Passive Detection
 #### Single-task Naive Detection
