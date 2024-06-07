@@ -41,10 +41,10 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |DeepFakeFace|2023|Classification|Visual|30,000|90,000|[Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models](https://arxiv.org/abs/2309.02218)|[Download](https://github.com/OpenRL-Lab/DeepFakeFace)|
-|DiffusionFace|2024|Classification|Visual|30000|600000||[Download]()|
-|DiffusionDB-Face|2024|Classification|Visual|94120|24794||[Download]()|
-|JourneyDB-Face|2024|Classification|Visual|94120|87833||[Download]()|
-|Diff|2024|Classification|Visual|-|500000||[Download]()|
+|DiffusionFace|2024|Classification|Visual|30,000|60,0000|[DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis](https://arxiv.org/abs/2403.18471)|[Download](https://github.com/Rapisurazurite/DiffFace)|
+|DiffusionDB-Face|2024|Classification|Visual|94120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
+|JourneyDB-Face|2024|Classification|Visual|94120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
+|DiFF|2024|Classification|Visual|-|500000|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|[Download](https://github.com/xaCheng1996/DiFF)|
 ### Multi-modal Audio-Visual and Text-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
