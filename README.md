@@ -39,7 +39,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99,630|12,1617|[Forgerynet: A versatile benchmark for comprehensive forgery analysis](https://arxiv.org/abs/2103.05630)|[Download](https://yinanhe.github.io/projects/forgerynet.html)|
 |DF-Platter|2023|Classification|Visual|133,260|132,496|[DF-Platter: Multi-Face Heterogeneous Deepfake Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)|[Download](https://iab-rubric.org/df-platter-database)|
 ### Single-modal Diffusion-generated Datasets
-|Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
+|Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |DeepFakeFace|2023|Classification|Visual|30,000|90,000|[Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models](https://arxiv.org/abs/2309.02218)|[Download](https://github.com/OpenRL-Lab/DeepFakeFace)|
 |DiffusionFace|2024|Classification|Visual|30,000|600,000|[DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis](https://arxiv.org/abs/2403.18471)|[Download](https://github.com/Rapisurazurite/DiffFace)|
@@ -58,6 +58,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 
 ### Multi-modal Text-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text||||[Download]()|
 ## Single-modal (Visual) Deepfake Detection
 ### Passive Detection
