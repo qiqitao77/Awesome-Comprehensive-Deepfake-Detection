@@ -49,17 +49,17 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ### Multi-modal Audio-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
-|FakeAVCeleb|2021|Classification|Visual & Audio|570|25,000+||[Download]()|
-|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2,563|4,380||[Download]()|
-|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36,431|99,873||[Download]()|
-|DefakeAVMiT|2023|Classification|Visual & Audio|540|6,480||[Download]()|
-|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286,721|860,039||[Download]()|
-|MMDFD|2023|Classification|Visual & Audio & Text|1,500|5,000||-|
+|FakeAVCeleb|2021|Classification|Visual & Audio|570|25,000+|[FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset](https://arxiv.org/abs/2108.05080)|[Download](https://sites.google.com/view/fakeavcelebdash-lab/)|
+|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2,563|4,380|[Trusted Media Challenge Dataset and User Study](https://arxiv.org/abs/2201.04788)|-|
+|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36,431|99,873|[Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization](https://arxiv.org/abs/2204.06228)|[Download](https://github.com/ControlNet/LAV-DF)|
+|DefakeAVMiT|2023|Classification|Visual & Audio|540|6,480|[AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake](https://doi.org/10.1109/TIFS.2023.3262148)|-|
+|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286,721|860,039|[AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset](https://arxiv.org/abs/2311.15308)|[Download](https://github.com/ControlNet/AV-Deepfake1M)|
+|MMDFD|2023|Classification|Visual & Audio & Text|1,500|5,000|[MMDFD- A Multimodal Custom Dataset for Deepfake Detection](https://doi.org/10.1145/3607947.3608013)|-|
 
 ### Multi-modal Text-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
-|DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text||||[Download]()|
+|DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text|77,426|152,574|[DGM4: Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://arxiv.org/abs/2309.14203)|[Download](https://github.com/rshaojimmy/MultiModal-DeepFake)|
 ## Single-modal (Visual) Deepfake Detection
 ### Passive Detection
 #### Single-task Naive Detection
