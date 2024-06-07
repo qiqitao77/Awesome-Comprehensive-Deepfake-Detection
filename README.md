@@ -15,6 +15,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 - [Single-modal (Visual) Deepfake Detection](#single-modal-visual-deepfake-detection)
      - [Passive Detection](#passive-detection)
           - [Naive Detection](#naive-detection)
+               - [Visual Artifacts](#visual-artifacts)
+               - [Consistency-based](#consistency-based)
           - [Advanced Detection](#advanced-detection)
      - [Proactive Detection](#proactive-detection)
 ## Relevant Surveys
