@@ -7,11 +7,11 @@ This repository provides a comprehensive investigation of advanced single-modal 
 - [Relevant Surveys](#relevant-surveys)
      - [Deepfake/AIGC Generation and Detection](#deepfakeaigc-generation-and-detection)
      - [Multi-modal Fact-checking](#multi-modal-fact-checking)
-- [Facial Deepfake Datasets](##facial-deepfake-datasets)
-     - [Single-modal GAN-generated Datasets](###Single-modal-GAN-generated-Datasets)
-     - [Single-modal Diffusion-generated Datasets](###Single-modal-Diffusion-generated-Datasets)
-     - [Multi-modal Audio-Visual Datasets](###Multi-modal-Audio-Visual-Datasets)
-     - [Multi-modal Text-Visual Datasets](###Multi-modal-Text-Visual-Datasets)
+- [Facial Deepfake Datasets](#facial-deepfake-datasets)
+     - [Single-modal GAN-generated Datasets](#single-modal-gan-generated-datasets)
+     - [Single-modal Diffusion-generated Datasets](#single-modal-diffusion-generated-Datasets)
+     - [Multi-modal Audio-Visual Datasets](#multi-modal-audio-visual-datasets)
+     - [Multi-modal Text-Visual Datasets](#multi-modal-text-visual-Datasets)
 
 ---
 ## Relevant Surveys
@@ -32,6 +32,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ### Multi-modal Fact-checking
 \[EMNLP 2023\] Multimodal automated fact-checking: A survey [Paper](https://arxiv.org/abs/2305.13507)
 
+---
 ## Facial Deepfake Datasets
 ### Single-modal GAN-generated Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
@@ -70,6 +71,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text|77,426|152,574|[DGM4: Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://arxiv.org/abs/2309.14203)|[Download](https://github.com/rshaojimmy/MultiModal-DeepFake)|
+
+---
 ## Single-modal (Visual) Deepfake Detection
 ### Passive Detection
 #### Naive Detection
