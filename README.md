@@ -36,8 +36,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |KoDF|2020|Classification|Visual|62,166|175,776|[KoDF: A Large-scale Korean DeepFake Detection Dataset](https://arxiv.org/abs/2103.10094)|[Download](https://deepbrainai-research.github.io/kodf/)|
 |FFIW_10k|2021|Classification & Spatial Grounding|Visual|10,000|10,000|[Face Forensics in the Wild](https://arxiv.org/abs/2103.16076)|[Download](https://github.com/tfzhou/FFIW)|
 |ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99,630|12,1617|[Forgerynet: A versatile benchmark for comprehensive forgery analysis](https://arxiv.org/abs/2103.05630)|[Download](https://yinanhe.github.io/projects/forgerynet.html)|
-|DF-Platter|2023|Classification|Visual|133260|132496||[Download]()|
-|DeepFakeFace|2023|Classification|Visual|30000|90000||[Download]()|
+|DF-Platter|2023|Classification|Visual|133,260|132,496|[DF-Platter: Multi-Face Heterogeneous Deepfake Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)|[Download](https://iab-rubric.org/df-platter-database)|
+|DeepFakeFace|2023|Classification|Visual|30,000|90,000|[Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models](https://arxiv.org/abs/2309.02218)|[Download](https://github.com/OpenRL-Lab/DeepFakeFace)|
 ### Single-modal Diffusion-generated Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
