@@ -50,7 +50,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FakeAVCeleb|2021|Classification|Visual & Audio|570|25,000+||[Download]()|
-|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2,563|,4380||[Download]()|
+|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2,563|4,380||[Download]()|
 |LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36,431|99,873||[Download]()|
 |DefakeAVMiT|2023|Classification|Visual & Audio|540|6,480||[Download]()|
 |AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286,721|860,039||[Download]()|
