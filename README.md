@@ -66,19 +66,31 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ##### Visual Artifacts
 1. \[arXiv 2024\] Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2403.06803)
 
-(CVPR 2024) Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [Paper](https://arxiv.org/pdf/2312.10461)
+2. \[CVPR 2024\] Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [Paper](https://arxiv.org/pdf/2312.10461)
 
-(CVPR 2021) Multi-attentional Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.pdf) 
+3. \[CVPR 2021\] Multi-attentional Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.pdf) 
 
-(CVPR 2020) Global Texture Enhancement for Fake Face Detection In the Wild [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf)
+4.\[CVPR 2020\] Global Texture Enhancement for Fake Face Detection In the Wild [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf)
 
-(WIFS 2018) Mesonet: a compact facial video forgery detection network [Paper](https://ieeexplore.ieee.org/document/8630761/)
+5. \[WIFS 2018\] Mesonet: a compact facial video forgery detection network [Paper](https://ieeexplore.ieee.org/document/8630761/)
 ##### Consistency-based
 
 #### Advanced Detection
-#### Multi-task Detection
-#### Diffusion Model Detection
+##### Input Level: Data Augmentation
+##### Input Level: Frequency-based
+##### Model Level: Transformer-based
+##### Model Level: VLM-based
+##### Learning Level: Advanced Loss
+##### Learning Level: Disentangled Representation
+##### Learning Level: Reconstruction
+##### Learning Level: Manipulation Localization
+##### Learning Level: Identity Discrepancy
+##### Learning Level: Knowledge Distillation
+##### Learning Level: Fine-grained Prediction
+##### Learning Level: Reasoning
 
+
+##### Diffusion Model Detection
 ### Proactive Detection
 #### Proactive Methods for GANs
 #### Proactive Methods for Diffusion Models
@@ -87,6 +99,12 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ### Audio-Visual Detection
 #### Independent Learning
 #### Joint Learning
+##### Intermediate Fusion: Cross-Attention
+##### Late Fusion: Concatenation & Addition
+##### Late Fusion: Attention
+##### Late Fusion: MLP Mixer Layer
+##### Multi-task Strategy
+##### Regularization
 #### Matching-based Learning
 #### Others
 
@@ -95,6 +113,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
 ### Backdoor Attack
+### Discrepancy Minimization
+### Defense Strategies
 
 ## Other Useful Sources
 
