@@ -24,7 +24,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 
 ## Facial Deepfake Datasets
 ### Single-modal GAN-generated Datasets
-|Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
+|Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FaceForensics++(FF++)|2019|Classification|Visual|1,000|4,000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Download](https://github.com/ondyari/FaceForensics)|
 |DFD|2019|Classification|Visual|363|3,068|[Contributing data to deepfake detection research](https://blog.research.google/2019/09/contributing-datato-deepfake-detection.html)|[Download](https://github.com/ondyari/FaceForensics)|
@@ -46,8 +46,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |DiffusionDB-Face|2024|Classification|Visual|94120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
 |JourneyDB-Face|2024|Classification|Visual|94120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
 |DiFF|2024|Classification|Visual|-|500000|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|[Download](https://github.com/xaCheng1996/DiFF)|
-### Multi-modal Audio-Visual and Text-Visual Datasets
-|Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
+### Multi-modal Audio-Visual Datasets
+|Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FakeAVCeleb|2021|Classification|Visual & Audio|570|25000+||[Download]()|
 |TMC|2022|Classification & Temporal Grounding|Visual & Audio|2563|4380||[Download]()|
@@ -55,6 +55,9 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |DefakeAVMiT|2023|Classification|Visual & Audio|540|6480||[Download]()|
 |AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286721|860039||[Download]()|
 |MMDFD|2023|Classification|Visual & Audio & Text|1500|5000||-|
+
+### Multi-modal Text-Visual Datasets
+|Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
 |DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text||||[Download]()|
 ## Single-modal (Visual) Deepfake Detection
 ### Passive Detection
