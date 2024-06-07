@@ -12,8 +12,11 @@ This repository provides a comprehensive investigation of advanced single-modal 
      - [Single-modal Diffusion-generated Datasets](#single-modal-diffusion-generated-Datasets)
      - [Multi-modal Audio-Visual Datasets](#multi-modal-audio-visual-datasets)
      - [Multi-modal Text-Visual Datasets](#multi-modal-text-visual-Datasets)
-
----
+- [Single-modal (Visual) Deepfake Detection](#single-modal-visual-deepfake-detection)
+     - [Passive Detection](#passive-detection)
+          - [Naive Detection](#naive-detection)
+          - [Advanced Detection](#advanced-detection)
+     - [Proactive Detection](#proactive-detection)
 ## Relevant Surveys
 
 ### Deepfake/AIGC Generation and Detection
