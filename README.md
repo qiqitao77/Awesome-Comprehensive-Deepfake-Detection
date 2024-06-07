@@ -18,7 +18,16 @@ This repository provides a comprehensive investigation of advanced single-modal 
                - [Visual Artifacts](#visual-artifacts)
                - [Consistency-based](#consistency-based)
           - [Advanced Detection](#advanced-detection)
+               - [Input Level](#input-level)
+                    - [Data Augmentation](#data-augmentation)
+                    - [Frequency-based](#frequency-based)
+               - [Model Level](#model-level)
+                    - [Transformer-based](#transformer-based)
+                    - [VLM-based](#vlm-based)
+               - [Learning Level](#learning-level)
      - [Proactive Detection](#proactive-detection)
+          - [Proactive Methods for GANs](#proactive-methods-for-gans)
+          - [Proactive Methods for Diffusion Models](#proactive-methods-for-diffusion-models)
 ## Relevant Surveys
 
 ### Deepfake/AIGC Generation and Detection
