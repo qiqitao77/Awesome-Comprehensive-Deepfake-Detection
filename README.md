@@ -97,7 +97,17 @@ This repository provides a comprehensive investigation of advanced single-modal 
 5. \[CVPR 2022\] Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Self-Supervised_Learning_of_Adversarial_Example_Towards_Good_Generalizations_for_Deepfake_CVPR_2022_paper.pdf)
 6. \[CVPR 2021\] Representative Forgery Mining for Fake Face Detecti [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf)
 7. \[ICCV 2021\] Learning Self-Consistency for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.pdf)
-##### Input Level: Frequency-based
+###### Frequency-based
+1. \[AAAI 2024\]Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Learning [Paper](https://arxiv.org/abs/2403.07240)
+2. \[ICASSP 2024\] Frequency Masking for Universal Deepfake Detection [Paper](https://arxiv.org/abs/2401.06506)
+3. \[CVPR 2023\] Dynamic Graph Learning with Content-guided Spatial-Frequency Relation Reasoning for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Dynamic_Graph_Learning_With_Content-Guided_Spatial-Frequency_Relation_Reasoning_for_Deepfake_CVPR_2023_paper.pdf)
+4. \[AAAI 2022\] FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations [Paper](https://arxiv.org/abs/2202.03347)
+5. \[AAAI 2022\] ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images [Paper](https://arxiv.org/abs/2112.03553)
+6. \[CVPR 2021\] Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain [Paper](https://arxiv.org/abs/2103.01856)
+7. \[CVPR 2021\] Generalizing Face Forgery Detection with High-frequency Features [Paper](https://arxiv.org/abs/2103.12376)
+8. \[CVPR 2021\] Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection [Paper](https://arxiv.org/abs/2103.09096)
+9. \[AAAI 2021\] Local Relation Learning for Face Forgery Detection [Paper](https://arxiv.org/pdf/2105.02577)
+10. \[ECCV 2020\] Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues [Paper](https://arxiv.org/abs/2007.09355)
 ##### Model Level: Transformer-based
 ##### Model Level: VLM-based
 ##### Learning Level: Advanced Loss
