@@ -42,19 +42,19 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |DeepFakeFace|2023|Classification|Visual|30,000|90,000|[Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models](https://arxiv.org/abs/2309.02218)|[Download](https://github.com/OpenRL-Lab/DeepFakeFace)|
-|DiffusionFace|2024|Classification|Visual|30,000|60,0000|[DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis](https://arxiv.org/abs/2403.18471)|[Download](https://github.com/Rapisurazurite/DiffFace)|
-|DiffusionDB-Face|2024|Classification|Visual|94120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
-|JourneyDB-Face|2024|Classification|Visual|94120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
-|DiFF|2024|Classification|Visual|-|500000|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|[Download](https://github.com/xaCheng1996/DiFF)|
+|DiffusionFace|2024|Classification|Visual|30,000|600,000|[DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis](https://arxiv.org/abs/2403.18471)|[Download](https://github.com/Rapisurazurite/DiffFace)|
+|DiffusionDB-Face|2024|Classification|Visual|94,120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
+|JourneyDB-Face|2024|Classification|Visual|94,120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
+|DiFF|2024|Classification|Visual|-|500,000|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|[Download](https://github.com/xaCheng1996/DiFF)|
 ### Multi-modal Audio-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
-|FakeAVCeleb|2021|Classification|Visual & Audio|570|25000+||[Download]()|
-|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2563|4380||[Download]()|
-|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36431|99873||[Download]()|
-|DefakeAVMiT|2023|Classification|Visual & Audio|540|6480||[Download]()|
-|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286721|860039||[Download]()|
-|MMDFD|2023|Classification|Visual & Audio & Text|1500|5000||-|
+|FakeAVCeleb|2021|Classification|Visual & Audio|570|25,000+||[Download]()|
+|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2,563|,4380||[Download]()|
+|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36,431|99,873||[Download]()|
+|DefakeAVMiT|2023|Classification|Visual & Audio|540|6,480||[Download]()|
+|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286,721|860,039||[Download]()|
+|MMDFD|2023|Classification|Visual & Audio & Text|1,500|5,000||-|
 
 ### Multi-modal Text-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
