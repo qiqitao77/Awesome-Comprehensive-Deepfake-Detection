@@ -64,20 +64,30 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ### Passive Detection
 #### Naive Detection
 ##### Visual Artifacts
-1. Non-facial \[CVPR 2024\] Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2312.10461)
+1. **Non-facial** \[CVPR 2024\] Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2312.10461)
 2. \[CVPR 2024\] LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2401.13856)
-3. Non-facial \[arXiv 2024\] Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2403.06803)
-4. Non-facial \[arXiv 2024\] A Single Simple Patch is All You Need for AI-generated Image Detection [Paper](https://arxiv.org/abs/2402.01123)
+3. **Non-facial** \[arXiv 2024\] Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2403.06803)
+4. **Non-facial** \[arXiv 2024\] A Single Simple Patch is All You Need for AI-generated Image Detection [Paper](https://arxiv.org/abs/2402.01123)
 5. \[arXiv 2024\] GenFace: A Large-Scale Fine-Grained Face Forgery Benchmark and Cross Appearance-Edge Learning [Paper](https://arxiv.org/abs/2402.02003)
 6. \[TMM 2023\] GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection [Paper](https://arxiv.org/abs/2211.08615)
 7. Non-facial \[CVPRW 2023\] Intriguing properties of synthetic images: from generative adversarial networks to diffusion models [Paper](https://arxiv.org/abs/2304.06408)
-8. Non-facial, \[arXiv 2023\] Diffusion Noise Feature: Accurate and Fast Generated Image Detection [Paper](https://arxiv.org/pdf/2312.02625)
+8. **Non-facial**, \[arXiv 2023\] Diffusion Noise Feature: Accurate and Fast Generated Image Detection [Paper](https://arxiv.org/pdf/2312.02625)
 9. \[CVPR 2021\] Multi-attentional Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.pdf) 
 10. \[CVPR 2020\] Global Texture Enhancement for Fake Face Detection In the Wild [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Global_Texture_Enhancement_for_Fake_Face_Detection_in_the_Wild_CVPR_2020_paper.pdf)
 11. \[ICCV 2019\] FaceForensics++: Learning to Detect Manipulated Facial Images [Paper](https://arxiv.org/abs/1901.08971)
 12. \[WIFS 2018\] Mesonet: a compact facial video forgery detection network [Paper](https://ieeexplore.ieee.org/document/8630761/)
 ##### Consistency-based
-
+1. \[IJCV 2024\] Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection [Paper](https://arxiv.org/abs/2403.10261)
+2. \[ICCV 2023\] TALL: Thumbnail Layout for Deepfake Video Detection [Paper](https://arxiv.org/abs/2307.07494)
+3. \[\] [Paper]()
+4. \[\] [Paper]()
+5. \[\] [Paper]()
+6. \[\] [Paper]()
+7. \[\] [Paper]()
+8. \[ACM MM Asia 2022\] Latent pattern sensing: Deepfake video detection via predictive representation learning [Paper](https://doi.org/10.1145/3469877.3490586)
+9. \[CVPR 2021\] Lips don’t lie: A generalisable and robust approach to face forgery detection [Paper](https://arxiv.org/abs/2012.07657)
+10. \[ACM MM 2020\] DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms [Paper](https://arxiv.org/abs/2006.07634)
+11. \[WIFS 2018\] In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking [Paper](https://ieeexplore.ieee.org/document/8630787/)
 #### Advanced Detection
 ##### Input Level: Data Augmentation
 ##### Input Level: Frequency-based
