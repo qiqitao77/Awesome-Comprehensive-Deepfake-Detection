@@ -27,7 +27,28 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |Dataset|Year|Task|Manipulated Modality|\# of real |\# of fake|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |FaceForensics++(FF++)|2019|Classification|V|1000|4000|[FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)|[Link](https://github.com/ondyari/FaceForensics)|
-
+|DFD|2019|Classification|Visual|363|3068|||
+|FaceShifter|2020|Classification|Visual|-|1000|||
+|DFDC|2020|Classification|Visual|23654|104500|||
+|Celeb-DF|2020|Classification|Visual|590|5639|||
+|DeeperForensics-1.0|2020|Classification|Visual|||||
+|WildDeepfake|2020|Classification|Visual|3805|3509|||
+|KoDF|2020|Classification|Visual|50000|10000|||
+|FFIW_10k|2021|Classification & Spatial Grounding|Visual|10000|10000|||
+|ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99630|121617|||
+|DF-Platter|2023|Classification|Visual|133260|132496|||
+|DeepFakeFace|2023|Classification|Visual|30000|90000|||
+|DiffusionFace|2024|Classification|Visual|30000|600000|||
+|DiffusionDB-Face|2024|Classification|Visual|94120|24794|||
+|JourneyDB-Face|2024|Classification|Visual|94120|87833|||
+|Diff|2024|Classification|Visual|-|500000|||
+|FakeAVCeleb|2021|Classification|Visual & Audio|570|25000+|||
+|TMC|2022|Classification & Temporal Grounding|Visual & Audio|2563|4380|||
+|LAV-DF|2022|Classification & Temporal Grounding|Visual & Audio|36431|99873|||
+|DefakeAVMiT|2023|Classification|Visual & Audio|540|6480|||
+|AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286721|860039|||
+|MMDFD|2023|Classification|Visual & Audio & Text|1500|5000||-|
+|DGM4|2023|Classification & Spatial Grounding & Text Grounding|Visual & Text|||||
 ### Single-modal GAN-generated Datasets
 
 ### Single-modal Diffusion-generated Datasets
