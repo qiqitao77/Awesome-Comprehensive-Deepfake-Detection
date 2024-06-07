@@ -30,10 +30,9 @@ This repository provides a comprehensive investigation of advanced single-modal 
 |DFD|2019|Classification|Visual|363|3068|[Contributing data to deepfake detection research](https://blog.research.google/2019/09/contributing-datato-deepfake-detection.html)|[Link](https://github.com/ondyari/FaceForensics)|
 |FaceShifter|2020|Classification|Visual|-|1000|[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)|[Link](https://github.com/ondyari/FaceForensics)|
 |DFDC|2020|Classification|Visual|23654|104500|[The DeepFake Detection Challenge (DFDC) Dataset](https://arxiv.org/abs/2006.07397)|[Link](https://ai.meta.com/datasets/dfdc/)|
-|Celeb-DF|2020|Classification|Visual|590|5639|[Celeb-df: A large-scale
-challenging dataset for deepfake forensics](https://arxiv.org/abs/1909.12962)|[Link](https://github.com/yuezunli/celeb-deepfakeforensics)|
-|DeeperForensics-1.0|2020|Classification|Visual|||||
-|WildDeepfake|2020|Classification|Visual|3805|3509|||
+|Celeb-DF|2020|Classification|Visual|590|5639|[Celeb-df: A large-scale challenging dataset for deepfake forensics](https://arxiv.org/abs/1909.12962)|[Link](https://github.com/yuezunli/celeb-deepfakeforensics)|
+|DeeperForensics-1.0|2020|Classification|Visual|50000|10000|[DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection](https://www.arxiv.org/abs/2001.03024)|[Link](https://github.com/EndlessSora/DeeperForensics-1.0)|
+|WildDeepfake|2020|Classification|Visual|3805|3509|[WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection](https://dl.acm.org/doi/10.1145/3394171.3413769)|[Link](https://github.com/deepfakeinthewild/deepfake-in-the-wild)|
 |KoDF|2020|Classification|Visual|50000|10000|||
 |FFIW_10k|2021|Classification & Spatial Grounding|Visual|10000|10000|||
 |ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99630|121617|||
