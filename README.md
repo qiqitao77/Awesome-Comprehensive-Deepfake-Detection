@@ -314,13 +314,13 @@ This repository provides a comprehensive investigation of advanced single-modal 
 8. \[ACM MM 2020\] FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction [Paper](https://arxiv.org/abs/2006.07533)
 9. \[arXiv 2020\] FakeRetouch: Evading DeepFakes Detection via the Guidance of Deliberate Noise [Paper](https://arxiv.org/abs/2009.09213v1)
 ### Defense Strategies
-1. \[\] [Paper]()
-2. \[\] [Paper]()
-3. \[\] [Paper]()
-4. \[\] [Paper]()
-5. \[\] [Paper]()
-6. \[\] [Paper]()
-7. \[\] [Paper]()
-8. \[\] [Paper]()
+1. \[WACV 2024\] D4: Detection of Adversarial Diffusion Deepfakes Using Disjoint Ensembles [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Hooda_D4_Detection_of_Adversarial_Diffusion_Deepfakes_Using_Disjoint_Ensembles_WACV_2024_paper.pdf)
+2. \[TIFS 2024\] DF-RAP: A Robust Adversarial Perturbation for Defending Against Deepfakes in Real-World Social Network Scenarios [Paper](https://ieeexplore.ieee.org/document/10458678)
+3. \[ICMM 2024\] Adversarially Robust Deepfake Detection via Adversarial Feature Similarity Learning [Paper](https://arxiv.org/abs/2403.08806)
+4. \[arXiv 2024\] XAI-Based Detection of Adversarial Attacks on Deepfake Detectors [Paper](https://arxiv.org/abs/2403.02955)
+5. \[FG 2023\] FaceGuard: A Self-Supervised Defense Against Adversarial Face Images [Paper](https://doi.ieeecomputersociety.org/10.1109/FG57933.2023.10042617)
+6. \[IEEE Symposium Series on Computational Intelligence 2022\] Adversarially Robust Deepfake Video Detection [Paper](https://ieeexplore.ieee.org/document/10022079/)
+7. \[Journal of Electronic Imaging 2021\] EnsembleDet: ensembling against adversarial attack on deepfake detection [Paper](https://doi.org/10.1117/1.JEI.30.6.063030)
+8. \[arXiv 2021\] Adversarially robust deepfake media detection using fused convolutional neural network predictions [Paper](https://arxiv.org/abs/2102.05950)
 
 
