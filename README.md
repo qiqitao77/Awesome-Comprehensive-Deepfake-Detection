@@ -17,19 +17,30 @@ This repository provides a comprehensive investigation of advanced single-modal 
 - [Single-modal (Visual) Deepfake Detection](#single-modal-visual-deepfake-detection)
      - [Passive Detection](#passive-detection)
           - [Naive Detection](#naive-detection)
-               - [Visual Artifacts](#visual-artifacts)
-               - [Consistency-based](#consistency-based)
           - [Advanced Detection](#advanced-detection)
                - [Input Level](#input-level)
-                    - [Data Augmentation](#data-augmentation)
-                    - [Frequency-based](#frequency-based)
                - [Model Level](#model-level)
-                    - [Transformer-based](#transformer-based)
-                    - [VLM-based](#vlm-based)
                - [Learning Level](#learning-level)
+          - [Diffusion Model Detection](#diffusion-model-detection)
      - [Proactive Detection](#proactive-detection)
           - [Proactive Methods for GANs](#proactive-methods-for-gans)
           - [Proactive Methods for Diffusion Models](#proactive-methods-for-diffusion-models)
+- [Multi-modal Deepfake Detection](#multi-modal-deepfake-detection)
+     - [Audio-Visual Deepfake Detection](#audio-visual-deepfake-detection)
+          - [Independent Learning](#independent-learning)
+          - [Joint Learning](#joint-learning)
+               - [Intermediate Fusion](#intermediate-fusion)
+               - [Late Fusion](#late-fusion)
+               - [Multi-task Strategy](#multi-task-strategy)
+               - [Regularization](#regularization)
+          - [Matching-based Learning](#matching-based-learning)
+          - [Others](#others)
+     - [Text-Visual Deepfake Detection](#text-visual-deepfake-detection)
+- [Trustworthy Deepfake Detection](#trustworthy-deepfake-detection)
+     - [Adversarial Attack](#adversarail-attack)
+     - [Backdoor Attack](#backdoor-attack)
+     - [Discrepancy Minimization](#discrepancy-minimization)
+     - [Defense Strategies](#defense-strategies)
 ## Relevant Surveys
 
 ### Deepfake/AIGC Generation and Detection
@@ -227,8 +238,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 5. \[arXiv 2023\] **Non-facial**A Recipe for Watermarking Diffusion Models [Paper](https://arxiv.org/abs/2303.10137)
 6. \[arXiv 2023\] LEAT: Towards Robust Deepfake Disruption in Real-World Scenarios via Latent Ensemble Attack [Paper](https://arxiv.org/abs/2307.01520)
 
-## Multi-modal Audio-Visual Deepfake Detection
-### Audio-Visual Detection
+## Multi-modal Deepfake Detection
+### Audio-Visual Deepfake Detection
 #### Independent Learning
 1. \[Applied Soft Computing 2023\] AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623001424)
 2. \[APSIPA ASC 2022\] Multimodal Forgery Detection Using Ensemble Learning [Paper](https://ieeexplore.ieee.org/document/9980255)
@@ -240,6 +251,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 1. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
 2. \[arXiv 2022\] An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection [Paper](https://arxiv.org/abs/2203.05178)
 3. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
+##### Late Fusion
 ###### Concatenation & Addition
 1. \[arXiv 2024\] Integrating Audio-Visual Features for Multimodal Deepfake Detection [Paper](https://arxiv.org/pdf/2310.03827)
 2. \[arXiv 2024\] AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies [Paper](https://arxiv.org/abs/2403.14974)
@@ -274,7 +286,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 3. \[TCSVT 2023\] PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection [Paper](https://ieeexplore.ieee.org/document/10233898)
 4. \[CVPRW 2023\] Audio-Visual Person-of-Interest DeepFake Detection [Paper](https://arxiv.org/abs/2301.01767)
 
-## Multi-modal Visual-Text Deepfake Detection
+## Visual-Text Deepfake Detection
 1. \[TPAMI 2024\] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [Paper](https://arxiv.org/abs/2309.14203)
 2. \[ICASSP 2024\] Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper](https://arxiv.org/abs/2309.12657)
 3. \[ICME 2024\] Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts [Paper](https://arxiv.org/abs/2404.08341)
