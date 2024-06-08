@@ -230,18 +230,53 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ## Multi-modal Audio-Visual Deepfake Detection
 ### Audio-Visual Detection
 #### Independent Learning
+1. \[Applied Soft Computing 2023\] AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623001424)
+2. \[APSIPA ASC 2022\] Multimodal Forgery Detection Using Ensemble Learning [Paper](https://ieeexplore-ieee-org/document/9980255)
+3. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
+4. \[ACM MMW 2021\] Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors [Paper](https://arxiv.org/abs/2109.02993)
 #### Joint Learning
 ##### Intermediate Fusion: Cross-Attention
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
 ##### Late Fusion: Concatenation & Addition
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
+4. \[\] [Paper]()
+5. \[\] [Paper]()
+6. \[\] [Paper]()
+7. \[\] [Paper]()
 ##### Late Fusion: Attention
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
 ##### Late Fusion: MLP Mixer Layer
+1. \[\] [Paper]()
 ##### Multi-task Strategy
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
+4. \[\] [Paper]()
+5. \[\] [Paper]()
 ##### Regularization
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
+4. \[\] [Paper]()
 #### Matching-based Learning
+1. \[\] [Paper]()
+2. \[\] [Paper]()
 #### Others
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
+4. \[\] [Paper]()
 
 ## Multi-modal Visual-Text Deepfake Detection
-
+1. \[\] [Paper]()
+2. \[\] [Paper]()
+3. \[\] [Paper]()
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
 ### Backdoor Attack
