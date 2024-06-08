@@ -205,6 +205,20 @@ This repository provides a comprehensive investigation of advanced single-modal 
 7. \[ICMLW 2023\] Exposing the Fake: Effective Diffusion-Generated Images Detection [Paper](https://arxiv.org/abs/2307.06272)
 ### Proactive Detection
 #### Proactive Methods for GANs
+1. \[IJCAI 2024\] Are Watermarks Bugs for Deepfake Detectors? Rethinking Proactive Forensics [Paper](https://arxiv.org/abs/2404.17867)
+2. \[TIFS 2024\] Dual Defense: Adversarial, Traceable, and Invisible Robust Watermarking against Face Swapping [Paper](https://arxiv.org/abs/2310.16540)
+3. \[CVPR 2023\] **Non-facial, seems proactive** MaLP: Manipulation Localization Using a Proactive Scheme [Paper](https://arxiv.org/abs/2303.16976)
+4. \[ACM MM 2023\] SepMark: Deep Separable Watermarking for Unified Source Tracing and Deepfake Detection [Paper](https://arxiv.org/abs/2305.06321)
+5. \[arXiv 2023\] Feature Extraction Matters More: Universal Deepfake Disruption through Attacking Ensemble Feature Extractors [Paper](https://arxiv.org/abs/2303.00200)
+6. \[arXiv 2023\] Robust Identity Perceptual Watermark Against Deepfake Face Swapping [Paper](https://arxiv.org/abs/2311.01357)
+7. \[CVPR 2022\] **Non-facial**Proactive Image Manipulation Detection [Paper](https://arxiv.org/abs/2203.15880)
+8. \[ICLR 2022\] Responsible Disclosure of Generative Models Using Scalable Fingerprinting [Paper](https://arxiv.org/abs/2012.08726)
+9. \[ECCV 2022\] TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations [Paper](https://arxiv.org/abs/2112.09151)
+10. \[AAAI 2022\] CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfake [Paper](https://arxiv.org/pdf/2105.10872)
+11. \[IJCAI 2022\] Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations [Paper](https://arxiv.org/abs/2206.00477)
+12. \[AAAI 2021\] Initiative Defense against Facial Manipulation [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16254)
+13. \[CVPRW 2020\] Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [Paper](https://arxiv.org/abs/2003.01279)
+14. \[WACVW 2020\] Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks [Paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w4/Yeh_Disrupting_Image-Translation-Based_DeepFake_Algorithms_with_Adversarial_Attacks_WACVW_2020_paper.pdf)
 #### Proactive Methods for Diffusion Models
 1. \[ICLR 2024\] **Non-facial**DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models [Paper](https://arxiv.org/abs/2307.03108)
 2. \[NeurIPSW 2024\] **Non-facial** DiffusionShield: A Watermark for Data Copyright Protection against Generative Diffusion Models [Paper](https://arxiv.org/pdf/2306.04642)
