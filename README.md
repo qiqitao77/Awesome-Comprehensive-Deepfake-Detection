@@ -255,11 +255,11 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ###### MLP Mixer Layer
 1. \[CVPRW 2023\] Multimodaltrace: Deepfake Detection using Audiovisual Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Raza_Multimodaltrace_Deepfake_Detection_Using_Audiovisual_Representation_Learning_CVPRW_2023_paper.pdf)
 ##### Multi-task Strategy
-1. \[\] [Paper]()
-2. \[\] [Paper]()
-3. \[\] [Paper]()
-4. \[\] [Paper]()
-5. \[\] [Paper]()
+1. \[ICME 2024\] Explicit Correlation Learning for Generalizable Cross-Modal Deepfake Detection [Paper](https://arxiv.org/abs/2404.19171)
+2. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
+3. \[CVPRW 2023\] Multimodaltrace: Deepfake Detection using Audiovisual Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Raza_Multimodaltrace_Deepfake_Detection_Using_Audiovisual_Representation_Learning_CVPRW_2023_paper.pdf)
+4. \[arXiv 2024\] Integrating Audio-Visual Features for Multimodal Deepfake Detection [Paper](https://arxiv.org/pdf/2310.03827)
+5. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
 ##### Regularization
 1. \[ICASSP 2024\] Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection [Paper](https://arxiv.org/abs/2401.05746)
 2. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
@@ -275,10 +275,10 @@ This repository provides a comprehensive investigation of advanced single-modal 
 4. \[CVPRW 2023\] Audio-Visual Person-of-Interest DeepFake Detection [Paper](https://arxiv.org/abs/2301.01767)
 
 ## Multi-modal Visual-Text Deepfake Detection
-1. \[\] [Paper]()
-2. \[\] [Paper]()
-3. \[\] [Paper]()
-4. \[\] [Paper]()
+1. \[ICASSP 2024\] Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper](https://arxiv.org/abs/2309.12657)
+2. \[arXiv 2023\] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
+3. \[TPAMI 2023\] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [Paper](https://arxiv.org/abs/2309.14203)
+4. \[CVPR 2023\] Detecting and Grounding Multi-Modal Media Manipulation [Paper](https://arxiv.org/abs/2304.02556)
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
 ### Backdoor Attack
