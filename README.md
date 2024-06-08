@@ -275,9 +275,9 @@ This repository provides a comprehensive investigation of advanced single-modal 
 4. \[CVPRW 2023\] Audio-Visual Person-of-Interest DeepFake Detection [Paper](https://arxiv.org/abs/2301.01767)
 
 ## Multi-modal Visual-Text Deepfake Detection
-1. \[ICASSP 2024\] Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper](https://arxiv.org/abs/2309.12657)
-2. \[arXiv 2023\] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
-3. \[TPAMI 2023\] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [Paper](https://arxiv.org/abs/2309.14203)
+1. \[TPAMI 2024\] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [Paper](https://arxiv.org/abs/2309.14203)
+2. \[ICASSP 2024\] Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper](https://arxiv.org/abs/2309.12657)
+3. \[arXiv 2023\] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
 4. \[CVPR 2023\] Detecting and Grounding Multi-Modal Media Manipulation [Paper](https://arxiv.org/abs/2304.02556)
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
