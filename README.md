@@ -41,6 +41,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
      - [Backdoor Attack](#backdoor-attack)
      - [Discrepancy Minimization](#discrepancy-minimization)
      - [Defense Strategies](#defense-strategies)
+---
 ## Relevant Surveys
 
 ### Deepfake/AIGC Generation and Detection
@@ -238,6 +239,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 5. \[arXiv 2023\] **Non-facial**A Recipe for Watermarking Diffusion Models [Paper](https://arxiv.org/abs/2303.10137)
 6. \[arXiv 2023\] LEAT: Towards Robust Deepfake Disruption in Real-World Scenarios via Latent Ensemble Attack [Paper](https://arxiv.org/abs/2307.01520)
 
+---
 ## Multi-modal Deepfake Detection
 ### Audio-Visual Deepfake Detection
 #### Independent Learning
@@ -292,6 +294,8 @@ This repository provides a comprehensive investigation of advanced single-modal 
 3. \[ICME 2024\] Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts [Paper](https://arxiv.org/abs/2404.08341)
 4. \[arXiv 2023\] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
 5. \[CVPR 2023\] Detecting and Grounding Multi-Modal Media Manipulation [Paper](https://arxiv.org/abs/2304.02556)
+
+---
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
 1. \[AAAI 2024\] TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29973)
