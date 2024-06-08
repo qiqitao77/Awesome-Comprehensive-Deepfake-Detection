@@ -176,11 +176,25 @@ This repository provides a comprehensive investigation of advanced single-modal 
 4. \[TPAMI 2021\] DeepFake Detection Based on Discrepancies Between Faces and Their Context [Paper](https://ieeexplore.ieee.org/document/9468380)
 5. \[ICCV 2021\] ID-Reveal: Identity-aware DeepFake Video Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf)
 ##### Learning Level: Knowledge Distillation
+1. \[arXiv 2023\] DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation [Paper](https://arxiv.org/pdf/2312.10680)
+2. \[AAAI 2022\] ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images [Paper[(https://arxiv.org/abs/2112.03553)
+3. \[ACM MM 2021\] CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation [Paper](https://arxiv.org/abs/2107.02408)
+4. \[CVPRW 2021\] FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning [Paper](https://arxiv.org/abs/2105.13617)
+5. \[Journal of Mathematical Imaging and Vision 2015\] Sliced and Radon Wasserstein Barycenters of Measures [Paper](https://link.springer.com/article/10.1007/s10851-014-0506-3)
 ##### Learning Level: Fine-grained Prediction
+1. \[ToMM 2024\] **Include facial data, no focused on facial detection**Mastering Deepfake Detection: A Cutting-Edge Approach to Distinguish GAN and Diffusion-Model Images [Paper](https://dl.acm.org/doi/10.1145/3652027)
+2. \[CVPR 2023\] Hierarchical Fine-Grained Image Forgery Detection and Localization [Paper](https://arxiv.org/abs/2303.17111)
+3. \[ICCV 2023\] Controllable Guide-Space for Generalizable Face Forgery Detection [Paper](https://arxiv.org/abs/2307.14039)
 ##### Learning Level: Reasoning
-
+1. \[arXiv 2024\] FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models [Paper](https://arxiv.org/abs/2404.13306)
+2. \[arXiv 2024\] Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics [Paper](https://arxiv.org/abs/2403.14077)
+3. \[arXiv 2024\] SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models [Paper](https://arxiv.org/abs/2402.04178)
+4. \[arXiv 2024\] Common Sense Reasoning for Deep Fake Detection [Paper](https://arxiv.org/abs/2402.00126)
+5. \[ACM ICMRW 2024\] Towards Quantitative Evaluation of Explainable AI Methods for Deepfake Detection [Paper](https://arxiv.org/abs/2404.18649)
+6. \[arXiv 2023\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/abs/2307.16545)
 
 ##### Diffusion Model Detection
+
 ### Proactive Detection
 #### Proactive Methods for GANs
 #### Proactive Methods for Diffusion Models
