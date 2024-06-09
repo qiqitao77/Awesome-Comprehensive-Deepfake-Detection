@@ -153,14 +153,15 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ###### Transformer-based
 1. \[arXiv 2024\] A Timely Survey on Vision Transformer for Deepfake Detection [Paper](https://arxiv.org/abs/2405.08463)
 2. \[arXiv 2024\] Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis [Paper](https://arxiv.org/abs/2405.00355)
-###### VLM-based
-1. \[arXive 2024\] Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model [Paper](https://arxiv.org/abs/2404.05583)
-2. \[arxiv 2023\] Forgery-aware Adaptive Vision Transformer for Face Forgery Detection [Paper](https://arxiv.org/abs/2309.11092)
 3. \[arXiv 2024\] Mixture of Low-rank Experts for Transferable AI-Generated Image Detection [Paper](https://arxiv.org/abs/2404.04883)
 4. \[arXiv 2024\] MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection [Paper](https://arxiv.org/abs/2404.08452)
 5. \[CVPR 2023\] AUNet: Learning Relations Between Action Units for Face Forgery Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)
 6. \[ICCVW 2023\] Undercover Deepfakes: Detecting Fake Segments in Video [Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Saha_Undercover_Deepfakes_Detecting_Fake_Segments_in_Videos_ICCVW_2023_paper.pdf)
 7. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
+###### VLM-based
+1. \[arXive 2024\] Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model [Paper](https://arxiv.org/abs/2404.05583)
+2. \[arxiv 2023\] Forgery-aware Adaptive Vision Transformer for Face Forgery Detection [Paper](https://arxiv.org/abs/2309.11092)
+
 ##### Learning Level
 ###### Advanced Loss
 1. \[ToMM 2024\] Domain-invariant and Patch-discriminative Feature Learning for General Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3657297)
