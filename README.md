@@ -1,4 +1,4 @@
-# Comprehensive Advances in Deepfake Detection Spanning Diverse Modalities
+# Awesome Comprehensive Deepfake Detection
 
 ![Awesome](https://awesome.re/badge.svg)
 
