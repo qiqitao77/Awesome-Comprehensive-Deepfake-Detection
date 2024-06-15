@@ -339,4 +339,6 @@ This repository provides a comprehensive investigation of advanced single-modal 
 7. \[Journal of Electronic Imaging 2021\] EnsembleDet: ensembling against adversarial attack on deepfake detection [Paper](https://doi.org/10.1117/1.JEI.30.6.063030)
 8. \[arXiv 2021\] Adversarially robust deepfake media detection using fused convolutional neural network predictions [Paper](https://arxiv.org/abs/2102.05950)
 
-
+---
+## Efficient Deepfake Detection
+1. \[arXiv 2024\] Real-Time Deepfake Detection in the Real-World [Paper](https://arxiv.org/abs/2406.09398.pdf)
