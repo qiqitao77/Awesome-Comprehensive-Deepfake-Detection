@@ -342,3 +342,4 @@ This repository provides a comprehensive investigation of advanced single-modal 
 ---
 ## Efficient Deepfake Detection
 1. \[arXiv 2024\] Real-Time Deepfake Detection in the Real-World [Paper](https://arxiv.org/abs/2406.09398.pdf)
+2. \[CVPR 2024 DFAD Workshop\] Faster than lies: Real-time deepfake detection using binary neural networks [Paper](https://arxiv.org/abs/2406.04932)
