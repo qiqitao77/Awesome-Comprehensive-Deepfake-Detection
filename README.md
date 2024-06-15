@@ -4,6 +4,8 @@
 
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection.
 
+If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu) or raise an issue. Your contributions are invaluable to ensuring the completeness and accuracy of our resource.
+
 ## Content
 ---
 - [Relevant Surveys](#relevant-surveys)
