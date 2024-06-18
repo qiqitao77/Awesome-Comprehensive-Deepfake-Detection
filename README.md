@@ -353,4 +353,5 @@ If you believe there are additional works that should be included in our list, p
 ## Privacy-aware Deepfake Detection
 1. \[arXiv 2024\] Federated Face Forgery Detection Learning with Personalized Representation [Paper](https://arxiv.org/html/2406.11145v1)
 2. \[TIFS 2023\] FedForgery: generalized face forgery detection with residual federated learning [Paper](https://arxiv.org/abs/2210.09563)
+3. \[2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)\] Deepfake Detection with Data Privacy Protection [Paper](https://ieeexplore.ieee.org/document/9949458)
 
