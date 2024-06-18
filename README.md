@@ -348,3 +348,8 @@ If you believe there are additional works that should be included in our list, p
 ## Efficient Deepfake Detection
 1. \[arXiv 2024\] Real-Time Deepfake Detection in the Real-World [Paper](https://arxiv.org/abs/2406.09398.pdf)
 2. \[CVPR 2024 DFAD Workshop\] Faster than lies: Real-time deepfake detection using binary neural networks [Paper](https://arxiv.org/abs/2406.04932)
+
+---
+## Privacy-aware Deepfake Detection
+1. \[TIFS 2023\] FedForgery: generalized face forgery detection with residual federated learning [Paper](https://arxiv.org/abs/2210.09563)
+2. \[arXiv 2024\] Federated Face Forgery Detection Learning with Personalized Representation [Paper](https://arxiv.org/html/2406.11145v1)
