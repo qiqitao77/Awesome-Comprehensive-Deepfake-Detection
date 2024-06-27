@@ -123,15 +123,16 @@ If you believe there are additional works that should be included in our list, p
 ##### Consistencies-based
 1. \[IJCV 2024\] Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection [Paper](https://arxiv.org/abs/2403.10261)
 2. \[arxiv 2024\] Compressed Deepfake Video Detection Based on 3D Spatiotemporal Trajectories [Paper](https://arxiv.org/abs/2404.18149)
-3. \[ICCV 2023\] TALL: Thumbnail Layout for Deepfake Video Detection [Paper](https://arxiv.org/abs/2307.07494)
-4. \[CVPR 2023\] AltFreezing for More General Video Face Forgery Detection [Paper](https://arxiv.org/abs/2307.08317)
-5. \[TCSVT 2023\] MRE-Net: Multi-Rate Excitation Network for Deepfake Video Detection [Paper](https://ieeexplore.ieee.org/document/10025759)
-6. \[WACV 2023\] TI2Net: Temporal Identity Inconsistency Network for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf)
-7. \[ACM MM Asia 2022\] Latent pattern sensing: Deepfake video detection via predictive representation learning [Paper](https://doi.org/10.1145/3469877.3490586)
-8. \[CVPR 2021\] Lips don’t lie: A generalisable and robust approach to face forgery detection [Paper](https://arxiv.org/abs/2012.07657)
-9. \[ICCV 2021\] Exploring Temporal Coherence for More General Video Face Forgery Detection [Paper](https://arxiv.org/abs/2108.06693)
-10. \[ACM MM 2020\] DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms [Paper](https://arxiv.org/abs/2006.07634)
-11. \[WIFS 2018\] In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking [Paper](https://ieeexplore.ieee.org/document/8630787/)
+3. \[AAAI 2023\] Noise based deepfake detection via multi-head relative-interaction [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26701/26473)
+4. \[ICCV 2023\] TALL: Thumbnail Layout for Deepfake Video Detection [Paper](https://arxiv.org/abs/2307.07494)
+5. \[CVPR 2023\] AltFreezing for More General Video Face Forgery Detection [Paper](https://arxiv.org/abs/2307.08317)
+6. \[TCSVT 2023\] MRE-Net: Multi-Rate Excitation Network for Deepfake Video Detection [Paper](https://ieeexplore.ieee.org/document/10025759)
+7. \[WACV 2023\] TI2Net: Temporal Identity Inconsistency Network for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf)
+8. \[ACM MM Asia 2022\] Latent pattern sensing: Deepfake video detection via predictive representation learning [Paper](https://doi.org/10.1145/3469877.3490586)
+9. \[CVPR 2021\] Lips don’t lie: A generalisable and robust approach to face forgery detection [Paper](https://arxiv.org/abs/2012.07657)
+10. \[ICCV 2021\] Exploring Temporal Coherence for More General Video Face Forgery Detection [Paper](https://arxiv.org/abs/2108.06693)
+11. \[ACM MM 2020\] DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms [Paper](https://arxiv.org/abs/2006.07634)
+12. \[WIFS 2018\] In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking [Paper](https://ieeexplore.ieee.org/document/8630787/)
 #### Advanced Detection
 ##### Input Level
 ###### Data Augmentation
