@@ -21,7 +21,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
   <sup>3</sup><a href="https://www.catos.sg/"> Centre for Advanced Technologies in Online Safety (CATOS)</a>
 </p>
 
-If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu / tao.qiqi@outlook.com) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness and accuracy of our resource.
+If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu / tao.qiqi@outlook.com/zhouty@cfar.a-star.edu.sg) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness and accuracy of our resource.
 
 ## Content
 ---
