@@ -2,9 +2,9 @@
 
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection elaborated in the following survey.
 
-<p align="center">
+<p align="center" style="font-size:20px;">
   Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey
-  <a href="https://arxiv.org/abs/2406.06965"><img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=red' alt='arXiv PDF'></a>
+  <a href="https://arxiv.org/abs/2406.06965"><img src='https://img.shields.io/badge/arXiv-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='arXiv PDF'></a>
 </p>
 <p align="center">
   <a href="https://pinglmlcv.github.io/pingliu264/">Ping Liu<sup>1</sup></a>
