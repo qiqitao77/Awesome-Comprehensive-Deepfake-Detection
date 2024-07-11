@@ -14,7 +14,9 @@ This repository provides a comprehensive investigation of advanced single-modal 
 </p>
 
 <p align="center">
-    <sup>1</sup>University of Nevada, Reno&nbsp;&nbsp; <sup>2</sup><a href="https://www.a-star.edu.sg/cfar/home">Centre for Frontier AI Research (CFAR), A*STAR</a>&nbsp;&nbsp; <sup>3</sup><a href="https://www.catos.sg/"> Centre for Advanced Technologies in Online Safety (CATOS)</a>
+  <sup>1</sup><a href="https://www.unr.edu/cse">University of Nevada, Reno</a><br>
+  <sup>2</sup><a href="https://www.a-star.edu.sg/cfar/home">Centre for Frontier AI Research (CFAR), A*STAR</a><br>
+  <sup>3</sup><a href="https://www.catos.sg/"> Centre for Advanced Technologies in Online Safety (CATOS)</a>
 </p>
 
 If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu / tao.qiqi@outlook.com) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness and accuracy of our resource.
