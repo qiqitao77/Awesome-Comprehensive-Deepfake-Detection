@@ -21,7 +21,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
   <sup>3</sup><a href="https://www.catos.sg/"> Centre for Advanced Technologies in Online Safety (CATOS)</a>
 </p>
 
-If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu / tao.qiqi@outlook.com/zhouty@cfar.a-star.edu.sg) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness and accuracy of our resource.
+If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu/tao.qiqi@outlook.com/zhouty@cfar.a-star.edu.sg) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness and accuracy of our resource.
 
 ## Content
 ---
@@ -114,6 +114,7 @@ If you believe there are additional works that should be included in our list, p
 |DefakeAVMiT|2023|Classification|Visual & Audio|540|6,480|[AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake](https://doi.org/10.1109/TIFS.2023.3262148)|-|
 |AV-Deepfake1M|2023|Classification & Temporal Grounding|Visual & Audio|286,721|860,039|[AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset](https://arxiv.org/abs/2311.15308)|[Download](https://github.com/ControlNet/AV-Deepfake1M)|
 |MMDFD|2023|Classification|Visual & Audio & Text|1,500|5,000|[MMDFD- A Multimodal Custom Dataset for Deepfake Detection](https://doi.org/10.1145/3607947.3608013)|-|
+|PolyGlotFake|2024|Classification|Visual & Audio & Text|766|14,472|[PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset](https://arxiv.org/abs/2405.08838)|[Download](https://github.com/tobuta/PolyGlotFake)|
 
 ### Multi-modal Text-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
