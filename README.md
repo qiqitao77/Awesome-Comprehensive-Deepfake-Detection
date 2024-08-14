@@ -291,10 +291,11 @@ If you believe there are additional works that should be included in our list, p
 #### Joint Learning
 ##### Intermediate Fusion
 ###### Cross-Attention
-1. \[arXiv 2024\] Contextual Cross-Modal Attention for Audio-Visual Deepfake Detection and Localization [Paper](https://arxiv.org/abs/2408.01532v1) 
-2. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
-3. \[arXiv 2022\] An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection [Paper](https://arxiv.org/abs/2203.05178)
-4. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
+1. \[BMVC 2024\] Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies [Paper](https://www.arxiv.org/abs/2408.06753)
+2. \[arXiv 2024\] Contextual Cross-Modal Attention for Audio-Visual Deepfake Detection and Localization [Paper](https://arxiv.org/abs/2408.01532v1) 
+3. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
+4. \[arXiv 2022\] An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection [Paper](https://arxiv.org/abs/2203.05178)
+5. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
 ##### Late Fusion
 ###### Concatenation & Addition
 1. \[arXiv 2024\] Integrating Audio-Visual Features for Multimodal Deepfake Detection [Paper](https://arxiv.org/pdf/2310.03827)
