@@ -189,16 +189,17 @@ If you believe there are additional works that should be included in our list, p
 7. \[ICCVW 2023\] Undercover Deepfakes: Detecting Fake Segments in Video [Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Saha_Undercover_Deepfakes_Detecting_Fake_Segments_in_Videos_ICCVW_2023_paper.pdf)
 8. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
 ###### VLM-based
-1. \[arXiv 2024\] C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2408.09647v1)
-2. \[arXiv 2024\] GM-DF: Generalized Multi-Scenario Deepfake Detection [Paper](https://arxiv.org/pdf/2406.20078)
-3. \[arXiv 2024\] Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model [Paper](https://arxiv.org/abs/2404.05583)
-4. \[arXiv 2024\] FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models [Paper](https://arxiv.org/abs/2404.13306)
-5. \[CVPR Workshop 2024\] Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics [Paper](https://arxiv.org/abs/2403.14077)
-6. \[arXiv 2024\] SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models [Paper](https://arxiv.org/abs/2402.04178)
-7. \[arXiv 2024\] Common Sense Reasoning for Deep Fake Detection [Paper](https://arxiv.org/abs/2402.00126)
-8. \[ACM ICMRW 2024\] Towards Quantitative Evaluation of Explainable AI Methods for Deepfake Detection [Paper](https://arxiv.org/abs/2404.18649)
-9. \[arxiv 2023\] Forgery-aware Adaptive Vision Transformer for Face Forgery Detection [Paper](https://arxiv.org/abs/2309.11092)
-10. \[arXiv 2023\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/abs/2307.16545)
+1. \[arXiv 2024\] FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant [Paper](https://www.arxiv.org/abs/2408.10072)
+2. \[arXiv 2024\] C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2408.09647v1)
+3. \[arXiv 2024\] GM-DF: Generalized Multi-Scenario Deepfake Detection [Paper](https://arxiv.org/pdf/2406.20078)
+4. \[arXiv 2024\] Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model [Paper](https://arxiv.org/abs/2404.05583)
+5. \[arXiv 2024\] FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models [Paper](https://arxiv.org/abs/2404.13306)
+6. \[CVPR Workshop 2024\] Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics [Paper](https://arxiv.org/abs/2403.14077)
+7. \[arXiv 2024\] SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models [Paper](https://arxiv.org/abs/2402.04178)
+8. \[arXiv 2024\] Common Sense Reasoning for Deep Fake Detection [Paper](https://arxiv.org/abs/2402.00126)
+9. \[ACM ICMRW 2024\] Towards Quantitative Evaluation of Explainable AI Methods for Deepfake Detection [Paper](https://arxiv.org/abs/2404.18649)
+10. \[arxiv 2023\] Forgery-aware Adaptive Vision Transformer for Face Forgery Detection [Paper](https://arxiv.org/abs/2309.11092)
+11. \[arXiv 2023\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/abs/2307.16545)
 
 ##### Learning Level
 ###### Advanced Loss
