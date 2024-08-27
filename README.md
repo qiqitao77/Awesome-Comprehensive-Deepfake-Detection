@@ -180,15 +180,16 @@ If you believe there are additional works that should be included in our list, p
 11. \[ECCV 2020\] Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues [Paper](https://arxiv.org/abs/2007.09355)
 ##### Model Level
 ###### Transformer-based
-1. \[arXiv 2024\] Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture [Paper](https://arxiv.org/abs/2408.12791v1)
-2. \[arXiv 2024\] A Timely Survey on Vision Transformer for Deepfake Detection [Paper](https://arxiv.org/abs/2405.08463)
-3. \[arXiv 2024\] Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis [Paper](https://arxiv.org/abs/2405.00355)
-4. \[arXiv 2024\] Mixture of Low-rank Experts for Transferable AI-Generated Image Detection [Paper](https://arxiv.org/abs/2404.04883)
-5. \[arXiv 2024\] MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection [Paper](https://arxiv.org/abs/2404.08452)
-6. \[CVPR 2023\] AUNet: Learning Relations Between Action Units for Face Forgery Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)
-7. \[ACM MM 2023\] UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613767?casa_token=4_UWCDtymB8AAAAA%3AUxF0VgXIUNp7IWSXOTP1RFz5H-lVZIIUgEpxs4h7uoy20fBuR_Ygt_rB_dIrqoy6ari5DY92_TaFuQ)
-8. \[ICCVW 2023\] Undercover Deepfakes: Detecting Fake Segments in Video [Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Saha_Undercover_Deepfakes_Detecting_Fake_Segments_in_Videos_ICCVW_2023_paper.pdf)
-9. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
+1. \[arXiv 2024\] Guided and Fused: Efficient Frozen CLIP-ViT with Feature Guidance and Multi-Stage Feature Fusion for Generalizable Deepfake Detection [Paper](https://arxiv.org/pdf/2408.13697)
+2. \[arXiv 2024\] Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture [Paper](https://arxiv.org/abs/2408.12791v1)
+3. \[arXiv 2024\] A Timely Survey on Vision Transformer for Deepfake Detection [Paper](https://arxiv.org/abs/2405.08463)
+4. \[arXiv 2024\] Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis [Paper](https://arxiv.org/abs/2405.00355)
+5. \[arXiv 2024\] Mixture of Low-rank Experts for Transferable AI-Generated Image Detection [Paper](https://arxiv.org/abs/2404.04883)
+6. \[arXiv 2024\] MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection [Paper](https://arxiv.org/abs/2404.08452)
+7. \[CVPR 2023\] AUNet: Learning Relations Between Action Units for Face Forgery Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)
+8. \[ACM MM 2023\] UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613767?casa_token=4_UWCDtymB8AAAAA%3AUxF0VgXIUNp7IWSXOTP1RFz5H-lVZIIUgEpxs4h7uoy20fBuR_Ygt_rB_dIrqoy6ari5DY92_TaFuQ)
+9. \[ICCVW 2023\] Undercover Deepfakes: Detecting Fake Segments in Video [Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Saha_Undercover_Deepfakes_Detecting_Fake_Segments_in_Videos_ICCVW_2023_paper.pdf)
+10. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
 ###### VLM-based
 1. \[arXiv 2024\] FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant [Paper](https://www.arxiv.org/abs/2408.10072)
 2. \[arXiv 2024\] C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2408.09647v1)
@@ -229,7 +230,7 @@ If you believe there are additional works that should be included in our list, p
 8. \[CVPR 2020\] On the Detection of Digital Face Manipulation [Paper](https://arxiv.org/abs/1910.01717)
 ###### Identity Discrepancy
 1. \[CVPR 2023\] Implicit Identity Driven Deepfake Face Swapping Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.pdf)
-2. \[CVPR 2022\] Protecting Celebrities from DeepFake with Identity Consistency Transformer [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Protecting_Celebrities_From_DeepFake_With_Identity_Consistency_Transformer_CVPR_2022_paper.pdf)
+2. \[CVPR 2022\] Protecting Celebrities from DeepFake with Identity Consistency Transformer [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Protecting_Celebrities_From_DeepFake_With_Identity_Consistency__CVPR_2022_paper.pdf)
 3. \[TPAMI 2021\] DeepFake Detection Based on Discrepancies Between Faces and Their Context [Paper](https://ieeexplore.ieee.org/document/9468380)
 4. \[ICCV 2021\] ID-Reveal: Identity-aware DeepFake Video Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf)
 ###### Knowledge Distillation
@@ -257,7 +258,7 @@ If you believe there are additional works that should be included in our list, p
 2. \[arXiv 2023\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
 3. \[CVPR 2024\] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)
 4. \[TIFS 2024\] Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection Resources [Paper](http://ieeexplore.ieee.org/document/10418195)
-5. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral Transformer With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
+5. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral  With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
 
 ### Proactive Detection
 #### Proactive Methods for GANs
@@ -287,7 +288,7 @@ If you believe there are additional works that should be included in our list, p
 ## Multi-modal Deepfake Detection
 ### Audio-Visual Deepfake Detection
 #### Independent Learning
-1. \[Applied Soft Computing 2023\] AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623001424)
+1. \[Applied Soft Computing 2023\] AVFakeNet: A unified end-to-end Dense Swin  deep learning model for audio–visual​ deepfakes detection [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623001424)
 2. \[APSIPA ASC 2022\] Multimodal Forgery Detection Using Ensemble Learning [Paper](https://ieeexplore.ieee.org/document/9980255)
 3. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
 4. \[ACM MMW 2021\] Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors [Paper](https://arxiv.org/abs/2109.02993)
@@ -340,7 +341,7 @@ If you believe there are additional works that should be included in our list, p
 1. \[TPAMI 2024\] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [Paper](https://arxiv.org/abs/2309.14203)
 2. \[ICASSP 2024\] Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper](https://arxiv.org/abs/2309.12657)
 3. \[ICME 2024\] Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts [Paper](https://arxiv.org/abs/2404.08341)
-4. \[arXiv 2023\] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
+4. \[arXiv 2023\] Unified Frequency-Assisted  Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
 5. \[CVPR 2023\] Detecting and Grounding Multi-Modal Media Manipulation [Paper](https://arxiv.org/abs/2304.02556)
 
 ---
