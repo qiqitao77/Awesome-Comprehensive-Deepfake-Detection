@@ -157,15 +157,16 @@ If you believe there are additional works that should be included in our list, p
 #### Advanced Detection
 ##### Input Level
 ###### Data Augmentation
-1. \[arXiv 2024\] ED4: Explicit Data-level Debiasing for Deepfake Detection [Paper](https://arxiv.org/html/2408.06779v1)
-2. \[arXiv 2024\] FSBI: Deepfakes Detection with Frequency Enhanced Self-Blended Images [Paper](https://arxiv.org/html/2406.08625v1)
-3. \[arXiv 2024\] FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge [Paper](https://arxiv.org/abs/2404.13872)
-4. \[ICCV 2023\] SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Larue_SeeABLE_Soft_Discrepancies_and_Bounded_Contrastive_Learning_for_Exposing_Deepfakes_ICCV_2023_paper.pdf)
-5. \[arXiv 2023\] Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2311.11278)
-6. \[CVPR 2022\] Detecting Deepfakes with Self-Blended Images [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shiohara_Detecting_Deepfakes_With_Self-Blended_Images_CVPR_2022_paper.pdf)
-7. \[CVPR 2022\] Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Self-Supervised_Learning_of_Adversarial_Example_Towards_Good_Generalizations_for_Deepfake_CVPR_2022_paper.pdf)
-8. \[CVPR 2021\] Representative Forgery Mining for Fake Face Detecti [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf)
-9. \[ICCV 2021\] Learning Self-Consistency for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.pdf)
+1. \[arXiv 2024\] Can We Leave Deepfake Data Behind in Training Deepfake Detector? [Paper](https://arxiv.org/pdf/2408.17052)
+2. \[arXiv 2024\] ED4: Explicit Data-level Debiasing for Deepfake Detection [Paper](https://arxiv.org/html/2408.06779v1)
+3. \[arXiv 2024\] FSBI: Deepfakes Detection with Frequency Enhanced Self-Blended Images [Paper](https://arxiv.org/html/2406.08625v1)
+4. \[arXiv 2024\] FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge [Paper](https://arxiv.org/abs/2404.13872)
+5. \[ICCV 2023\] SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Larue_SeeABLE_Soft_Discrepancies_and_Bounded_Contrastive_Learning_for_Exposing_Deepfakes_ICCV_2023_paper.pdf)
+6. \[arXiv 2023\] Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2311.11278)
+7. \[CVPR 2022\] Detecting Deepfakes with Self-Blended Images [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shiohara_Detecting_Deepfakes_With_Self-Blended_Images_CVPR_2022_paper.pdf)
+8. \[CVPR 2022\] Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Self-Supervised_Learning_of_Adversarial_Example_Towards_Good_Generalizations_for_Deepfake_CVPR_2022_paper.pdf)
+9. \[CVPR 2021\] Representative Forgery Mining for Fake Face Detecti [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf)
+10. \[ICCV 2021\] Learning Self-Consistency for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.pdf)
 ###### Frequency-space Based
 1. \[arXiv 2024\] Multiple Contexts and Frequencies Aggregation Network for Deepfake Detection [Paper](https://arxiv.org/abs/2408.01668v1)
 2. \[AAAI 2024\] Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Learning [Paper](https://arxiv.org/abs/2403.07240)
