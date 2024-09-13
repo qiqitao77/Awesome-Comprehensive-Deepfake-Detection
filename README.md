@@ -349,6 +349,8 @@ If you believe there are additional works that should be included in our list, p
 4. \[arXiv 2023\] Unified Frequency-Assisted  Framework for Detecting and Grounding Multi-Modal Manipulation [Paper](https://arxiv.org/abs/2309.09667)
 5. \[CVPR 2023\] Detecting and Grounding Multi-Modal Media Manipulation [Paper](https://arxiv.org/abs/2304.02556)
 
+## Challenge
+1. \[ACM MM 2024\] 1M-Deepfakes Detection Challenge [Paper](https://arxiv.org/abs/2409.06991)
 ---
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
