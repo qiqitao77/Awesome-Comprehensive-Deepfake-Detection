@@ -361,7 +361,7 @@ If you believe there are additional works that should be included in our list, p
 ---
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
-1. \[arXiv 2024\] Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection [Paper](https://arxiv.org/abs/2410.04205)
+1. \[ECCVW 2024\] Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection [Paper](https://arxiv.org/abs/2410.04205)
 2. \[arXiv 2024\] Adversarial Magnification to Deceive Deepfake Detection through Super Resolution [Paper](https://arxiv.org/pdf/2407.02670)
 3. \[AAAI 2024\] TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29973)
 4. \[ICASSP 2024\] AdvShadow: Evading DeepFake Detection via Adversarial Shadow Attack [Paper](https://ieeexplore.ieee.org/document/10448251/)
