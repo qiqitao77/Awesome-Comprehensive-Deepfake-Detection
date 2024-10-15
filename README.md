@@ -222,11 +222,12 @@ If you believe there are additional works that should be included in our list, p
 2. \[ICME 2023\] Domain-Invariant Feature Learning for General Face Forgery Detection [Paper](https://ieeexplore.ieee.org/document/10219778/)
 3. \[ICDM 2023\] Concentric Ring Loss for Face Forgery Detection [Paper](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b505/1Ui3cRpq3ug)
 ###### Disentangled Representation
-1. \[CVPR 2024\] Preserving Fairness Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2402.17229)
-2. \[arXiv 2024\] Decoupling Forgery Semantics for Generalizable Deepfake Detection [Paper](https://arxiv.org/pdf/2406.09739)
-3. \[arXiv 2023\] Improving Cross-dataset Deepfake Detection with Deep Information Decomposition [Paper](https://arxiv.org/abs/2310.00359)
-4. \[ICCV 2023\] UCF: Uncovering Common Features for Generalizable Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf)
-5. \[ECCV 2022\] Exploring Disentangled Content Information for Face Forgery Detection [Paper](https://arxiv.org/abs/2207.09202)
+1. \[arXiv 2024\] Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection [Paper](https://arxiv.org/pdf/2410.10244)
+2. \[CVPR 2024\] Preserving Fairness Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2402.17229)
+3. \[arXiv 2024\] Decoupling Forgery Semantics for Generalizable Deepfake Detection [Paper](https://arxiv.org/pdf/2406.09739)
+4. \[arXiv 2023\] Improving Cross-dataset Deepfake Detection with Deep Information Decomposition [Paper](https://arxiv.org/abs/2310.00359)
+5. \[ICCV 2023\] UCF: Uncovering Common Features for Generalizable Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf)
+6. \[ECCV 2022\] Exploring Disentangled Content Information for Face Forgery Detection [Paper](https://arxiv.org/abs/2207.09202)
 ###### Reconstruction
 1. \[CVPR 2023\] MARLIN: Masked Autoencoder for facial video Representation LearnINg [Paper](https://arxiv.org/abs/2211.06627)
 2. \[CVPR 2022\] End-to-End Reconstruction-Classification Learning for Face Forgery Detection [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_End-to-End_Reconstruction-Classification_Learning_for_Face_Forgery_Detection_CVPR_2022_paper.pdf)
