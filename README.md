@@ -227,9 +227,10 @@ If you believe there are additional works that should be included in our list, p
 
 ##### Learning Level
 ###### Advanced Loss
-1. \[ToMM 2024\] Domain-invariant and Patch-discriminative Feature Learning for General Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3657297)
-2. \[ICME 2023\] Domain-Invariant Feature Learning for General Face Forgery Detection [Paper](https://ieeexplore.ieee.org/document/10219778/)
-3. \[ICDM 2023\] Concentric Ring Loss for Face Forgery Detection [Paper](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b505/1Ui3cRpq3ug)
+1. \[arXiv 2024\] Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures [Paper](https://arxiv.org/pdf/2412.05487)
+2. \[ToMM 2024\] Domain-invariant and Patch-discriminative Feature Learning for General Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3657297)
+3. \[ICME 2023\] Domain-Invariant Feature Learning for General Face Forgery Detection [Paper](https://ieeexplore.ieee.org/document/10219778/)
+4. \[ICDM 2023\] Concentric Ring Loss for Face Forgery Detection [Paper](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b505/1Ui3cRpq3ug)
 ###### Disentangled Representation
 1. \[arXiv 2024\] Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection [Paper](https://arxiv.org/pdf/2410.10244)
 2. \[CVPR 2024\] Preserving Fairness Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2402.17229)
