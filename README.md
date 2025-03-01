@@ -146,7 +146,7 @@ If you believe there are additional works that should be included in our list, p
 3. \[arXiv 2025\] Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection [Paper](https://arxiv.org/pdf/2501.01184)
 4. \[arXiv 2024\] Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning [Paper](https://arxiv.org/pdf/2408.17065)
 5. \[arXiv 2024\] UniForensics: Face Forgery Detection via General Facial Representation [Paper](https://arxiv.org/pdf/2407.19079)
-6. \[arXiv 2024\] Learning Natural  Representation for Face Forgery Video Detection [Paper](https://arxiv.org/abs/2407.10550v1)
+6. \[ECCV 2024\] Learning Natural Consistency Representation for Face Forgery Video Detection [Paper](https://arxiv.org/abs/2407.10550v1)
 7. \[IJCV 2024\] Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection [Paper](https://arxiv.org/abs/2403.10261)
 8. \[CVPR 2024\] Exploiting Style Latent Flows for Generalizing Deepfake Video Detection [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_Exploiting_Style_Latent_Flows_for_Generalizing_Deepfake_Video_Detection_CVPR_2024_paper.html)
 9. \[arxiv 2024\] Compressed Deepfake Video Detection Based on 3D Spatiotemporal Trajectories [Paper](https://arxiv.org/abs/2404.18149)
