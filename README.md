@@ -179,7 +179,7 @@ If you believe there are additional works that should be included in our list, p
 ###### Frequency-space Based
 1. \[arXiv 2025\] Generalizable Deepfake Detection via Effective Local-Global Feature Extraction [Paper](https://arxiv.org/pdf/2501.15253)
 2. \[arXiv 2025\] WMamba: Wavelet-based Mamba for Face Forgery Detection [Paper](https://arxiv.org/abs/2501.09617)
-3. \[arXiv 2024\] HARNESSING WAVELET TRANSFORMATIONS FOR GENERALIZABLE DEEPFAKE FORGERY DETECTION [Paper](https://arxiv.org/pdf/2409.18301)
+3. \[arXiv 2024\] Wavelet-Driven Generalizable Framework for Deepfake Face Forgery Detection [Paper](https://arxiv.org/pdf/2409.18301)
 4. \[arXiv 2024\] Multiple Contexts and Frequencies Aggregation Network for Deepfake Detection [Paper](https://arxiv.org/abs/2408.01668v1)
 5. \[AAAI 2024\] Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Learning [Paper](https://arxiv.org/abs/2403.07240)
 6. \[ICASSP 2024\] Frequency Masking for Universal Deepfake Detection [Paper](https://arxiv.org/abs/2401.06506)
