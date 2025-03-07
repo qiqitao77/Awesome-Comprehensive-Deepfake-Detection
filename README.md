@@ -304,7 +304,6 @@ If you believe there are additional works that should be included in our list, p
 ###  Detection
 #### Proactive Methods for GANs
 1. \[arXiv 2025\] FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation [Paper](https://arxiv.org/pdf/2502.10801)
-2. \[arXiv 2024\] FaceShield: Defending Facial Image against Deepfake Threats [Paper](https://arxiv.org/pdf/2412.09921)
 3. \[arXiv 2024\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://arxiv.org/pdf/2412.01101)
 4. \[arXiv 2024\] Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach [Paper](https://arxiv.org/pdf/2411.14798)
 5. \[arXiv 2024\] ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification [Paper](https://arxiv.org/pdf/2409.13349)
