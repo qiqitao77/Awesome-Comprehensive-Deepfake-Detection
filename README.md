@@ -235,7 +235,7 @@ If you believe there are additional works that should be included in our list, p
 17. \[arXiv 2024\] FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models [Paper](https://arxiv.org/abs/2404.13306)
 18. \[CVPR Workshop 2024\] Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics [Paper](https://arxiv.org/abs/2403.14077)
 19. \[arXiv 2024\] SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models [Paper](https://arxiv.org/abs/2402.04178)
-20. \[arXiv 2024\] Common Sense Reasoning for Deep Fake Detection [Paper](https://arxiv.org/abs/2402.00126)
+20. \[ECCV 2024\] Common Sense Reasoning for Deepfake Detection [Paper](https://arxiv.org/abs/2402.00126)
 21. \[ACM ICMRW 2024\] Towards Quantitative Evaluation of Explainable AI Methods for Deepfake Detection [Paper](https://arxiv.org/abs/2404.18649)
 22. \[arxiv 2023\] Forgery-aware Adaptive Vision Transformer for Face Forgery Detection [Paper](https://arxiv.org/abs/2309.11092)
 23. \[arXiv 2023\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/abs/2307.16545)
