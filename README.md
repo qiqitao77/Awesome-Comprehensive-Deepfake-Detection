@@ -462,3 +462,15 @@ If you believe there are additional works that should be included in our list, p
 2. \[TIFS 2023\] FedForgery: generalized face forgery detection with residual federated learning [Paper](https://arxiv.org/abs/2210.09563)
 3. \[2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)\] Deepfake Detection with Data Privacy Protection [Paper](https://ieeexplore.ieee.org/document/9949458)
 
+
+---
+## Citation
+If you find our survey is helpful in your research, please consider citing our paper😺:
+```bibtex
+@artical{liu2024_deepfakesurvey,
+    title={Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey},
+    author={Liu, Ping and Tao, Qiqi and Zhou, Joey Tianyi},
+    journal={arXiv preprint arXiv:2406.06965},
+    year={2024}
+}
+```
