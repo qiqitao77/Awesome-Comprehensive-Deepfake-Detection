@@ -107,6 +107,11 @@ If you believe there are additional works that should be included in our list, p
 |DiffusionFace|2024|Classification|Visual|30,000|600,000|[DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis](https://arxiv.org/abs/2403.18471)|[Download](https://github.com/Rapisurazurite/DiffFace)|
 |DiffusionDB-Face|2024|Classification|Visual|94,120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
 |JourneyDB-Face|2024|Classification|Visual|94,120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
+### Single-modal Interpretability-oriented Datasets
+|Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|-|-|
+|MMTT|2024|Classification & Explanation|Visual|100,000|128,303|[A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization](https://arxiv.org/abs/2412.19685)|not released yet|
+
 ### Multi-modal Audio-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
@@ -342,11 +347,12 @@ If you believe there are additional works that should be included in our list, p
 #### Joint Learning
 ##### Intermediate Fusion
 ###### Cross-Attention
-1. \[BMVC 2024\] Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies [Paper](https://www.arxiv.org/abs/2408.06753)
-2. \[arXiv 2024\] Contextual Cross-Modal Attention for Audio-Visual Deepfake Detection and Localization [Paper](https://arxiv.org/abs/2408.01532v1) 
-3. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
-4. \[arXiv 2022\] An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection [Paper](https://arxiv.org/abs/2203.05178)
-5. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
+1. \[ACM MM 2024\]FRADE: Forgery-aware Audio-distilled Multimodal Learning for Deepfake Detection [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681672)
+2. \[BMVC 2024\] Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies [Paper](https://www.arxiv.org/abs/2408.06753)
+3. \[arXiv 2024\] Contextual Cross-Modal Attention for Audio-Visual Deepfake Detection and Localization [Paper](https://arxiv.org/abs/2408.01532v1) 
+4. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
+5. \[arXiv 2022\] An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection [Paper](https://arxiv.org/abs/2203.05178)
+6. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
 ##### Late Fusion
 ###### Concatenation & Addition
 1. \[arXiv 2024\] Integrating Audio-Visual Features for Multimodal Deepfake Detection [Paper](https://arxiv.org/pdf/2310.03827)
@@ -373,12 +379,14 @@ If you believe there are additional works that should be included in our list, p
 ##### Regularization
 1. \[ICASSP 2024\] Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection [Paper](https://arxiv.org/abs/2401.05746)
 2. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
-3. \[Image Communication 2023\] Magnifying multimodal forgery clues for Deepfake detection [Paper](https://dl.acm.org/doi/abs/10.1016/j.image.2023.117010)
-4. \[arXiv 2023\] MIS-AVoiDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection [Paper](https://arxiv.org/abs/2310.02234)
+3. \[TCSVT 2023\] MCL: Multimodal Contrastive Learning for Deepfake Detection [Paper](https://doi.org/10.1109/TCSVT.2023.3312738)
+4. \[Image Communication 2023\] Magnifying multimodal forgery clues for Deepfake detection [Paper](https://dl.acm.org/doi/abs/10.1016/j.image.2023.117010)
+5. \[arXiv 2023\] MIS-AVoiDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection [Paper](https://arxiv.org/abs/2310.02234)
 #### Matching-based Learning
-1. \[ICIP 2024\] Statistics-aware Audio-visual Deepfake Detector [Paper](https://arxiv.org/pdf/2407.11650)
-2. \[ToMM 2023\] Voice-Face Homogeneity Tells Deepfake [Paper](https://dl.acm.org/doi/10.1145/3625231)
-3. \[arXiv 2023\] Unsupervised Multimodal Deepfake Detection Using Intra- and Cross-Modal Inconsistencies [Paper](https://arxiv.org/abs/2311.17088)
+1. \[arxiv 2025\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/abs/2412.00175)
+2. \[ICIP 2024\] Statistics-aware Audio-visual Deepfake Detector [Paper](https://arxiv.org/pdf/2407.11650)
+3. \[ToMM 2023\] Voice-Face Homogeneity Tells Deepfake [Paper](https://dl.acm.org/doi/10.1145/3625231)
+4. \[arXiv 2023\] Unsupervised Multimodal Deepfake Detection Using Intra- and Cross-Modal Inconsistencies [Paper](https://arxiv.org/abs/2311.17088)
 #### Others
 1. \[arXiv 2024\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/pdf/2412.00175)
 2. \[CVPR 2024\] AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection [Paper](https://arxiv.org/abs/2406.02951)
