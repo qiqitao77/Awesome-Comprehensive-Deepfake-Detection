@@ -23,7 +23,7 @@ This repository provides a comprehensive investigation of advanced single-modal 
 
 If you believe there are additional works that should be included in our list, please do not hesitate to send us an email (pingl@unr.edu/tao.qiqi@outlook.com/zhouty@cfar.a-star.edu.sg) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness and accuracy of our resource.
 
-\[2025.04\] We update a new version on arXiv, including more recent relevant works, systematic taxonomy of detection methods, and thorough discussions. Have a check on our updated survey [here](https://arxiv.org/abs/2406.06965)!
+\[2025.04\] 🎉 We update a new version on arXiv, including more recent relevant works, systematic taxonomy of detection methods, and thorough discussions. Have a check on our updated survey [here](https://arxiv.org/abs/2406.06965)!
 
 ![image](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/blob/main/figures/Taxonomy-light2.jpg)
 
