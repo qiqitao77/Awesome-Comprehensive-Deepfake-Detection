@@ -320,7 +320,7 @@ If you believe there are additional works that should be included in our list, p
 18. \[CVPRW 2020\] Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [Paper](https://arxiv.org/abs/2003.01279)
 19. \[WACVW 2020\] Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks [Paper](https://openaccess.thecvf.com/content_WACVW_2020/papers/w4/Yeh_Disrupting_Image-Translation-Based_DeepFake_Algorithms_with_Adversarial_Attacks_WACVW_2020_paper.pdf)
 #### Proactive Methods for Diffusion Models
-1. \[arXiv 2025\] FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermark [Paper](shttps://arxiv.org/pdf/2504.09451)
+1. \[arXiv 2025\] FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermarks [Paper](https://arxiv.org/pdf/2504.09451)
 2. \[arXiv 2024\] FaceShield: Defending Facial Image against Deepfake Threats [Paper](https://arxiv.org/pdf/2412.09921)
 3. \[ICLR 2024\] DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models [Paper](https://arxiv.org/abs/2307.03108)
 4. \[NeurIPSW 2024\] DiffusionShield: A Watermark for Data Copyright Protection against Generative Diffusion Models [Paper](https://arxiv.org/pdf/2306.04642)
