@@ -367,7 +367,7 @@ If you believe there are additional works that should be included in our list, p
 ###### MLP Mixer Layer
 1. \[CVPRW 2023\] Multimodaltrace: Deepfake Detection using Audiovisual Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Raza_Multimodaltrace_Deepfake_Detection_Using_Audiovisual_Representation_Learning_CVPRW_2023_paper.pdf)
 ##### Multi-task Strategy
-1. \[AAAI 2025\] Multi-modal Deepfake Detection via Multi-task Audio-Visual Prompt Learning (paper not available yet)
+1. \[AAAI 2025\] Multi-modal Deepfake Detection via Multi-task Audio-Visual Prompt Learning [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32042)
 2. \[arXiv 2024\] DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization [Paper](https://arxiv.org/pdf/2411.10193)
 3. \[ICME 2024\] Explicit Correlation Learning for Generalizable Cross-Modal Deepfake Detection [Paper](https://arxiv.org/abs/2404.19171)
 4. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
