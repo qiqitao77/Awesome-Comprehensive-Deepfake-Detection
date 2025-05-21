@@ -375,7 +375,7 @@ If you believe there are additional works that should be included in our list, p
 6. \[arXiv 2024\] Integrating Audio-Visual Features for Multimodal Deepfake Detection [Paper](https://arxiv.org/pdf/2310.03827)
 7. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
 ##### Advanced Representation
-1.\[arxiv 2025\] Multiscale Adaptive Conflict-Balancing Model For Multimedia Deepfake Detection [Paper](https://arxiv.org/abs/2505.12966)
+1.\[ICMR 2025\] Multiscale Adaptive Conflict-Balancing Model For Multimedia Deepfake Detection [Paper](https://arxiv.org/abs/2505.12966)
 2. \[ICASSP 2024\] Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection [Paper](https://arxiv.org/abs/2401.05746)
 3. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
 4. \[TCSVT 2023\] MCL: Multimodal Contrastive Learning for Deepfake Detection [Paper](https://doi.org/10.1109/TCSVT.2023.3312738)
