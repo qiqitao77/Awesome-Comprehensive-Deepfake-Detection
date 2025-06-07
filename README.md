@@ -91,6 +91,7 @@ If you believe there are additional works that should be included in our list, p
 |DiffusionFace|2024|Classification|Visual|30,000|600,000|[DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis](https://arxiv.org/abs/2403.18471)|[Download](https://github.com/Rapisurazurite/DiffFace)|
 |DiffusionDB-Face|2024|Classification|Visual|94,120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
 |JourneyDB-Face|2024|Classification|Visual|94,120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
+|TalkingHeadBench|2025|Classification|Visual|2,312|2,984|[Diffusion Taking Head Generation]([https://arxiv.org/abs/2404.01579](https://arxiv.org/pdf/2505.24866))|[Download](https://huggingface.co/datasets/luchaoqi/TalkingHeadBench)|
 ### Single-modal Interpretability-oriented Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
