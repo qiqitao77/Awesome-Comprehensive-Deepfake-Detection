@@ -220,12 +220,11 @@ If you believe there are additional works that should be included in our list, p
 27. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
 28. \[MIPR 2023\] Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation [Paper](https://ieeexplore.ieee.org/document/10254409)
 ###### VLM-based
-1. \[ICML 2025\] Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection [Paper](https://arxiv.org/pdf/2503.14853)
 2. \[arXiv 2025\] LLMs Are Not Yet Ready for Deepfake Image Detection [Paper](https://arxiv.org/abs/2506.10474)
 3. \[arXiv 2025\] MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution [Paper](https://arxiv.org/pdf/2505.02013)
 4. \[arXiv 2025\] Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [Paper](https://arxiv.org/pdf/2503.20188)
 5. \[arXiv 2025\] Can Multi-Modal (Reasoning) LLMs Work as Deepfake Detectors [Paper](https://arxiv.org/pdf/2503.20084)
-6. \[arXiv 2025\] Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection [Paper](https://arxiv.org/pdf/2503.14853)
+6. \[ICML 2025\] Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection [Paper](https://arxiv.org/pdf/2503.14853)
 7. \[arXiv 2025\] TruthLens: A Training-Free Paradigm for DeepFake Detection [Paper](https://arxiv.org/pdf/2503.15342)
 8. \[CVPR 2025\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/pdf/2502.20698)
 9. \[arXiv 2025\] Knowledge-Guided Prompt Learning for Deepfake Facial Image Detection [Paper](https://arxiv.org/pdf/2501.00700)
