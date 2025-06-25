@@ -220,7 +220,7 @@ If you believe there are additional works that should be included in our list, p
 27. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
 28. \[MIPR 2023\] Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation [Paper](https://ieeexplore.ieee.org/document/10254409)
 ###### VLM-based
-1. \[arXiv 2025\] AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection [paper](https://arxiv.org/pdf/2505.15173)
+1. \[arXiv 2025\] AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection [Paper](https://arxiv.org/pdf/2505.15173)
 2. \[ICLR 2025\] FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models [Paper](https://arxiv.org/pdf/2410.02761)
 3. \[ICML 2025\] Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection [Paper](https://arxiv.org/pdf/2503.14853)
 4. \[arXiv 2025\] LLMs Are Not Yet Ready for Deepfake Image Detection [Paper](https://arxiv.org/abs/2506.10474)
