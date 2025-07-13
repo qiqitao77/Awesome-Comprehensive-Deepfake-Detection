@@ -347,14 +347,15 @@ If you believe there are additional works that should be included in our list, p
 #### Proactive Methods for Diffusion Models
 1. \[CVPR 2025\] Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation [Paper](https://arxiv.org/abs/2506.01591)
 2. \[CVPR 2025\] Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Edit_Away_and_My_Face_Will_not_Stay_Personal_Biometric_CVPR_2025_paper.html)
-3. \[arXiv 2025\] FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermarks [Paper](https://arxiv.org/pdf/2504.09451)
-4. \[arXiv 2024\] FaceShield: Defending Facial Image against Deepfake Threats [Paper](https://arxiv.org/pdf/2412.09921)
-5. \[ICLR 2024\] DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models [Paper](https://arxiv.org/abs/2307.03108)
-6. \[NeurIPSW 2024\] DiffusionShield: A Watermark for Data Copyright Protection against Generative Diffusion Models [Paper](https://arxiv.org/pdf/2306.04642)
-7. \[ICCV 2023\] The Stable Signature: Rooting Watermarks in Latent Diffusion Models [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf)
-8. \[TPS-ISA 2023\] Invisible Watermarking for Audio Generation Diffusion Models [Paper](https://arxiv.org/abs/2309.13166)
-9. \[arXiv 2023\] A Recipe for Watermarking Diffusion Models [Paper](https://arxiv.org/abs/2303.10137)
-10. \[arXiv 2023\] LEAT: Towards Robust Deepfake Disruption in Real-World Scenarios via Latent Ensemble Attack [Paper](https://arxiv.org/abs/2307.01520)
+3. \[arxiv 2025\] My Face Is Mine, Not Yours: Facial Protection Against Diffusion Model Face Swapping [Paper](https://arxiv.org/pdf/2505.15336)
+4. \[ACM MM 2025\] FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermarks [Paper](https://arxiv.org/pdf/2504.09451)
+5. \[arXiv 2024\] FaceShield: Defending Facial Image against Deepfake Threats [Paper](https://arxiv.org/pdf/2412.09921)
+6. \[ICLR 2024\] DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models [Paper](https://arxiv.org/abs/2307.03108)
+7. \[NeurIPSW 2024\] DiffusionShield: A Watermark for Data Copyright Protection against Generative Diffusion Models [Paper](https://arxiv.org/pdf/2306.04642)
+8. \[ICCV 2023\] The Stable Signature: Rooting Watermarks in Latent Diffusion Models [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf)
+9. \[TPS-ISA 2023\] Invisible Watermarking for Audio Generation Diffusion Models [Paper](https://arxiv.org/abs/2309.13166)
+10. \[arXiv 2023\] A Recipe for Watermarking Diffusion Models [Paper](https://arxiv.org/abs/2303.10137)
+11. \[arXiv 2023\] LEAT: Towards Robust Deepfake Disruption in Real-World Scenarios via Latent Ensemble Attack [Paper](https://arxiv.org/abs/2307.01520)
 
 ---
 ## Multi-modal Deepfake Detection
