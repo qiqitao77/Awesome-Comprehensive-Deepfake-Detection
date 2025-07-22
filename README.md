@@ -316,11 +316,12 @@ If you believe there are additional works that should be included in our list, p
 8. \[ICMLW 2023\] Exposing the Fake: Effective Diffusion-Generated Images Detection [Paper](https://arxiv.org/abs/2307.06272)
 
 ##### Sequential Deepfake Detection
-1. \[ECCV 2022\] Detecting and Recovering Sequential DeepFake Manipulation [Paper](https://arxiv.org/abs/2207.02204)
-2. \[arXiv 2023\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
-3. \[CVPR 2024\] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)
-4. \[TIFS 2024\] Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection Resources [Paper](http://ieeexplore.ieee.org/document/10418195)
-5. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral  With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
+1. \[arXiv 2025\] SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models [Paper](https://arxiv.org/abs/2506.00562)
+2. \[ECCV 2022\] Detecting and Recovering Sequential DeepFake Manipulation [Paper](https://arxiv.org/abs/2207.02204)
+3. \[arXiv 2023\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
+4. \[CVPR 2024\] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)
+5. \[TIFS 2024\] Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection Resources [Paper](http://ieeexplore.ieee.org/document/10418195)
+6. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral  With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
 
 ###  Proactive Detection
 #### Proactive Methods for GANs
