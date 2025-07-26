@@ -83,6 +83,7 @@ If you believe there are additional works that should be included in our list, p
 |FFIW_10k|2021|Classification & Spatial Grounding|Visual|10,000|10,000|[Face Forensics in the Wild](https://arxiv.org/abs/2103.16076)|[Download](https://github.com/tfzhou/FFIW)|
 |ForgeryNet|2021|Classification & Spatial Grounding & Temporal Grounding|Visual|99,630|12,1617|[Forgerynet: A versatile benchmark for comprehensive forgery analysis](https://arxiv.org/abs/2103.05630)|[Download](https://yinanhe.github.io/projects/forgerynet.html)|
 |DF-Platter|2023|Classification|Visual|133,260|132,496|[DF-Platter: Multi-Face Heterogeneous Deepfake Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)|[Download](https://iab-rubric.org/df-platter-database)|
+|Celeb-DF++|2025|Classification|Visual|590|53,196|[Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://arxiv.org/pdf/2507.18015)|[Download](https://github.com/OUC-VAS/Celeb-DF-PP)|
 ### Single-modal Diffusion-generated Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
