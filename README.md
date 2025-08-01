@@ -260,14 +260,15 @@ If you believe there are additional works that should be included in our list, p
 
 ##### Learning Level
 ###### Advanced Loss
-1. \[CVPR 2025\] FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FSFM_A_Generalizable_Face_Security_Foundation_Model_via_Self-Supervised_Facial_CVPR_2025_paper.html)
-2. \[CVPR 2025\] Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection [Paper](https://arxiv.org/pdf/2411.11396)
-3. \[IJCAI 2025\] THINK TWICE BEFORE ADAPTATION: IMPROVING ADAPTABILITY OF DEEPFAKE DETECTION VIA ONLINE TEST-TIME ADAPTATION [Paper](https://arxiv.org/pdf/2505.18787)
-4. \[IJCAI 2025\] Learning Real Facial Concepts for Independent Deepfake Detection [Paper](https://arxiv.org/abs/2505.04460)
-5. \[arXiv 2024\] Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures [Paper](https://arxiv.org/pdf/2412.05487)
-6. \[ToMM 2024\] Domain-invariant and Patch-discriminative Feature Learning for General Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3657297)
-7. \[ICME 2023\] Domain-Invariant Feature Learning for General Face Forgery Detection [Paper](https://ieeexplore.ieee.org/document/10219778/)
-8. \[ICDM 2023\] Concentric Ring Loss for Face Forgery Detection [Paper](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b505/1Ui3cRpq3ug)
+1. \[arXiv 2025\] Bi-Level Optimization for Self-Supervised AI-Generated Face Detection [Paper](https://arxiv.org/pdf/2507.22824)
+2. \[CVPR 2025\] FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FSFM_A_Generalizable_Face_Security_Foundation_Model_via_Self-Supervised_Facial_CVPR_2025_paper.html)
+3. \[CVPR 2025\] Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection [Paper](https://arxiv.org/pdf/2411.11396)
+4. \[IJCAI 2025\] THINK TWICE BEFORE ADAPTATION: IMPROVING ADAPTABILITY OF DEEPFAKE DETECTION VIA ONLINE TEST-TIME ADAPTATION [Paper](https://arxiv.org/pdf/2505.18787)
+5. \[IJCAI 2025\] Learning Real Facial Concepts for Independent Deepfake Detection [Paper](https://arxiv.org/abs/2505.04460)
+6. \[arXiv 2024\] Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures [Paper](https://arxiv.org/pdf/2412.05487)
+7. \[ToMM 2024\] Domain-invariant and Patch-discriminative Feature Learning for General Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3657297)
+8. \[ICME 2023\] Domain-Invariant Feature Learning for General Face Forgery Detection [Paper](https://ieeexplore.ieee.org/document/10219778/)
+9. \[ICDM 2023\] Concentric Ring Loss for Face Forgery Detection [Paper](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b505/1Ui3cRpq3ug)
 ###### Disentangled Representation
 1. \[arXiv 2024\] Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection [Paper](https://arxiv.org/pdf/2410.10244)
 2. \[CVPR 2024\] Preserving Fairness Generalization in Deepfake Detection [Paper](https://arxiv.org/abs/2402.17229)
