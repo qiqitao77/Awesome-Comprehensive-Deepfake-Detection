@@ -489,9 +489,10 @@ If you believe there are additional works that should be included in our list, p
 
 ---
 ## Efficient Deepfake Detection
-1. \[IEEE SMC 2025\] Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis [Paper](https://arxiv.org/pdf/2507.15636)
-2. \[arXiv 2024\] Real-Time Deepfake Detection in the Real-World [Paper](https://arxiv.org/abs/2406.09398.pdf)
-3. \[CVPR 2024 DFAD Workshop\] Faster than lies: Real-time deepfake detection using binary neural networks [Paper](https://arxiv.org/abs/2406.04932)
+1. \[arXiv 2025\] WhenDeepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework [Paper](https://arxiv.org/pdf/2508.05526)
+2. \[IEEE SMC 2025\] Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis [Paper](https://arxiv.org/pdf/2507.15636)
+3. \[arXiv 2024\] Real-Time Deepfake Detection in the Real-World [Paper](https://arxiv.org/abs/2406.09398.pdf)
+4. \[CVPR 2024 DFAD Workshop\] Faster than lies: Real-time deepfake detection using binary neural networks [Paper](https://arxiv.org/abs/2406.04932)
 
 ---
 ## Privacy-aware Deepfake Detection
