@@ -370,10 +370,11 @@ If you believe there are additional works that should be included in our list, p
 ## Multi-modal Deepfake Detection
 ### Audio-Visual Deepfake Detection
 #### Independent Learning
-1. \[Applied Soft Computing 2023\] AVFakeNet: A unified end-to-end Dense Swin  deep learning model for audio–visual​ deepfakes detection [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623001424)
-2. \[APSIPA ASC 2022\] Multimodal Forgery Detection Using Ensemble Learning [Paper](https://ieeexplore.ieee.org/document/9980255)
-3. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
-4. \[ACM MMW 2021\] Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors [Paper](https://arxiv.org/abs/2109.02993)
+1. \[arXiv 2025\] Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization [Paper](https://arxiv.org/pdf/2508.08141)
+2. \[Applied Soft Computing 2023\] AVFakeNet: A unified end-to-end Dense Swin  deep learning model for audio–visual​ deepfakes detection [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494623001424)
+3. \[APSIPA ASC 2022\] Multimodal Forgery Detection Using Ensemble Learning [Paper](https://ieeexplore.ieee.org/document/9980255)
+4. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
+5. \[ACM MMW 2021\] Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors [Paper](https://arxiv.org/abs/2109.02993)
 #### Joint Learning
 ##### Intermediate Fusion
 ###### Cross-Attention
