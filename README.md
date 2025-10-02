@@ -458,7 +458,7 @@ If you believe there are additional works that should be included in our list, p
 ---
 ## Trustworthy Deepfake Detection
 ### Adversarial Attack
-1. \[IEEE Transactions on Dependable and Secure Computing 2025\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://ieeexplore.ieee.org/abstract/document/11106399)[Code](https://github.com/OUC-VAS/FacePoison)
+1. \[IEEE Transactions on Dependable and Secure Computing 2025\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://ieeexplore.ieee.org/abstract/document/11106399) [Code](https://github.com/OUC-VAS/FacePoison)
 2. \[arXiv 2025\] Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics [Paper](https://arxiv.org/pdf/2508.17247)
 3. \[ECCVW 2024\] Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection [Paper](https://arxiv.org/abs/2410.04205)
 4. \[arXiv 2024\] Adversarial Magnification to Deceive Deepfake Detection through Super Resolution [Paper](https://arxiv.org/pdf/2407.02670)
