@@ -128,7 +128,7 @@ If you believe there are additional works that should be included in our list, p
 4. \[CVPR 2024\] LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2401.13856)
 5. \[arXiv 2024\] Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2403.06803)
 6. \[arXiv 2024\] A Single Simple Patch is All You Need for AI-generated Image Detection [Paper](https://arxiv.org/abs/2402.01123)
-7. \[arXiv 2024\] GenFace: A Large-Scale ed Face Forgery Benchmark and Cross Appearance-Edge Learning [Paper](https://arxiv.org/abs/2402.02003)
+7. \[TIFS 2024\] GenFace: A Large-Scale ed Face Forgery Benchmark and Cross Appearance-Edge Learning [Paper](https://arxiv.org/abs/2402.02003)
 8. \[TMM 2023\] GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection [Paper](https://arxiv.org/abs/2211.08615)
 9. \[CVPRW 2023\] Intriguing properties of synthetic images: from generative adversarial networks to diffusion models [Paper](https://arxiv.org/abs/2304.06408)
 10. \[arXiv 2023\] Diffusion Noise Feature: Accurate and Fast Generated Image Detection [Paper](https://arxiv.org/pdf/2312.02625)
