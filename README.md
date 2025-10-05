@@ -172,7 +172,7 @@ If you believe there are additional works that should be included in our list, p
 8. \[arXiv 2024\] Can We Leave Deepfake Data Behind in Training Deepfake Detector? [Paper](https://arxiv.org/pdf/2408.17052)
 9. \[IEEE TIP 2025\] ED4: Explicit Data-level Debiasing for Deepfake Detection [Paper](https://arxiv.org/html/2408.06779v1)
 10. \[arXiv 2024\] FSBI: Deepfakes Detection with Frequency Enhanced Self-Blended Images [Paper](https://arxiv.org/html/2406.08625v1)
-11. \[arXiv 2024\] FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge [Paper](https://arxiv.org/abs/2404.13872)
+11. \[NeurIPS 2024\] FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge [Paper](https://arxiv.org/abs/2404.13872)
 12. \[ICCV 2023\] SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Larue_SeeABLE_Soft_Discrepancies_and_Bounded_Contrastive_Learning_for_Exposing_Deepfakes_ICCV_2023_paper.pdf)
 13. \[arXiv 2023\] Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2311.11278)
 14. \[CVPR 2022\] Detecting Deepfakes with Self-Blended Images [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shiohara_Detecting_Deepfakes_With_Self-Blended_Images_CVPR_2022_paper.pdf)
