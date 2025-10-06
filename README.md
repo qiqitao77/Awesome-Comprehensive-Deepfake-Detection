@@ -208,7 +208,7 @@ If you believe there are additional works that should be included in our list, p
 5. \[CVPR 2025\] Towards More General Video-based Deepfake Detection through Facial Component Guided Adaptation for Foundation Model [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Towards_More_General_Video-based_Deepfake_Detection_through_Facial_Component_Guided_CVPR_2025_paper.pdf)
 6. \[arXiv 2025\] Robust AI-Generated Face Detection with Imbalanced Data [Paper](https://arxiv.org/pdf/2505.02182)
 7. \[arXiv 2025\] Detecting Lip-Syncing Deepfakes: Vision Temporal Transformer for Analyzing Mouth Inconsistencies [Paper](https://arxiv.org/pdf/2504.01470)
-8. \[arXiv 2025\] Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations [Paper](https://arxiv.org/pdf/2503.22121)
+8. \[CVPR Workshop 2025\] Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations [Paper](https://arxiv.org/pdf/2503.22121)
 9. \[arXiv 2025\] Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection [Paper](https://arxiv.org/pdf/2503.19683) | [Code](https://github.com/yermandy/deepfake-detection)
 10. \[arXiv 2025\] Deepfake Detection via Knowledge Injection [Paper](https://arxiv.org/pdf/2503.02503)
 11. \[arXiv 2025\] Exploring Unbiased Deepfake Detection via Token-Level Shuffling and Mixing [Paper](https://arxiv.org/pdf/2501.04376)
