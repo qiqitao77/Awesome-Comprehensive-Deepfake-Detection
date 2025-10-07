@@ -237,7 +237,7 @@ If you believe there are additional works that should be included in our list, p
 1. \[arXiv 2025\] When Deepfakes Look Real: Detecting AI-Generated Faces with Unlabeled Data due to Annotation Challenges [Paper](https://arxiv.org/pdf/2508.09022)
 2. \[ICMLW 2025\] Visual Language Models as Zero-Shot Deepfake Detectors [Paper](https://arxiv.org/pdf/2507.22469)
 3. \[arXiv 2025\] MGFFD-VLM:Multi-Granularity Prompt Learning for Face Forgery Detection with VLM [Paper](https://arxiv.org/pdf/2507.12232)
-4. \[arXiv 2025\] CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection [Paper](https://arxiv.org/pdf/2507.05302)
+4. \[IJCAI 2025\] CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection [Paper](https://arxiv.org/pdf/2507.05302)
 5. \[arXiv 2025\] AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection [Paper](https://arxiv.org/pdf/2505.15173)
 6. \[ICLR 2025\] FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models [Paper](https://arxiv.org/pdf/2410.02761)
 7. \[ICML 2025\] Unlocking the Capabilities of Vision-Language Models for Generalizable and Explainable Deepfake Detection [Paper](https://arxiv.org/pdf/2503.14853)
