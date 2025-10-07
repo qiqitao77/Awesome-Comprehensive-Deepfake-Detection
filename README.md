@@ -216,7 +216,7 @@ If you believe there are additional works that should be included in our list, p
 13. \[AAAI 2025\] Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection [Paper](https://arxiv.org/pdf/2409.02664)
 14. \[CVPR 2025\] Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection [Paper](https://arxiv.org/abs/2411.19715)
 15. \[IEEE TCSVT 2024\] Forgery-aware Adaptive Learning with Vision Transformer for Generalized Face Forgery Detection [Paper](https://ieeexplore.ieee.org/abstract/document/10813581)
-16. \[arXiv 2024\] Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content [Paper](https://arxiv.org/pdf/2412.12278)
+16. \[CVPR 2025\] Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content [Paper](https://arxiv.org/pdf/2412.12278)
 17. \[arXiv 2024\] Understanding and Improving Training-Free AI-Generated Image Detections with Vision Foundation Models [Paper](https://arxiv.org/pdf/2411.19117)
 18. \[TMM 2024\] DIP: Diffusion Learning of Inconsistency Pattern for General DeepFake Detection [Paper](https://arxiv.org/pdf/2410.23663)
 19. \[arXiv 2024\] FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection [Paper](https://arxiv.org/pdf/2410.21964)
