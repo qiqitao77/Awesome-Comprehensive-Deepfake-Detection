@@ -244,7 +244,7 @@ If you believe there are additional works that should be included in our list, p
 8. \[arXiv 2025\] LLMs Are Not Yet Ready for Deepfake Image Detection [Paper](https://arxiv.org/abs/2506.10474)
 9. \[arXiv 2025\] MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution [Paper](https://arxiv.org/pdf/2505.02013)
 10. \[CVPR 2025\] Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [Paper](https://arxiv.org/pdf/2503.20188)
-11. \[arXiv 2025\] Can Multi-Modal (Reasoning) LLMs Work as Deepfake Detectors [Paper](https://arxiv.org/pdf/2503.20084)
+11. \[CVPR Workshop 2024\] Can Multi-Modal (Reasoning) LLMs Work as Deepfake Detectors [Paper](https://arxiv.org/pdf/2503.20084)
 12. \[arXiv 2025\] TruthLens: A Training-Free Paradigm for DeepFake Detection [Paper](https://arxiv.org/pdf/2503.15342)
 13. \[CVPR 2025\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/pdf/2502.20698)
 14. \[arXiv 2025\] Knowledge-Guided Prompt Learning for Deepfake Facial Image Detection [Paper](https://arxiv.org/pdf/2501.00700)
