@@ -231,7 +231,7 @@ If you believe there are additional works that should be included in our list, p
 28. \[CVPR 2023\] AUNet: Learning Relations Between Action Units for Face Forgery Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)
 29. \[ACM MM 2023\] UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613767?casa_token=4_UWCDtymB8AAAAA%3AUxF0VgXIUNp7IWSXOTP1RFz5H-lVZIIUgEpxs4h7uoy20fBuR_Ygt_rB_dIrqoy6ari5DY92_TaFuQ)
 30. \[ICCVW 2023\] Undercover Deepfakes: Detecting Fake Segments in Video [Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Saha_Undercover_Deepfakes_Detecting_Fake_Segments_in_Videos_ICCVW_2023_paper.pdf)
-31. \[arXiv 2023\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
+31. \[IJCV 2025\] DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection [Paper](https://arxiv.org/abs/2306.00863)
 32. \[MIPR 2023\] Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation [Paper](https://ieeexplore.ieee.org/document/10254409)
 ###### VLM-based
 1. \[arXiv 2025\] When Deepfakes Look Real: Detecting AI-Generated Faces with Unlabeled Data due to Annotation Challenges [Paper](https://arxiv.org/pdf/2508.09022)
