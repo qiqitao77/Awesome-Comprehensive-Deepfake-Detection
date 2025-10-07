@@ -227,7 +227,7 @@ If you believe there are additional works that should be included in our list, p
 24. \[arXiv 2024\] A Timely Survey on Vision Transformer for Deepfake Detection [Paper](https://arxiv.org/abs/2405.08463)
 25. \[arXiv 2024\] Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis [Paper](https://arxiv.org/abs/2405.00355)
 26. \[arXiv 2024\] Mixture of Low-rank Experts for Transferable AI-Generated Image Detection [Paper](https://arxiv.org/abs/2404.04883)
-27. \[arXiv 2024\] MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection [Paper](https://arxiv.org/abs/2404.08452)
+27. \[IEEE Transactions on Dependable and Secure Computing 2025\] MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection [Paper](https://arxiv.org/abs/2404.08452)
 28. \[CVPR 2023\] AUNet: Learning Relations Between Action Units for Face Forgery Detection [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)
 29. \[ACM MM 2023\] UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613767?casa_token=4_UWCDtymB8AAAAA%3AUxF0VgXIUNp7IWSXOTP1RFz5H-lVZIIUgEpxs4h7uoy20fBuR_Ygt_rB_dIrqoy6ari5DY92_TaFuQ)
 30. \[ICCVW 2023\] Undercover Deepfakes: Detecting Fake Segments in Video [Paper](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/papers/Saha_Undercover_Deepfakes_Detecting_Fake_Segments_in_Videos_ICCVW_2023_paper.pdf)
