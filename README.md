@@ -269,7 +269,7 @@ If you believe there are additional works that should be included in our list, p
 
 ##### Learning Level
 ###### Advanced Loss
-1. \[arXiv 2025\] Bi-Level Optimization for Self-Supervised AI-Generated Face Detection [Paper](https://arxiv.org/pdf/2507.22824)
+1. \[ICCV 2025\] Bi-Level Optimization for Self-Supervised AI-Generated Face Detection [Paper](https://arxiv.org/pdf/2507.22824)
 2. \[CVPR 2025\] FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FSFM_A_Generalizable_Face_Security_Foundation_Model_via_Self-Supervised_Facial_CVPR_2025_paper.html)
 3. \[CVPR 2025\] Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection [Paper](https://arxiv.org/pdf/2411.11396)
 4. \[IJCAI 2025\] THINK TWICE BEFORE ADAPTATION: IMPROVING ADAPTABILITY OF DEEPFAKE DETECTION VIA ONLINE TEST-TIME ADAPTATION [Paper](https://arxiv.org/pdf/2505.18787)
