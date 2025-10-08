@@ -266,7 +266,6 @@ If you believe there are additional works that should be included in our list, p
 30. \[ECCV 2024\] Common Sense Reasoning for Deepfake Detection [Paper](https://arxiv.org/abs/2402.00126)
 31. \[ACM ICMRW 2024\] Towards Quantitative Evaluation of Explainable AI Methods for Deepfake Detection [Paper](https://arxiv.org/abs/2404.18649)
 32. \[arxiv 2023\] Generalized Face Forgery Detection via Adaptive Learning for Pre-trained Vision Transformer [Paper](https://arxiv.org/abs/2309.11092)
-33. \[arXiv 2023\] Towards General Visual-Linguistic Face Forgery Detection [Paper](https://arxiv.org/abs/2307.16545)
 
 ##### Learning Level
 ###### Advanced Loss
