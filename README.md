@@ -313,7 +313,7 @@ If you believe there are additional works that should be included in our list, p
 4. \[CVPRW 2021\] FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning [Paper](https://arxiv.org/abs/2105.13617)
 5. \[Journal of Mathematical Imaging and Vision 2015\] Sliced and Radon Wasserstein Barycenters of Measures [Paper](https://link.springer.com/article/10.1007/s10851-014-0506-3)
 ###### Fine-grained Prediction
-1. \[arXiv 2024\] Semantics-Oriented Multitask Learning for DeepFake Detection: A Joint Embedding Approach [Paper](https://arxiv.org/pdf/2408.16305)
+1. \[IEEE Transactions on Circuits and Systems for Video Technology 2025\] Semantics-Oriented Multitask Learning for DeepFake Detection: A Joint Embedding Approach [Paper](https://arxiv.org/pdf/2408.16305)
 2. \[ToMM 2024\] Mastering Deepfake Detection: A Cutting-Edge Approach to Distinguish GAN and Diffusion-Model Images [Paper](https://dl.acm.org/doi/10.1145/3652027)
 3. \[CVPR 2023\] Hierarchical Fine-Grained Image Forgery Detection and Localization [Paper](https://arxiv.org/abs/2303.17111)
 4. \[ICCV 2023\] Controllable Guide-Space for Generalizable Face Forgery Detection [Paper](https://arxiv.org/abs/2307.14039)
