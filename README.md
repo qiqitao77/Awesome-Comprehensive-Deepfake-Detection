@@ -293,7 +293,7 @@ If you believe there are additional works that should be included in our list, p
 ###### Manipulation Localization
 1. \[CVPR 2024\] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection [Paper](https://arxiv.org/pdf/2312.08883)
 2. \[WACV 2024\] Weakly-supervised deepfake localization in diffusion-generated images [Paper](https://arxiv.org/pdf/2311.04584)
-3. \[arXiv 2024\] Delocate: Detection and Localization for Deepfake Videos with Randomly-Located Tampered Traces [Paper](https://arxiv.org/abs/2401.13516)
+3. \[IJCAI 2024\] Delocate: Detection and Localization for Deepfake Videos with Randomly-Located Tampered Traces [Paper](https://arxiv.org/abs/2401.13516)
 4. \[CVPR 2023\] MaLP: Manipulation Localization Using a Proactive Scheme [Paper](https://arxiv.org/abs/2303.16976)
 5. \[CVPR 2023\] Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf)
 6. \[ACM MM 2023\] Locate and Verify: A Two-Stream Network for Improved Deepfake Detection [Paper](https://arxiv.org/abs/2309.11131)
