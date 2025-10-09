@@ -348,7 +348,7 @@ If you believe there are additional works that should be included in our list, p
 7. \[arXiv 2025\] FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation [Paper](https://arxiv.org/pdf/2502.10801)
 8. \[IEEE Transactions on Dependable and Secure Computing 2025\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://arxiv.org/pdf/2412.01101)
 9. \[arXiv 2024\] Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach [Paper](https://arxiv.org/pdf/2411.14798)
-10. \[arXiv 2024\] ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification [Paper](https://arxiv.org/pdf/2409.13349)
+10. \[IEEE PAMI 2025\] ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification [Paper](https://arxiv.org/pdf/2409.13349)
 11. \[IJCAI 2024\] Are Watermarks Bugs for Deepfake Detectors? Rethinking Proactive Forensics [Paper](https://arxiv.org/abs/2404.17867)
 12. \[TIFS 2024\] Dual Defense: Adversarial, Traceable, and Invisible Robust Watermarking against Face Swapping [Paper](https://arxiv.org/abs/2310.16540)
 13. \[CVPR 2023\] MaLP: Manipulation Localization Using a Proactive Scheme [Paper](https://arxiv.org/abs/2303.16976)
