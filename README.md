@@ -344,7 +344,7 @@ If you believe there are additional works that should be included in our list, p
 3. \[ICCV 2025\] NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping [Paper](https://arxiv.org/pdf/2503.18678)
 4. \[arXiv 2025\] Towards Generalized Proactive Defense against Face Swapping with Contour-Hybrid Watermark [Paper](https://arxiv.org/pdf/2505.19081)
 5. \[arXiv 2025\] Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes [Paper](https://arxiv.org/pdf/2505.19582)
-6. \[arXiv 2025\] Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face [Paper](https://arxiv.org/abs/2504.11309)
+6. \[IEEE SPL 2025\] Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face [Paper](https://arxiv.org/abs/2504.11309)
 7. \[arXiv 2025\] FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation [Paper](https://arxiv.org/pdf/2502.10801)
 8. \[arXiv 2024\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://arxiv.org/pdf/2412.01101)
 9. \[arXiv 2024\] Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach [Paper](https://arxiv.org/pdf/2411.14798)
