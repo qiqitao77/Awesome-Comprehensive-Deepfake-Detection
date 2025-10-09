@@ -346,7 +346,7 @@ If you believe there are additional works that should be included in our list, p
 5. \[arXiv 2025\] Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes [Paper](https://arxiv.org/pdf/2505.19582)
 6. \[IEEE SPL 2025\] Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face [Paper](https://arxiv.org/abs/2504.11309)
 7. \[arXiv 2025\] FaceSwapGuard: Safeguarding Facial Privacy from DeepFake Threats through Identity Obfuscation [Paper](https://arxiv.org/pdf/2502.10801)
-8. \[arXiv 2024\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://arxiv.org/pdf/2412.01101)
+8. \[IEEE Transactions on Dependable and Secure Computing 2025\] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection [Paper](https://arxiv.org/pdf/2412.01101)
 9. \[arXiv 2024\] Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach [Paper](https://arxiv.org/pdf/2411.14798)
 10. \[arXiv 2024\] ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification [Paper](https://arxiv.org/pdf/2409.13349)
 11. \[IJCAI 2024\] Are Watermarks Bugs for Deepfake Detectors? Rethinking Proactive Forensics [Paper](https://arxiv.org/abs/2404.17867)
