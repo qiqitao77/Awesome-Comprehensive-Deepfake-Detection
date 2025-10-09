@@ -332,7 +332,7 @@ If you believe there are additional works that should be included in our list, p
 1. \[arXiv 2025\] FakeChain:ExposingShallowCuesinMulti-StepDeepfake Detection [Paper](https://arxiv.org/pdf/2509.16602)
 2. \[arXiv 2025\] SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models [Paper](https://arxiv.org/abs/2506.00562)
 3. \[ECCV 2022\] Detecting and Recovering Sequential DeepFake Manipulation [Paper](https://arxiv.org/abs/2207.02204)
-4. \[arXiv 2023\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
+4. \[IJCV 2025\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
 5. \[CVPR 2024\] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)
 6. \[TIFS 2024\] Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection Resources [Paper](http://ieeexplore.ieee.org/document/10418195)
 7. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral  With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
