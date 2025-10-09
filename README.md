@@ -307,7 +307,7 @@ If you believe there are additional works that should be included in our list, p
 5. \[TPAMI 2021\] DeepFake Detection Based on Discrepancies Between Faces and Their Context [Paper](https://ieeexplore.ieee.org/document/9468380)
 6. \[ICCV 2021\] ID-Reveal: Identity-aware DeepFake Video Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cozzolino_ID-Reveal_Identity-Aware_DeepFake_Video_Detection_ICCV_2021_paper.pdf)
 ###### Knowledge Distillation
-1. \[arXiv 2023\] DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation [Paper](https://arxiv.org/pdf/2312.10680)
+1. \[IEEE Transactions on Information Forensics and Security 2024\] DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation [Paper](https://arxiv.org/pdf/2312.10680)
 2. \[AAAI 2022\] ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images [Paper](https://arxiv.org/abs/2112.03553)
 3. \[ACM MM 2021\] CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation [Paper](https://arxiv.org/abs/2107.02408)
 4. \[CVPRW 2021\] FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning [Paper](https://arxiv.org/abs/2105.13617)
