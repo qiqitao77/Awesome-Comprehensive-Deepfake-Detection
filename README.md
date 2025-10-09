@@ -339,7 +339,7 @@ If you believe there are additional works that should be included in our list, p
 
 ###  Proactive Detection
 #### Proactive Methods for GANs
-1. [\arXiv 2025\] Defending Deepfake via Texture Feature Perturbation [Paper](https://arxiv.org/pdf/2508.17315)
+1. \[IEEE SMC 2025\] Defending Deepfake via Texture Feature Perturbation [Paper](https://arxiv.org/pdf/2508.17315)
 2. \[arXiv 2025\] Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption and Poisoning Against Deepfake [Paper](https://arxiv.org/pdf/2508.07795)
 3. \[ICCV 2025\] NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping [Paper](https://arxiv.org/pdf/2503.18678)
 4. \[arXiv 2025\] Towards Generalized Proactive Defense against Face Swapping with Contour-Hybrid Watermark [Paper](https://arxiv.org/pdf/2505.19081)
