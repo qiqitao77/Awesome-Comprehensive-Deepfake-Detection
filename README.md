@@ -93,6 +93,7 @@ If you believe there are additional works that should be included in our list, p
 |DiffusionDB-Face|2024|Classification|Visual|94,120|24,794|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
 |JourneyDB-Face|2024|Classification|Visual|94,120|87,833|[Diffusion Deepfake](https://arxiv.org/abs/2404.01579)|[Download](https://surrey-uplab.github.io/research/diffusion_deepfake/)|
 |TalkingHeadBench|2025|Classification|Visual|2,312|2,984|[Diffusion Taking Head Generation](https://arxiv.org/pdf/2505.24866)|[Download](https://huggingface.co/datasets/luchaoqi/TalkingHeadBench)|
+|DeepMoiréFake (DMF)|NeurIPS 2025 Dataset and Benchmark|Classification|Visual|12,832|35.6 hours|[Through the Lens: Benchmarking Deepfake Detectors Against Moiré-Induced Distortions](https://arxiv.org/pdf/2510.23225)|-|
 ### Single-modal Interpretability-oriented Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
