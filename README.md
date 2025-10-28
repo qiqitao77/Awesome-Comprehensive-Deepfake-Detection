@@ -111,6 +111,7 @@ If you believe there are additional works that should be included in our list, p
 |DeepFake-eval-2024|2025|Classification|Visual & Audio|1,208|767|[Deepfake-eval-2024: A multi-modal in-the-wild benchmark of deepfakes circulated in 2024](https://arxiv.org/abs/2405.08838)|-|
 |DDL|2025|Classification/Spatial Grounding/Temporal Grounding|Visual & Audio|367K(V)/97K(A)|1.8M|[DDL: ADataset for Interpretable Deepfake Detection and Localization in Real-World Scenarios](https://arxiv.org/pdf/2506.23292)|-|
 |AV-Deepfake1M++|2025|Classification & Temporal Grounding|Visual & Audio|627,936|1,423,218|[AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations](https://arxiv.org/abs/2507.20579)|[Download](https://deepfakes1m.github.io/2025)|
+|DeepfakeBench-MM (Mega-MMDF)|2025|Classification |Visual & Audio|580,000|1,100,000|[DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection](https://arxiv.org/pdf/2510.22622)|[Download]|
 
 ### Multi-modal Text-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real image-text pairs|\# of fake image-text pairs|Paper|Link|
