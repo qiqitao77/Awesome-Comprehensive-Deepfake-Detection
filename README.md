@@ -404,6 +404,8 @@ If you believe there are additional works that should be included in our list, p
 7. \[TIFS 2023\] AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [Paper](https://ieeexplore.ieee.org/document/10081373)
 8. \[arXiv 2022\] An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection [Paper](https://arxiv.org/abs/2203.05178)
 9. \[ICCV 2021\] Joint Audio-Visual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)
+###### Regularization
+1. \[arXiv 2025\] Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach [Paper](https://arxiv.org/html/2511.19080v1)
 ##### Late Fusion
 ###### Concatenation & Addition
 1. \[arXiv 2024\] Integrating Audio-Visual Features for Multimodal Deepfake Detection [Paper](https://arxiv.org/pdf/2310.03827)
