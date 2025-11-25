@@ -439,10 +439,11 @@ If you believe there are additional works that should be included in our list, p
 5. \[Image Communication 2023\] Magnifying multimodal forgery clues for Deepfake detection [Paper](https://dl.acm.org/doi/abs/10.1016/j.image.2023.117010)
 6. \[arXiv 2023\] MIS-AVoiDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection [Paper](https://arxiv.org/abs/2310.02234)
 #### Matching-based Learning
-1. \[arxiv 2025\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/abs/2412.00175)
-2. \[ICIP 2024\] Statistics-aware Audio-visual Deepfake Detector [Paper](https://arxiv.org/pdf/2407.11650)
-3. \[ToMM 2023\] Voice-Face Homogeneity Tells Deepfake [Paper](https://dl.acm.org/doi/10.1145/3625231)
-4. \[arXiv 2023\] Unsupervised Multimodal Deepfake Detection Using Intra- and Cross-Modal Inconsistencies [Paper](https://arxiv.org/abs/2311.17088)
+1. \[WACV 2026\] AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization [Paper](https://arxiv.org/pdf/2511.18993)
+2. \[arxiv 2025\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/abs/2412.00175)
+3. \[ICIP 2024\] Statistics-aware Audio-visual Deepfake Detector [Paper](https://arxiv.org/pdf/2407.11650)
+4. \[ToMM 2023\] Voice-Face Homogeneity Tells Deepfake [Paper](https://dl.acm.org/doi/10.1145/3625231)
+5. \[arXiv 2023\] Unsupervised Multimodal Deepfake Detection Using Intra- and Cross-Modal Inconsistencies [Paper](https://arxiv.org/abs/2311.17088)
 #### Others
 1. \[arxiv 2025\] FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units [Paper](https://arxiv.org/abs/2505.08294)
 2. \[arXiv 2024\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/pdf/2412.00175)
