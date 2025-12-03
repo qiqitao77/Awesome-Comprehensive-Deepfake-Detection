@@ -1,4 +1,4 @@
-<img width="2802" height="320" alt="image" src="https://github.com/user-attachments/assets/9e7a4437-b6a2-4bf6-a878-bfcd992ff62f" /># Awesome Comprehensive Deepfake Detection ![Awesome](https://awesome.re/badge.svg)
+# Awesome Comprehensive Deepfake Detection ![Awesome](https://awesome.re/badge.svg)
 
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection elaborated in the following survey.
 
