@@ -275,6 +275,8 @@ If you believe there are additional works that should be included in our list, p
 34. \[arxiv 2023\] Generalized Face Forgery Detection via Adaptive Learning for Pre-trained Vision Transformer [Paper](https://arxiv.org/abs/2309.11092)
 
 ##### Learning Level
+###### Domain Gap Mitigation
+1. \[arXiv 2025\] A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World [Paper](https://arxiv.org/pdf/2512.04837)
 ###### Advanced Loss
 1. \[ICCV 2025\] Bi-Level Optimization for Self-Supervised AI-Generated Face Detection [Paper](https://arxiv.org/pdf/2507.22824)
 2. \[CVPR 2025\] FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FSFM_A_Generalizable_Face_Security_Foundation_Model_via_Self-Supervised_Facial_CVPR_2025_paper.html)
