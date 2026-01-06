@@ -164,7 +164,7 @@ If you believe there are additional works that should be included in our list, p
 #### Advanced Detection
 ##### Input Level
 ###### Data Augmentation
-1. \[arXiv 2025\] Agent4FaceForgery:Multi-AgentLLMFrameworkforRealisticFaceForgery Detection [Paper](https://arxiv.org/pdf/2509.12546)
+1. \[arXiv 2025\] Agent4FaceForgery:Multi-Agent LLM Framework for Realistic Face Forgery Detection [Paper](https://arxiv.org/pdf/2509.12546)
 2. \[CVPR 2025\] D3: Scaling Up Deepfake Detection by Learning from Discrepancy [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_D3_Scaling_Up_Deepfake_Detection_by_Learning_from_Discrepancy_CVPR_2025_paper.pdf)
 3. \[CVPR 2025\] Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Generalizing_Deepfake_Video_Detection_with_Plug-and-Play_Video-Level_Blending_and_Spatiotemporal_CVPR_2025_paper.pdf)
 4. \[arXiv 2025\] Practical Manipulation Model for Robust Deepfake Detection [Paper](https://www.arxiv.org/abs/2506.05119)
