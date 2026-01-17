@@ -207,7 +207,8 @@ If you believe there are additional works that should be included in our list, p
 ##### Model Level
 ###### Transformer-based
 1. \[arXiv 2026\] Fusion-SSAT: Unleashing the Potential of Self-supervised Auxiliary Task by Feature Fusion for Generalized Deepfake Detection [Paper](https://arxiv.org/pdf/2601.00789) [cross domain/self supervised]
-2. \[IEEE TMM 2025\] Patch-Discontinuity Mining for Generalized Deepfake Detection [Paper](https://arxiv.org/pdf/2512.22027)
+2. \[ICCV 2025\] Seeing Through Deepfakes: A Human-Inspired Framework for Multi-Face Detection [Paper](https://arxiv.org/pdf/2507.14807)
+3. \[IEEE TMM 2025\] Patch-Discontinuity Mining for Generalized Deepfake Detection [Paper](https://arxiv.org/pdf/2512.22027)
 4. \[WACV 2026\] Deepfake Detection that Generalizes Across Benchmarks [Paper](https://arxiv.org/abs/2508.06248) [Code](https://github.com/yermandy/GenD)
 5. \[ICCV 2025\] FakeRadar:Probing Forgery Outliers to Detect Unknown Deepfake Videos [Paper](https://arxiv.org/pdf/2512.14601)
 6. \[arXiv 2025\] Open Set Face Forgery Detection via Dual-Level Evidence Collection [Paper](https://arxiv.org/pdf/2512.04331)
