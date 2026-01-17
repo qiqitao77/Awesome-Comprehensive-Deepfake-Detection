@@ -344,14 +344,15 @@ If you believe there are additional works that should be included in our list, p
 9. \[ICMLW 2023\] Exposing the Fake: Effective Diffusion-Generated Images Detection [Paper](https://arxiv.org/abs/2307.06272)
 
 ##### Sequential Deepfake Detection
-1. \[arXiv 2025\] WhenGenerative Replay Meets Evolving Deepfakes: Domain-Aware Relative Weighting for Incremental Face Forgery Detection [Paper](https://arxiv.org/pdf/2511.18436)
-2. \[arXiv 2025\] FakeChain:ExposingShallowCuesinMulti-StepDeepfake Detection [Paper](https://arxiv.org/pdf/2509.16602)
-3. \[arXiv 2025\] SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models [Paper](https://arxiv.org/abs/2506.00562)
-4. \[ECCV 2022\] Detecting and Recovering Sequential DeepFake Manipulation [Paper](https://arxiv.org/abs/2207.02204)
-5. \[IJCV 2025\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
-6. \[CVPR 2024\] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)
-7. \[TIFS 2024\] Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection Resources [Paper](http://ieeexplore.ieee.org/document/10418195)
-8. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral  With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
+1. \[ICCV 2025\] Generalization-Preserved Learning: Closing the Backdoor to Catastrophic Forgetting in Continual Deepfake Detection [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Generalization-Preserved_Learning_Closing_the_Backdoor_to_Catastrophic_Forgetting_in_Continual_ICCV_2025_paper.pdf)
+2. \[arXiv 2025\] When Generative Replay Meets Evolving Deepfakes: Domain-Aware Relative Weighting for Incremental Face Forgery Detection [Paper](https://arxiv.org/pdf/2511.18436)
+3. \[arXiv 2025\] FakeChain:ExposingShallowCuesinMulti-StepDeepfake Detection [Paper](https://arxiv.org/pdf/2509.16602)
+4. \[arXiv 2025\] SEED: A Benchmark Dataset for Sequential Facial Attribute Editing with Diffusion Models [Paper](https://arxiv.org/abs/2506.00562)
+5. \[ECCV 2022\] Detecting and Recovering Sequential DeepFake Manipulation [Paper](https://arxiv.org/abs/2207.02204)
+6. \[IJCV 2025\] Robust Sequential DeepFake Detection [Paper](https://arxiv.org/abs/2309.14991)
+7. \[CVPR 2024\] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)
+8. \[TIFS 2024\] Multi-Collaboration and Multi-Supervision Network for Sequential Deepfake Detection Resources [Paper](http://ieeexplore.ieee.org/document/10418195)
+9. \[Transactions on Consumer Electronics 2024\] Detecting Sequential Deepfake Manipulation via Spectral  With Pyramid Attention in Consumer IoT [Paper](https://ieeexplore.ieee.org/abstract/document/10556749/)
 
 ###  Proactive Detection
 #### Proactive Methods for GANs
