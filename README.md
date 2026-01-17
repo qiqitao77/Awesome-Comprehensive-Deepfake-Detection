@@ -501,7 +501,7 @@ If you believe there are additional works that should be included in our list, p
 21. \[ECCVW 2020\] Adversarial Attack on Deepfake Detection Using RL Based Texture Patches [Paper](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_14)
 22. \[IJCNN 2020\] Adversarial Perturbations Fool Deepfake Detectors [Paper](https://arxiv.org/abs/2003.10596)
 ### Backdoor Attack
-1. \[arXiv 2025\] Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted [Paper](https://arxiv.org/pdf/2505.08255)
+1. \[CVPR 2025\] Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted [Paper](https://arxiv.org/pdf/2505.08255)
 2. \[ICLR 2024\] Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection [Paper](https://arxiv.org/abs/2402.11473)
 3. \[arXiv 2024\] Is It Possible to Backdoor Face Forgery Detection with Natural Triggers? [Paper](https://arxiv.org/pdf/2401.00414)
 4. \[BigDIA 2023\] Real is not True: Backdoor Attacks Against Deepfake Detection [Paper](https://arxiv.org/abs/2403.06610)
