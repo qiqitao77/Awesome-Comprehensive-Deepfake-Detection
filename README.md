@@ -469,7 +469,7 @@ If you believe there are additional works that should be included in our list, p
 7. \[CVPRW 2023\] Audio-Visual Person-of-Interest DeepFake Detection [Paper](https://arxiv.org/abs/2301.01767)
 
 ## Visual-Text Deepfake Detection
-1. \[arXiv 2025\] Fine-grained Multiple Supervisory Network for Multi-modal Manipulation Detecting and Grounding [Paper](https://arxiv.org/pdf/2508.02479)
+1. \[arXiv 2025\] Fine-grained Multiple Supervisory Network for Multi-modal Manipulation Detecting and Grounding [Paper](https://arxiv.org/pdf/2508.02479) [detection/grounding]
 2. \[arXiv 2025\] M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis [Paper](https://arxiv.org/pdf/2512.01214)
 3. \[arXiv 2024\] ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding [Paper](https://arxiv.org/pdf/2412.12718)
 4. \[TPAMI 2024\] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [Paper](https://arxiv.org/abs/2309.14203)
