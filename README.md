@@ -335,7 +335,7 @@ If you believe there are additional works that should be included in our list, p
 2. \[ToMM 2024\] Mastering Deepfake Detection: A Cutting-Edge Approach to Distinguish GAN and Diffusion-Model Images [Paper](https://dl.acm.org/doi/10.1145/3652027)
 3. \[CVPR 2023\] Hierarchical Fine-Grained Image Forgery Detection and Localization [Paper](https://arxiv.org/abs/2303.17111)
 4. \[ICCV 2023\] Controllable Guide-Space for Generalizable Face Forgery Detection [Paper](https://arxiv.org/abs/2307.14039)
-##### World Consistency
+###### World Consistency
 1. \[ICLR 2026\] Exploring specular reflection inconsistency for generalizable face forgery detection [Paper](https://arxiv.org/pdf/2602.06452) [Physics-inspired forensic cue mining/Reflection]
 
 ##### Diffusion Model Detection
