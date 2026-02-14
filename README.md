@@ -157,7 +157,7 @@ If you believe there are additional works that should be included in our list, p
 16. \[TCSVT 2023\] MRE-Net: Multi-Rate Excitation Network for Deepfake Video Detection [Paper](https://ieeexplore.ieee.org/document/10025759)
 17. \[WACV 2023\] TI2Net: Temporal Identity Inconsistency Network for Deepfake Detection [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf)
 18. \[ACM MM Asia 2022\] Latent pattern sensing: Deepfake video detection via predictive representation learning [Paper](https://doi.org/10.1145/3469877.3490586)
-19. \[CVPR 2021\] Lips don’t lie: A generalisable and robust approach to face forgery detection [Paper](https://arxiv.org/abs/2012.07657)
+19. \[CVPR 2021\] Lips don't lie: A generalisable and robust approach to face forgery detection [Paper](https://arxiv.org/abs/2012.07657)
 20. \[ICCV 2021\] Exploring Temporal Coherence for More General Video Face Forgery Detection [Paper](https://arxiv.org/abs/2108.06693)
 21. \[ACM MM 2020\] DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms [Paper](https://arxiv.org/abs/2006.07634)
 22. \[WIFS 2018\] In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking [Paper](https://ieeexplore.ieee.org/document/8630787/)
@@ -564,6 +564,9 @@ If you find our survey is helpful in your research, please consider citing our p
 ## Relevant Surveys
 
 ### Deepfake/AIGC Generation and Detection
+
+\[Online Benchmark 2025\] AI Detector Arena: Live crowdsourced benchmark for AI image detectors with ELO rankings and accuracy stats [Website](https://aidetectarena.com) [Dataset](https://aidetectarena.com/datasets/v0.1)
+
 \[arXiv 2025\] Unmasking Synthetic Realities in Generative Ai: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems [Paper](https://arxiv.org/pdf/2507.21157)
 
 \[arXiv 2024\] Passive Deepfake Detection Across Multi-Modalities: A Comprehensive Survey [Paper](https://arxiv.org/pdf/2411.17911)
@@ -582,4 +585,3 @@ If you find our survey is helpful in your research, please consider citing our p
 
 ### Multi-modal Fact-checking
 \[EMNLP 2023\] Multimodal automated fact-checking: A survey [Paper](https://arxiv.org/abs/2305.13507)
-
