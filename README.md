@@ -1,4 +1,4 @@
-# Awesome Comprehensive Deepfake Detection ![Awesome](https://awesome.re/badge.svg)
+# Awesome Comprehensive Facial Deepfake Detection ![Awesome](https://awesome.re/badge.svg)
 
 This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection elaborated in the following survey.
 
