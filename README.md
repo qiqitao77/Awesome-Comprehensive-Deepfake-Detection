@@ -1,6 +1,6 @@
 # Awesome Comprehensive Facial Deepfake Detection ![Awesome](https://awesome.re/badge.svg)
 
-This repository provides a comprehensive investigation of advanced single-modal and multi-modal deepfake detection elaborated in the following survey.
+This repository provides a comprehensive investigation of advanced single-modal and multi-modal facial deepfake detection elaborated in the following survey.
 
 <p align="center" style="font-size:20px;">
   <h2>From Single-modal to Multi-modal Facial Deepfake Detection: Progress and Challenges
