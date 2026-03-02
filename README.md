@@ -457,7 +457,7 @@ If you believe there are additional works that should be included in our list, p
 5. \[Image Communication 2023\] Magnifying multimodal forgery clues for Deepfake detection [Paper](https://dl.acm.org/doi/abs/10.1016/j.image.2023.117010)
 6. \[arXiv 2023\] MIS-AVoiDD: Modality Invariant and Specific Representation for Audio-Visual Deepfake Detection [Paper](https://arxiv.org/abs/2310.02234)
 #### Matching-based Learning
-1. \[ICASSP 2026\] Leveraging large multimodal models for audio-video deepfake detection: a pilot study [Paper](https://arxiv.org/abs/2602.23393)[Large Multimodal Model/QA] 
+1. \[ICASSP 2026\] Leveraging large multimodal models for audio-video deepfake detection: a pilot study [Paper](https://arxiv.org/abs/2602.23393) [Large Multimodal Model/QA] 
 2. \[arXiv 2026\] ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors [Paper](https://arxiv.org/pdf/2601.02359) [Self-supervised/Identity-aware/Adapter/Matching-based]
 3. \[WACV 2026\] AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization [Paper](https://arxiv.org/pdf/2511.18993)
 4. \[arxiv 2025\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/abs/2412.00175)
