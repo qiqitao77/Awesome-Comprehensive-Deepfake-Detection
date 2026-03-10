@@ -85,6 +85,7 @@ If you believe there are additional works that should be included in our list, p
 |DF-Platter|2023|Classification|Visual|133,260|132,496|[DF-Platter: Multi-Face Heterogeneous Deepfake Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)|[Download](https://iab-rubric.org/df-platter-database)|
 |Celeb-DF++|2025|Classification|Visual|590|53,196|[Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://arxiv.org/pdf/2507.18015)|[Download](https://github.com/OUC-VAS/Celeb-DF-PP)|
 |Beyond Static Artifacts|2026|Reasoning / QA|Video (FS/FR)|1,000|5,000|[Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision-Language Models](https://arxiv.org/pdf/2602.21779)|--|
+|CoT-Face|2026|Reasoning / QA|Visual|5,953|--|[EvolveReason: Self-Evolving Reasoning Paradigm for Explainable Deepfake Facial Image Identification](https://arxiv.org/abs/2603.07515)|--|
 ### Single-modal Diffusion-generated Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
