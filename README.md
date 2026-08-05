@@ -100,7 +100,12 @@ If you believe there are additional works that should be included in our list, p
 |Dataset|Year|Task|Manipulated Modality|\# of real images|\# of fake images|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
 |MMTT|2024|Classification & Explanation|Visual|100,000|128,303|[A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization](https://arxiv.org/abs/2412.19685)|not released yet|
+### Single-modal Mixed-generation Video Benchmarks
+|Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|-|-|
+|FakeI2V-Bench|2026|Classification & Benchmarking|Visual|25,053|72,495|[FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection](https://arxiv.org/abs/2608.03096)|[Download](https://github.com/CryptoAILab/FakeI2V-Bench)|
 
+> **Note:** FakeI2V-Bench aggregates 97,548 videos from CDFV2, DFD, GenVideo, and GenVidBench rather than introducing an entirely new video collection.
 ### Multi-modal Audio-Visual Datasets
 |Dataset|Year|Task|Manipulated Modality|\# of real videos|\# of fake videos|Paper|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|-|-|
