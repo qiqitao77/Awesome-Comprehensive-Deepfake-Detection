@@ -495,13 +495,14 @@ If you believe there are additional works that should be included in our list, p
 6. \[ToMM 2023\] Voice-Face Homogeneity Tells Deepfake [Paper](https://dl.acm.org/doi/10.1145/3625231)
 7. \[arXiv 2023\] Unsupervised Multimodal Deepfake Detection Using Intra- and Cross-Modal Inconsistencies [Paper](https://arxiv.org/abs/2311.17088)
 #### Others
-1. \[arxiv 2025\] FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units [Paper](https://arxiv.org/abs/2505.08294)
-2. \[arXiv 2024\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/pdf/2412.00175)
-3. \[CVPR 2024\] AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection [Paper](https://arxiv.org/abs/2406.02951)
-4. \[CVPR 2023\] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection [Paper](https://arxiv.org/abs/2301.01767)
-5. \[ToMM 2023\] Multimodal Neurosymbolic Approach for Explainable Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3624748)
-6. \[TCSVT 2023\] PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection [Paper](https://ieeexplore.ieee.org/document/10233898)
-7. \[CVPRW 2023\] Audio-Visual Person-of-Interest DeepFake Detection [Paper](https://arxiv.org/abs/2301.01767)
+1. \[BMVC 2026\] DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts [Paper](https://arxiv.org/abs/2608.23363)
+2. \[arXiv 2025\] FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units [Paper](https://arxiv.org/abs/2505.08294)
+3. \[arXiv 2024\] Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning [Paper](https://arxiv.org/pdf/2412.00175)
+4. \[CVPR 2024\] AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection [Paper](https://arxiv.org/abs/2406.02951)
+5. \[CVPR 2023\] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection [Paper](https://arxiv.org/abs/2301.01767)
+6. \[ToMM 2023\] Multimodal Neurosymbolic Approach for Explainable Deepfake Detection [Paper](https://dl.acm.org/doi/10.1145/3624748)
+7. \[TCSVT 2023\] PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection [Paper](https://ieeexplore.ieee.org/document/10233898)
+8. \[CVPRW 2023\] Audio-Visual Person-of-Interest DeepFake Detection [Paper](https://arxiv.org/abs/2301.01767)
 
 ## Visual-Text Deepfake Detection
 1. \[CVPR 2026\] The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts [Paper](https://arxiv.org/pdf/2505.17476) [reasoning]
