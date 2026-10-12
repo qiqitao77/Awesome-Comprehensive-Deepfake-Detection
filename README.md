@@ -29,7 +29,7 @@
   <sup>3</sup><a href="https://www.catos.sg/"> Centre for Advanced Technologies in Online Safety (CATOS)</a>
 </p>
 
-<p align="center"><img src="figures/taxonomy-human-centric.png" alt="Taxonomy of human-centric deepfake detection" width="95%"></p>
+<p align="center"><img src="figures/taxonomy-human-centric_1.png" alt="Taxonomy of human-centric deepfake detection" width="95%"></p>
 
 ## 📰 News
 
