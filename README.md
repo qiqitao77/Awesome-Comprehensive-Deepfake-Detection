@@ -1,9 +1,7 @@
 <a id="readme-top"></a>
 <div align="center">
 
-# Awesome Human-Centric Deepfake Detection
-
-**A curated, taxonomy-organized list of research on detecting forged and synthesized faces, talking heads, bodies, and identity-linked voices.**
+<img src="figures/deepfake-hero.png" alt="Awesome Human-Centric Deepfake Detection: a research map of human-centric forgery forensics" width="100%">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
