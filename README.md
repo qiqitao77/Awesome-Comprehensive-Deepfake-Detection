@@ -503,7 +503,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 ### Audio-Visual: Cross-modal Consistency and Matching
 
-- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Physics-Aware Deepfake Detection via Distance-Speech Consistency** · [📄 Paper](https://arxiv.org/abs/2610.18485) · [💻 Code](https://byulharang.github.io/PADD/) `Physics`
+- ![INTERSPEECH 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Physics-Aware Deepfake Detection via Distance-Speech Consistency** · [📄 Paper](https://arxiv.org/abs/2610.18485) · [💻 Code](https://byulharang.github.io/PADD/) `Physics`
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **PVSync: A Unified Lip-Sync Expert for Timing and Articulation** · [📄 Paper](https://arxiv.org/abs/2610.09223)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors** · [📄 Paper](https://arxiv.org/pdf/2601.02359)
 - ![ICASSP 2025](https://img.shields.io/badge/ICASSP-2025-7b61b8?style=flat-square) **AUDIO-VISUAL DEEPFAKEDETECTIONWITHLOCALTEMPORALINCONSISTENCIES** · [📄 Paper](https://arxiv.org/pdf/2501.08137)
