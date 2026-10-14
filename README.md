@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-351-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-352-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -45,7 +45,7 @@
 | 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 15 | 2025 |
 | 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 1 | 2025 |
 | 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 27 | 2026 |
-| 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 27 | 2026 |
+| 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 28 | 2026 |
 | 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 12 | 2026 |
 | 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 25 | 2026 |
 | 🧩 [Continual and Incremental Detection](#continual-and-incremental-detection) | 10 | 2026 |
@@ -95,7 +95,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (1)
 - [🧭 Generalization Strategies](#-generalization-strategies)
   - [Foundation Model Adaptation](#foundation-model-adaptation) (27)
-  - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (27)
+  - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (28)
   - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (12)
 - [🧩 Detection Tasks and Settings](#-detection-tasks-and-settings)
   - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (25)
@@ -347,6 +347,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 ### Disentanglement, Debiasing and Representation Learning
 
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **EviStress: Evidence Stress Learning for Generalizable Face Forgery Detection with Textual Explanations** · [📄 Paper](https://arxiv.org/abs/2610.16879) `Explainable`
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Learning Unified Video and Image Representation for Video Face Forgery Detection** · [📄 Paper](https://arxiv.org/pdf/2608.13064)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Uncertainty-Aware Deepfake Detection via Multi-View Structural Learning** · [📄 Paper](https://arxiv.org/pdf/2607.28769)
 - ![TPAMI 2026](https://img.shields.io/badge/TPAMI-2026-2e8b57?style=flat-square) 🔥 **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection** · [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11435922)
