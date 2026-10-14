@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-361-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-362-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -39,7 +39,7 @@
 
 | Section | Papers | Newest |
 |:--|:-:|:-:|
-| 🔍 [Low-level Artifacts](#low-level-artifacts) | 33 | 2026 |
+| 🔍 [Low-level Artifacts](#low-level-artifacts) | 34 | 2026 |
 | 🔍 [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) | 23 | 2026 |
 | 🔍 [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) | 15 | 2026 |
 | 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 15 | 2026 |
@@ -88,7 +88,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Multi-modal Text-Visual Datasets](#multi-modal-text-visual-datasets)
   - [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies)
 - [🔍 Passive Detection](#-passive-detection)
-  - [Low-level Artifacts](#low-level-artifacts) (33)
+  - [Low-level Artifacts](#low-level-artifacts) (34)
   - [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) (23)
   - [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) (15)
   - [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) (15)
@@ -220,6 +220,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **WMamba: Wavelet-based Mamba for Face Forgery Detection** · [📄 Paper](https://arxiv.org/abs/2501.09617)
 - ![WACVW 2025](https://img.shields.io/badge/WACVW-2025-8a8f98?style=flat-square) **Wavelet-Driven Generalizable Framework for Deepfake Face Forgery Detection** · [📄 Paper](https://arxiv.org/pdf/2409.18301) · [💻 Code](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)
 - ![PR 2025](https://img.shields.io/badge/PR-2025-2e8b57?style=flat-square) **Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection** · [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324010045)
+- ![WIFS 2025](https://img.shields.io/badge/WIFS-2025-7b61b8?style=flat-square) **ADD: An Automated Neural Architecture Search Baseline for Deepfake Detection** · [📄 Paper](https://ieeexplore.ieee.org/document/11458560) `NAS`
 - ![CVPR 2024](https://img.shields.io/badge/CVPR-2024-1f6feb?style=flat-square) **Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2312.10461) · [💻 Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) `General AIGI`
 - ![CVPR 2024](https://img.shields.io/badge/CVPR-2024-1f6feb?style=flat-square) **LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2401.13856) · [💻 Code](https://github.com/10Ring/LAA-Net)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2403.06803)
