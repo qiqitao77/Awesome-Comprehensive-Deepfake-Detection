@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-352-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-353-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -53,7 +53,7 @@
 | 🧩 [Localization and Grounding](#localization-and-grounding) | 16 | 2026 |
 | 🎙️ [Audio-Visual: Unimodal Ensemble](#audio-visual-unimodal-ensemble) | 4 | 2025 |
 | 🎙️ [Audio-Visual: Feature Fusion](#audio-visual-feature-fusion) | 18 | 2026 |
-| 🎙️ [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) | 11 | 2026 |
+| 🎙️ [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) | 12 | 2026 |
 | 🎙️ [Audio-Visual: Self-supervised Representation](#audio-visual-self-supervised-representation) | 5 | 2026 |
 | 🎙️ [Text-Visual Manipulation Detection](#text-visual-manipulation-detection) | 9 | 2026 |
 | 🛡️ [Watermarking and Fingerprinting](#watermarking-and-fingerprinting) | 13 | 2025 |
@@ -105,7 +105,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - [🎙️ Multi-modal Detection](#-multi-modal-detection)
   - [Audio-Visual: Unimodal Ensemble](#audio-visual-unimodal-ensemble) (4)
   - [Audio-Visual: Feature Fusion](#audio-visual-feature-fusion) (18)
-  - [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) (11)
+  - [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) (12)
   - [Audio-Visual: Self-supervised Representation](#audio-visual-self-supervised-representation) (5)
   - [Text-Visual Manipulation Detection](#text-visual-manipulation-detection) (9)
 - [🛡️ Proactive Defense](#-proactive-defense)
@@ -503,6 +503,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 ### Audio-Visual: Cross-modal Consistency and Matching
 
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Physics-Aware Deepfake Detection via Distance-Speech Consistency** · [📄 Paper](https://arxiv.org/abs/2610.18485) · [💻 Code](https://byulharang.github.io/PADD/) `Physics`
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **PVSync: A Unified Lip-Sync Expert for Timing and Articulation** · [📄 Paper](https://arxiv.org/abs/2610.09223)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors** · [📄 Paper](https://arxiv.org/pdf/2601.02359)
 - ![ICASSP 2025](https://img.shields.io/badge/ICASSP-2025-7b61b8?style=flat-square) **AUDIO-VISUAL DEEPFAKEDETECTIONWITHLOCALTEMPORALINCONSISTENCIES** · [📄 Paper](https://arxiv.org/pdf/2501.08137)
