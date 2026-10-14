@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-350-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-351-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -47,7 +47,7 @@
 | 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 27 | 2026 |
 | 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 27 | 2026 |
 | 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 12 | 2026 |
-| 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 24 | 2026 |
+| 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 25 | 2026 |
 | 🧩 [Continual and Incremental Detection](#continual-and-incremental-detection) | 10 | 2026 |
 | 🧩 [Sequential Manipulation Detection](#sequential-manipulation-detection) | 7 | 2025 |
 | 🧩 [Localization and Grounding](#localization-and-grounding) | 16 | 2026 |
@@ -98,7 +98,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (27)
   - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (12)
 - [🧩 Detection Tasks and Settings](#-detection-tasks-and-settings)
-  - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (24)
+  - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (25)
   - [Continual and Incremental Detection](#continual-and-incremental-detection) (10)
   - [Sequential Manipulation Detection](#sequential-manipulation-detection) (7)
   - [Localization and Grounding](#localization-and-grounding) (16)
@@ -398,6 +398,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 ### Explainable and Reasoning-based Detection
 
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Not Every Cue Is Evidence: Cue Supportability for Forensic Distillation in Face Forgery Detection** · [📄 Paper](https://arxiv.org/abs/2610.16452)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2609.35536)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs** · [📄 Paper](https://arxiv.org/pdf/2608.18573)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection** · [📄 Paper](https://arxiv.org/pdf/2608.06865)
