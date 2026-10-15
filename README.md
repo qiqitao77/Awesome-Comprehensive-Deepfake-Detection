@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-423-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-467-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -39,32 +39,32 @@
 
 | Section | Papers | Newest |
 |:--|:-:|:-:|
-| 🔍 [Low-level Artifacts](#low-level-artifacts) | 35 | 2026 |
+| 🔍 [Low-level Artifacts](#low-level-artifacts) | 36 | 2026 |
 | 🔍 [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) | 24 | 2026 |
-| 🔍 [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) | 17 | 2026 |
+| 🔍 [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) | 18 | 2026 |
 | 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 16 | 2026 |
-| 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 1 | 2025 |
-| 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 33 | 2026 |
-| 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 33 | 2026 |
-| 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 14 | 2026 |
-| 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 32 | 2026 |
+| 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 2 | 2025 |
+| 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 34 | 2026 |
+| 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 36 | 2026 |
+| 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 15 | 2026 |
+| 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 34 | 2026 |
 | 🧩 [Continual and Incremental Detection](#continual-and-incremental-detection) | 13 | 2026 |
 | 🧩 [Sequential Manipulation Detection](#sequential-manipulation-detection) | 7 | 2025 |
-| 🧩 [Localization and Grounding](#localization-and-grounding) | 22 | 2026 |
+| 🧩 [Localization and Grounding](#localization-and-grounding) | 24 | 2026 |
 | 🎙️ [Audio-Visual: Unimodal Ensemble](#audio-visual-unimodal-ensemble) | 4 | 2025 |
-| 🎙️ [Audio-Visual: Feature Fusion](#audio-visual-feature-fusion) | 19 | 2026 |
-| 🎙️ [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) | 15 | 2026 |
-| 🎙️ [Audio-Visual: Self-supervised Representation](#audio-visual-self-supervised-representation) | 7 | 2026 |
-| 🎙️ [Text-Visual Manipulation Detection](#text-visual-manipulation-detection) | 11 | 2026 |
-| 🛡️ [Watermarking and Fingerprinting](#watermarking-and-fingerprinting) | 16 | 2026 |
-| 🛡️ [Disruption and Anti-forgery](#disruption-and-anti-forgery) | 31 | 2026 |
+| 🎙️ [Audio-Visual: Feature Fusion](#audio-visual-feature-fusion) | 20 | 2026 |
+| 🎙️ [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) | 16 | 2026 |
+| 🎙️ [Audio-Visual: Self-supervised Representation](#audio-visual-self-supervised-representation) | 8 | 2026 |
+| 🎙️ [Text-Visual Manipulation Detection](#text-visual-manipulation-detection) | 15 | 2026 |
+| 🛡️ [Watermarking and Fingerprinting](#watermarking-and-fingerprinting) | 20 | 2026 |
+| 🛡️ [Disruption and Anti-forgery](#disruption-and-anti-forgery) | 43 | 2026 |
 | ⚖️ [Adversarial Evasion](#adversarial-evasion) | 17 | 2026 |
 | ⚖️ [Anti-forensics and Trace Removal](#anti-forensics-and-trace-removal) | 10 | 2024 |
 | ⚖️ [Backdoor Attacks](#backdoor-attacks) | 4 | 2025 |
 | ⚖️ [Robustness Defenses](#robustness-defenses) | 7 | 2026 |
 | ⚖️ [Efficiency](#efficiency) | 5 | 2026 |
-| ⚖️ [Fairness and Privacy](#fairness-and-privacy) | 6 | 2026 |
-| 📚 [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies) | 24 | 2026 |
+| ⚖️ [Fairness and Privacy](#fairness-and-privacy) | 10 | 2026 |
+| 📚 [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies) | 29 | 2026 |
 
 Badge colors: ![](https://img.shields.io/badge/-main%20conference-1f6feb?style=flat-square) ![](https://img.shields.io/badge/-journal-2e8b57?style=flat-square) ![](https://img.shields.io/badge/-other%20venue-7b61b8?style=flat-square) ![](https://img.shields.io/badge/-workshop-8a8f98?style=flat-square) ![](https://img.shields.io/badge/-preprint-b31b1b?style=flat-square) &nbsp; 🔥 marks 2026 papers.
 
@@ -88,36 +88,36 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Multi-modal Text-Visual Datasets](#multi-modal-text-visual-datasets)
   - [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies)
 - [🔍 Passive Detection](#-passive-detection)
-  - [Low-level Artifacts](#low-level-artifacts) (35)
+  - [Low-level Artifacts](#low-level-artifacts) (36)
   - [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) (24)
-  - [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) (17)
+  - [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) (18)
   - [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) (16)
-  - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (1)
+  - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (2)
 - [🧭 Generalization Strategies](#-generalization-strategies)
-  - [Foundation Model Adaptation](#foundation-model-adaptation) (33)
-  - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (33)
-  - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (14)
+  - [Foundation Model Adaptation](#foundation-model-adaptation) (34)
+  - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (36)
+  - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (15)
 - [🧩 Detection Tasks and Settings](#-detection-tasks-and-settings)
-  - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (32)
+  - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (34)
   - [Continual and Incremental Detection](#continual-and-incremental-detection) (13)
   - [Sequential Manipulation Detection](#sequential-manipulation-detection) (7)
-  - [Localization and Grounding](#localization-and-grounding) (22)
+  - [Localization and Grounding](#localization-and-grounding) (24)
 - [🎙️ Multi-modal Detection](#-multi-modal-detection)
   - [Audio-Visual: Unimodal Ensemble](#audio-visual-unimodal-ensemble) (4)
-  - [Audio-Visual: Feature Fusion](#audio-visual-feature-fusion) (19)
-  - [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) (15)
-  - [Audio-Visual: Self-supervised Representation](#audio-visual-self-supervised-representation) (7)
-  - [Text-Visual Manipulation Detection](#text-visual-manipulation-detection) (11)
+  - [Audio-Visual: Feature Fusion](#audio-visual-feature-fusion) (20)
+  - [Audio-Visual: Cross-modal Consistency and Matching](#audio-visual-cross-modal-consistency-and-matching) (16)
+  - [Audio-Visual: Self-supervised Representation](#audio-visual-self-supervised-representation) (8)
+  - [Text-Visual Manipulation Detection](#text-visual-manipulation-detection) (15)
 - [🛡️ Proactive Defense](#-proactive-defense)
-  - [Watermarking and Fingerprinting](#watermarking-and-fingerprinting) (16)
-  - [Disruption and Anti-forgery](#disruption-and-anti-forgery) (31)
+  - [Watermarking and Fingerprinting](#watermarking-and-fingerprinting) (20)
+  - [Disruption and Anti-forgery](#disruption-and-anti-forgery) (43)
 - [⚖️ Trustworthy Detection](#-trustworthy-detection)
   - [Adversarial Evasion](#adversarial-evasion) (17)
   - [Anti-forensics and Trace Removal](#anti-forensics-and-trace-removal) (10)
   - [Backdoor Attacks](#backdoor-attacks) (4)
   - [Robustness Defenses](#robustness-defenses) (7)
   - [Efficiency](#efficiency) (5)
-  - [Fairness and Privacy](#fairness-and-privacy) (6)
+  - [Fairness and Privacy](#fairness-and-privacy) (10)
 - [📝 Citation](#-citation)
 - [🤝 Contributing](#-contributing)
 - [📖 Relevant Surveys](#-relevant-surveys)
@@ -204,6 +204,11 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **LLMs Are Not Yet Ready for Deepfake Image Detection** · [📄 Paper](https://arxiv.org/abs/2506.10474)
 - ![Visual Intelligence 2025](https://img.shields.io/badge/Visual%20Intelligence-2025-2e8b57?style=flat-square) **SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models** · [📄 Paper](https://arxiv.org/abs/2402.04178) · [💻 Code](https://github.com/laiyingxin2/SHIELD)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Can Multi-Modal (Reasoning) LLMs Work as Deepfake Detectors** · [📄 Paper](https://arxiv.org/pdf/2503.20084)
+- ![ICLR 2025](https://img.shields.io/badge/ICLR-2025-1f6feb?style=flat-square) **ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset** · [📄 Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/08f9de0232c0b485110237f6e6cf88f1-Abstract-Conference.html) `Audio-Visual`
+- ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html) · [💻 Code](https://github.com/Forensics-Bench/Forensics-Bench) `Explainable` `General AIGI`
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Multiverse Through Deepfakes: The MultiFakeVerse Dataset of Person-Centric Visual and Conceptual Manipulations** · [📄 Paper](https://doi.org/10.1145/3746027.3758283) · [💻 Code](https://github.com/Parul-Gupta/MultiFakeVerse)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **A Large-scale Universal Evaluation Benchmark For Face Forgery Detection** · [📄 Paper](https://doi.org/10.1145/3746027.3758194) · [💻 Code](https://github.com/HengruiLou/DeepFaceGen)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **MFFI: Multi-Dimensional Face Forgery Image Dataset for Real-World Scenarios** · [📄 Paper](https://doi.org/10.1145/3746027.3758280)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Nearly Solved? Robust Deepfake Detection Requires More than Visual Forensics** · [📄 Paper](https://arxiv.org/abs/2412.05676)
 - ![CVPRW 2024](https://img.shields.io/badge/CVPRW-2024-8a8f98?style=flat-square) **Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics** · [📄 Paper](https://arxiv.org/abs/2403.14077)
 - ![ACM ICMRW 2024](https://img.shields.io/badge/ACM%20ICMRW-2024-8a8f98?style=flat-square) **Towards Quantitative Evaluation of Explainable AI Methods for Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2404.18649) · [💻 Code](https://github.com/IDT-ITI/XAI-Deepfakes)
@@ -229,10 +234,11 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2509.22070) · [💻 Code](https://github.com/tanvirnwu/SpecXNet_ACM_MM_2025)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Forgery Guided Learning Strategy with Dual Perception Network for Deepfake Cross-domain Detection** · [📄 Paper](https://arxiv.org/pdf/2508.10741)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion** · [📄 Paper](https://arxiv.org/abs/2504.17223)
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **WMamba: Wavelet-based Mamba for Face Forgery Detection** · [📄 Paper](https://arxiv.org/abs/2501.09617)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **WMamba: Wavelet-based Mamba for Face Forgery Detection** · [📄 Paper](https://arxiv.org/abs/2501.09617)
 - ![WACVW 2025](https://img.shields.io/badge/WACVW-2025-8a8f98?style=flat-square) **Wavelet-Driven Generalizable Framework for Deepfake Face Forgery Detection** · [📄 Paper](https://arxiv.org/pdf/2409.18301) · [💻 Code](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)
 - ![PR 2025](https://img.shields.io/badge/PR-2025-2e8b57?style=flat-square) **Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection** · [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324010045)
 - ![WIFS 2025](https://img.shields.io/badge/WIFS-2025-7b61b8?style=flat-square) **ADD: An Automated Neural Architecture Search Baseline for Deepfake Detection** · [📄 Paper](https://ieeexplore.ieee.org/document/11458560) `NAS`
+- ![ICML 2025](https://img.shields.io/badge/ICML-2025-1f6feb?style=flat-square) **STD-FD: Spatio-Temporal Distribution Fitting Deviation for AIGC Forgery Identification** · [📄 Paper](https://icml.cc/virtual/2025/poster/45231) · [💻 Code](https://github.com/HengruiLou/STDFD) `General AIGI`
 - ![CVPR 2024](https://img.shields.io/badge/CVPR-2024-1f6feb?style=flat-square) **Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2312.10461) · [💻 Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) `General AIGI`
 - ![CVPR 2024](https://img.shields.io/badge/CVPR-2024-1f6feb?style=flat-square) **LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2401.13856) · [💻 Code](https://github.com/10Ring/LAA-Net)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2403.06803)
@@ -293,6 +299,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![CVPRW 2025](https://img.shields.io/badge/CVPRW-2025-8a8f98?style=flat-square) **Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations** · [📄 Paper](https://arxiv.org/pdf/2503.22121) · [💻 Code](https://github.com/Tharun-Anand/Localised-Deepfake-Detection)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **SELFI: Selective Fusion of Identity for Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2506.17592) · [💻 Code](https://github.com/dudgjs0915/SELFI-Selective-Fusion-of-Identity-for-Generalizable-Deepfake-Detection)
 - ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes** · [📄 Paper](https://arxiv.org/pdf/2505.19582) · [💻 Code](https://github.com/KQL11/VIPGuard)
+- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **Unmasking Puppeteers: Leveraging Biometric Leakage to Expose Impersonation in AI-Based Videoconferencing** · [📄 Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/a34308d616e3193199cfc7e82801a19f-Abstract-Conference.html)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures** · [📄 Paper](https://arxiv.org/pdf/2412.05487)
 - ![NeurIPS 2024](https://img.shields.io/badge/NeurIPS-2024-1f6feb?style=flat-square) **DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion** · [📄 Paper](https://arxiv.org/abs/2410.04372) · [💻 Code](https://github.com/skJack/DiffusionFake)
 - ![WACV 2023](https://img.shields.io/badge/WACV-2023-7b61b8?style=flat-square) **TI2Net: Temporal Identity Inconsistency Network for Deepfake Detection** · [📄 Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_TI2Net_Temporal_Identity_Inconsistency_Network_for_Deepfake_Detection_WACV_2023_paper.pdf)
@@ -325,6 +332,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 ### Fully Synthetic Human-centric Video
 
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content** · [📄 Paper](https://arxiv.org/pdf/2412.12278)
+- ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly** · [📄 Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_HumanSAM_Classifying_Human-centric_Forgery_Videos_in_Human_Spatial_Appearance_and_ICCV_2025_paper.html) · [💻 Code](https://github.com/dejian-lc/humansam) `Human Motion`
 
 > 🌱 This section is new and still sparse. Suggestions are welcome.
 
@@ -363,11 +371,12 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Knowledge-Guided Prompt Learning for Deepfake Facial Image Detection** · [📄 Paper](https://arxiv.org/pdf/2501.00700)
 - ![ICML 2025](https://img.shields.io/badge/ICML-2025-1f6feb?style=flat-square) **Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection** · [📄 Paper](https://arxiv.org/abs/2411.15633) · [💻 Code](https://github.com/YZY-stack/Effort-AIGI-Detection)
 - ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-2e8b57?style=flat-square) **MFCLIP: Multi-modal Fine-grained CLIP for Generalizable Diffusion Face Forgery Detection** · [📄 Paper](https://www.arxiv.org/abs/2409.09724) · [💻 Code](https://github.com/Jenine-321/MFCLIP)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **GM-DF: Generalized Multi-Scenario Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2406.20078)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **HAMLET-FFD: Hierarchical Adaptive Multi-modal Learning Embeddings Transformation for Face Forgery Detection** · [📄 Paper](https://doi.org/10.1145/3746027.3755137)
 - ![TCSVT 2024](https://img.shields.io/badge/TCSVT-2024-2e8b57?style=flat-square) **Forgery-aware Adaptive Learning with Vision Transformer for Generalized Face Forgery Detection** · [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10813581) · [💻 Code](https://github.com/LoveSiameseCat/FAViT)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Understanding and Improving Training-Free AI-Generated Image Detections with Vision Foundation Models** · [📄 Paper](https://arxiv.org/pdf/2411.19117)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Face Forgery Detection with Elaborate Backbone** · [📄 Paper](https://arxiv.org/abs/2409.16945) · [💻 Code](https://github.com/zhenglab/FFDBackbone)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis** · [📄 Paper](https://arxiv.org/abs/2405.00355)
-- ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **GM-DF: Generalized Multi-Scenario Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2406.20078)
 - ![MIPR 2023](https://img.shields.io/badge/MIPR-2023-7b61b8?style=flat-square) **Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation** · [📄 Paper](https://ieeexplore.ieee.org/document/10254409)
 
 ### Disentanglement, Debiasing and Representation Learning
@@ -390,6 +399,9 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FSFM_A_Generalizable_Face_Security_Foundation_Model_via_Self-Supervised_Facial_CVPR_2025_paper.html) · [💻 Code](https://github.com/wolo-wolo/FSFM-CVPR25)
 - ![IJCAI 2025](https://img.shields.io/badge/IJCAI-2025-1f6feb?style=flat-square) **Learning Real Facial Concepts for Independent Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2505.04460)
 - ![TCSVT 2025](https://img.shields.io/badge/TCSVT-2025-2e8b57?style=flat-square) **Semantics-Oriented Multitask Learning for DeepFake Detection: A Joint Embedding Approach** · [📄 Paper](https://arxiv.org/pdf/2408.16305)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **FakeDiffer: Distributional Disparity Learning on Differentiated Reconstruction for Face Forgery Detection** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32809)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **Critical Forgetting-Based Multi-Scale Disentanglement for Deepfake Detection** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32021)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **Mixture-of-Attack-Experts with Class Regularization for Unified Physical-Digital Face Attack Detection** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32218)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **UniForensics: Face Forgery Detection via General Facial Representation** · [📄 Paper](https://arxiv.org/pdf/2407.19079)
 - ![ACCV 2024](https://img.shields.io/badge/ACCV-2024-7b61b8?style=flat-square) **DPL: Cross-quality DeepFake Detection via Dual Progressive Learning** · [📄 Paper](https://arxiv.org/pdf/2410.07633)
 - ![ToMM 2024](https://img.shields.io/badge/ToMM-2024-2e8b57?style=flat-square) **Domain-invariant and Patch-discriminative Feature Learning for General Deepfake Detection** · [📄 Paper](https://dl.acm.org/doi/10.1145/3657297)
@@ -418,6 +430,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **FakeRadar:Probing Forgery Outliers to Detect Unknown Deepfake Videos** · [📄 Paper](https://arxiv.org/pdf/2512.14601)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Open Set Face Forgery Detection via Dual-Level Evidence Collection** · [📄 Paper](https://arxiv.org/pdf/2512.04331) · [💻 Code](https://github.com/zhyczy/DLED)
 - ![IJCAI 2025](https://img.shields.io/badge/IJCAI-2025-1f6feb?style=flat-square) **THINK TWICE BEFORE ADAPTATION: IMPROVING ADAPTABILITY OF DEEPFAKE DETECTION VIA ONLINE TEST-TIME ADAPTATION** · [📄 Paper](https://arxiv.org/pdf/2505.18787)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Towards Open-world Generalized Deepfake Detection: General Feature Extraction via Unsupervised Domain Adaptation** · [📄 Paper](https://doi.org/10.1145/3746027.3755495)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture** · [📄 Paper](https://arxiv.org/abs/2408.12791v1)
 - ![TIFS 2024](https://img.shields.io/badge/TIFS-2024-2e8b57?style=flat-square) **DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation** · [📄 Paper](https://arxiv.org/pdf/2312.10680)
 - ![ToMM 2024](https://img.shields.io/badge/ToMM-2024-2e8b57?style=flat-square) **Mastering Deepfake Detection: A Cutting-Edge Approach to Distinguish GAN and Diffusion-Model Images** · [📄 Paper](https://dl.acm.org/doi/10.1145/3652027)
@@ -459,6 +472,8 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **TruthLens: A Training-Free Paradigm for DeepFake Detection** · [📄 Paper](https://arxiv.org/pdf/2503.15342)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Towards Interactive Deepfake Analysis** · [📄 Paper](https://arxiv.org/pdf/2501.01164)
 - ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **X2-DFD: A Framework for eXplainable and eXtendable Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2410.06126) · [💻 Code](https://github.com/chenyize111/X2DFD)
+- ![ICML 2025](https://img.shields.io/badge/ICML-2025-1f6feb?style=flat-square) **Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection** · [📄 Paper](https://proceedings.mlr.press/v267/yu25d.html)
+- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **VLForgery Face Triad: Detection, Localization and Attribution via Multimodal Large Language Models** · [📄 Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ee94bf235482e4c1f689c04c81656dbf-Abstract-Conference.html)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant** · [📄 Paper](https://www.arxiv.org/abs/2408.10072) · [💻 Code](https://github.com/thu-huangzc/FFAA)
 - ![ECCV 2024](https://img.shields.io/badge/ECCV-2024-1f6feb?style=flat-square) **Common Sense Reasoning for Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2402.00126)
 - ![ICME 2024](https://img.shields.io/badge/ICME-2024-7b61b8?style=flat-square) **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts** · [📄 Paper](https://arxiv.org/abs/2404.08341) · [💻 Code](https://github.com/yangli-lab/Artifact-Eraser)
@@ -504,8 +519,10 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **OmniFD: A Unified Model for Versatile Face Forgery Detection** · [📄 Paper](https://arxiv.org/pdf/2512.01128) · [💻 Code](https://github.com/haotianll/OmniFD)
 - ![WACV 2025](https://img.shields.io/badge/WACV-2025-7b61b8?style=flat-square) **DeCLIP: Decoding CLIP representations for deepfake localization** · [📄 Paper](https://arxiv.org/pdf/2409.08849v1) · [💻 Code](https://github.com/bit-ml/DeCLIP)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Localizing Audio-Visual Deepfakes via Hierarchical Boundary Modeling** · [📄 Paper](https://arxiv.org/pdf/2508.02000)
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization** · [📄 Paper](https://arxiv.org/pdf/2507.16596) · [💻 Code](https://github.com/wenboxu98/MDP)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization** · [📄 Paper](https://arxiv.org/pdf/2507.16596) · [💻 Code](https://github.com/wenboxu98/MDP)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Weakly Supervised Multimodal Temporal Forgery Localization via Multitask Learning** · [📄 Paper](https://arxiv.org/pdf/2508.02179)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Mixture-of-Noises Enhanced Forgery-Aware Predictor for Multi-Face Manipulation Detection and Localization** · [📄 Paper](https://doi.org/10.1145/3746027.3755231) · [💻 Code](https://github.com/miaoct/MoNFAP)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Query-Based Audio-Visual Temporal Forgery Localization with Register-Enhanced Representation Learning** · [📄 Paper](https://doi.org/10.1145/3746027.3755563) `Audio-Visual`
 - ![WACV 2024](https://img.shields.io/badge/WACV-2024-7b61b8?style=flat-square) **Weakly-supervised deepfake localization in diffusion-generated images** · [📄 Paper](https://arxiv.org/pdf/2311.04584) · [💻 Code](https://github.com/bit-ml/dolos)
 - ![IJCAI 2024](https://img.shields.io/badge/IJCAI-2024-1f6feb?style=flat-square) **Delocate: Detection and Localization for Deepfake Videos with Randomly-Located Tampered Traces** · [📄 Paper](https://arxiv.org/abs/2401.13516)
 - ![ACM MM 2023](https://img.shields.io/badge/ACM%20MM-2023-1f6feb?style=flat-square) **UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization** · [📄 Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3613767?casa_token=4_UWCDtymB8AAAAA%3AUxF0VgXIUNp7IWSXOTP1RFz5H-lVZIIUgEpxs4h7uoy20fBuR_Ygt_rB_dIrqoy6ari5DY92_TaFuQ) · [💻 Code](https://github.com/ymhzyj/UMMAFormer)
@@ -532,11 +549,12 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 - ![BMVC 2026](https://img.shields.io/badge/BMVC-2026-7b61b8?style=flat-square) 🔥 **DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts** · [📄 Paper](https://arxiv.org/abs/2608.23363) · [💻 Code](https://github.com/vladhondru25/DF-MoE)
 - ![ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-7b61b8?style=flat-square) 🔥 **MSCT: Differential Cross-Modal Attention for Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2604.07741)
-- ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **HOLA: Enhancing Audio-visual Deepfake Detection via Hierarchical Contextual Aggregations and Efficient Pre-training** · [📄 Paper](https://arxiv.org/abs/2507.22781)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **HOLA: Enhancing Audio-visual Deepfake Detection via Hierarchical Contextual Aggregations and Efficient Pre-training** · [📄 Paper](https://arxiv.org/abs/2507.22781)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach** · [📄 Paper](https://arxiv.org/html/2511.19080v1)
 - ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **Multi-modal Deepfake Detection via Multi-task Audio-Visual Prompt Learning** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32042)
 - ![ICMR 2025](https://img.shields.io/badge/ICMR-2025-7b61b8?style=flat-square) **Multiscale Adaptive Conflict-Balancing Model For Multimedia Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2505.12966)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units** · [📄 Paper](https://arxiv.org/abs/2505.08294)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/31982)
 - ![ACM MM 2024](https://img.shields.io/badge/ACM%20MM-2024-1f6feb?style=flat-square) **FRADE: Forgery-aware Audio-distilled Multimodal Learning for Deepfake Detection** · [📄 Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681672)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Contextual Cross-Modal Attention for Audio-Visual Deepfake Detection and Localization** · [📄 Paper](https://arxiv.org/abs/2408.01532v1) · [💻 Code](https://github.com/vcbsl/audio-visual-deepfake)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies** · [📄 Paper](https://arxiv.org/abs/2403.14974)
@@ -559,6 +577,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![CVPRW 2026](https://img.shields.io/badge/CVPRW-2026-8a8f98?style=flat-square) 🔥 **EMO-BOOST: Emotion-Augmented Audio-Visual Features for Improved Generalization in Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2605.19630)
 - ![ICML 2026](https://img.shields.io/badge/ICML-2026-1f6feb?style=flat-square) 🔥 **From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2605.27944) `Audio-Visual`
 - ![ICASSP 2025](https://img.shields.io/badge/ICASSP-2025-7b61b8?style=flat-square) **AUDIO-VISUAL DEEPFAKEDETECTIONWITHLOCALTEMPORALINCONSISTENCIES** · [📄 Paper](https://arxiv.org/pdf/2501.08137)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Audio-Visual Asynchrony Mitigation: Cross-Modal Alignment and Feature Reconstruction for Deepfake Detection** · [📄 Paper](https://doi.org/10.1145/3746027.3755455)
 - ![BMVC 2024](https://img.shields.io/badge/BMVC-2024-7b61b8?style=flat-square) **Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies** · [📄 Paper](https://www.arxiv.org/abs/2408.06753)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization** · [📄 Paper](https://arxiv.org/pdf/2411.10193) · [💻 Code](https://github.com/mever-team/dimodif)
 - ![ICME 2024](https://img.shields.io/badge/ICME-2024-7b61b8?style=flat-square) **Explicit Correlation Learning for Generalizable Cross-Modal Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2404.19171) · [💻 Code](https://github.com/ljj898/CMDFD-Dataset-and-Deepfake-Detection)
@@ -574,6 +593,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **Investigating Self-Supervised Representations for Audio-Visual Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2511.17181) · [💻 Code](https://github.com/bit-ml/ssr-dfd)
 - ![WACV 2026](https://img.shields.io/badge/WACV-2026-7b61b8?style=flat-square) 🔥 **A-V Representation Learning via Audio Shift Prediction for Multimodal Deepfake Detection and Temporal Localization** · [📄 Paper](https://openaccess.thecvf.com/content/WACV2026/html/Anshul_A-V_Representation_Learning_via_Audio_Shift_Prediction_for_Multimodal_Deepfake_WACV_2026_paper.html)
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning** · [📄 Paper](https://arxiv.org/abs/2412.00175) · [💻 Code](https://github.com/bit-ml/AVH-Align)
+- ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **Intra-modal and Cross-modal Synchronization for Audio-visual Deepfake Detection and Temporal Localization** · [📄 Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Anshul_Intra-modal_and_Cross-modal_Synchronization_for_Audio-visual_Deepfake_Detection_and_Temporal_ICCV_2025_paper.html)
 - ![CVPR 2024](https://img.shields.io/badge/CVPR-2024-1f6feb?style=flat-square) **AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2406.02951)
 - ![CVPR 2023](https://img.shields.io/badge/CVPR-2023-1f6feb?style=flat-square) **Self-Supervised Video Forensics by Audio-Visual Anomaly Detection** · [📄 Paper](https://arxiv.org/abs/2301.01767) · [💻 Code](https://github.com/cfeng16/audio-visual-forensics)
 - ![TCSVT 2023](https://img.shields.io/badge/TCSVT-2023-2e8b57?style=flat-square) **PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection** · [📄 Paper](https://ieeexplore.ieee.org/document/10233898)
@@ -587,6 +607,10 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Fine-grained Multiple Supervisory Network for Multi-modal Manipulation Detecting and Grounding** · [📄 Paper](https://arxiv.org/pdf/2508.02479)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis** · [📄 Paper](https://arxiv.org/pdf/2512.01214)
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding** · [📄 Paper](https://arxiv.org/pdf/2412.12718) · [💻 Code](https://github.com/CriliasMiller/ASAP)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **IDseq: Decoupled and Sequentially Detecting and Grounding Multi-Modal Media Manipulation** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32029)
+- ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Unleashing the Potential of Consistency Learning for Detecting and Grounding Multi-Modal Media Manipulation** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Unleashing_the_Potential_of_Consistency_Learning_for_Detecting_and_Grounding_CVPR_2025_paper.html) · [💻 Code](https://github.com/liyih/CSCL)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Beyond Artificial Misalignment: Detecting and Grounding Semantic-Coordinated Multimodal Manipulations** · [📄 Paper](https://arxiv.org/abs/2509.12653) · [💻 Code](https://github.com/shen8424/SAMM-RamDG-CAP)
+- ![IJCAI 2025](https://img.shields.io/badge/IJCAI-2025-1f6feb?style=flat-square) **Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning** · [📄 Paper](https://www.ijcai.org/proceedings/2025/891)
 - ![TPAMI 2024](https://img.shields.io/badge/TPAMI-2024-2e8b57?style=flat-square) **Detecting and Grounding Multi-Modal Media Manipulation and Beyond** · [📄 Paper](https://arxiv.org/abs/2309.14203) · [💻 Code](https://github.com/rshaojimmy/MultiModal-DeepFake)
 - ![ICASSP 2024](https://img.shields.io/badge/ICASSP-2024-7b61b8?style=flat-square) **Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding** · [📄 Paper](https://arxiv.org/abs/2309.12657)
 - ![arXiv 2023](https://img.shields.io/badge/arXiv-2023-b31b1b?style=flat-square) **Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation** · [📄 Paper](https://arxiv.org/abs/2309.09667)
@@ -607,6 +631,10 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Towards Generalized Proactive Defense against Face Swapping with Contour-Hybrid Watermark** · [📄 Paper](https://arxiv.org/pdf/2505.19081)
 - ![SPL 2025](https://img.shields.io/badge/SPL-2025-2e8b57?style=flat-square) **Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face** · [📄 Paper](https://arxiv.org/abs/2504.11309)
 - ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermarks** · [📄 Paper](https://arxiv.org/pdf/2504.09451)
+- ![ICML 2025](https://img.shields.io/badge/ICML-2025-1f6feb?style=flat-square) **Robust Secure Swap: Responsible Face Swap With Persons of Interest Redaction and Provenance Traceability** · [📄 Paper](https://proceedings.mlr.press/v267/dai25f.html)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Proactive Deepfake Detection via Self-Verifiable Semantic Watermarking** · [📄 Paper](https://doi.org/10.1145/3746027.3755587)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Toward Robust Deepfake Detection: A Proactive Method Based on Watermarking and Knowledge Distillation** · [📄 Paper](https://doi.org/10.1145/3746027.3755621)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **SepVAMark: Deep Separable Visual-Audio Fusion Watermarking for Source Tracing and Deepfake Detection** · [📄 Paper](https://doi.org/10.1145/3746027.3755783) `Audio-Visual`
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach** · [📄 Paper](https://arxiv.org/pdf/2411.14798)
 - ![IJCAI 2024](https://img.shields.io/badge/IJCAI-2024-1f6feb?style=flat-square) **Are Watermarks Bugs for Deepfake Detectors? Rethinking Proactive Forensics** · [📄 Paper](https://arxiv.org/abs/2404.17867) · [💻 Code](https://github.com/sh1newu/AdvMark)
 - ![TIFS 2024](https://img.shields.io/badge/TIFS-2024-2e8b57?style=flat-square) **Dual Defense: Adversarial, Traceable, and Invisible Robust Watermarking against Face Swapping** · [📄 Paper](https://arxiv.org/abs/2310.16540)
@@ -623,7 +651,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![CVPR Findings 2026](https://img.shields.io/badge/CVPR%20Findings-2026-1f6feb?style=flat-square) 🔥 **Phantom: A Unified Face-Swap Deepfake Protection Framework with Latent and Spatial Constraints** · [📄 Paper](https://arxiv.org/pdf/2606.31703)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **ID-Eraser:ProactiveDefenseAgainstFaceSwappingviaIdentity Perturbation** · [📄 Paper](https://arxiv.org/pdf/2604.21465)
 - ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-1f6feb?style=flat-square) 🔥 **FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations** · [📄 Paper](https://eccv.ecva.net/virtual/2026/poster/5785)
-- ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **No Way To Steal My Face: Proactive Defense Against Identity-Preserving Personalized Generation** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_No_Way_To_Steal_My_Face_Proactive_Defense_Against_Identity-Preserving_CVPR_2026_paper.html)
+- ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **No Way To Steal My Face: Proactive Defense Against Identity-Preserving Personalized Generation** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_No_Way_To_Steal_My_Face_Proactive_Defense_Against_Identity-Preserving_CVPR_2026_paper.html) · [💻 Code](https://github.com/OpenAscent-L/IDGuardian)
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **DeepProtect: Proactive Face-Swapping Defense using Identity Blending and Attribute Distortion** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_DeepProtect_Proactive_Face-Swapping_Defense_using_Identity_Blending_and_Attribute_Distortion_CVPR_2026_paper.html) · [💻 Code](https://github.com/BACKAI/DeepProtect)
 - ![ICLR 2026](https://img.shields.io/badge/ICLR-2026-1f6feb?style=flat-square) 🔥 **DiffVax: Optimization-Free Image Immunization Against Diffusion-Based Editing** · [📄 Paper](https://arxiv.org/abs/2411.17957) · [💻 Code](https://github.com/ozdentarikcan/DiffVax)
 - ![AAAI 2026](https://img.shields.io/badge/AAAI-2026-1f6feb?style=flat-square) 🔥 **Anti-Avatar: Protect Against Unauthorized 3D Head Avatar Generation via Dual-Space Divergence** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37744)
@@ -641,6 +669,18 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Edit_Away_and_My_Face_Will_not_Stay_Personal_Biometric_CVPR_2025_paper.html) · [💻 Code](https://github.com/taco-group/FaceLock)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **My Face Is Mine, Not Yours: Facial Protection Against Diffusion Model Face Swapping** · [📄 Paper](https://arxiv.org/pdf/2505.15336)
 - ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **FaceShield: Defending Facial Image against Deepfake Threats** · [📄 Paper](https://arxiv.org/pdf/2412.09921) · [💻 Code](https://github.com/kuai-lab/iccv25_faceshield)
+- ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Song_IDProtector_An_Adversarial_Noise_Encoder_to_Protect_Against_ID-Preserving_Image_CVPR_2025_paper.html) · [💻 Code](https://github.com/showlab/IDProtector)
+- ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **Anti-Tamper Protection for Unauthorized Individual Image Generation** · [📄 Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Anti-Tamper_Protection_for_Unauthorized_Individual_Image_Generation_ICCV_2025_paper.html) · [💻 Code](https://github.com/Seeyn/Anti-Tamper-Perturbation)
+- ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **Towards Robust Defense against Customization via Protective Perturbation Resistant to Diffusion-based Purification** · [📄 Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Towards_Robust_Defense_against_Customization_via_Protective_Perturbation_Resistant_to_ICCV_2025_paper.html)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32075) · [💻 Code](https://github.com/ZhihaoWu95/myopia)
+- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **Perturb a Model, Not an Image: Towards Robust Privacy Protection via Anti-Personalized Diffusion Models** · [📄 Paper](https://openreview.net/forum?id=5XoqKCmkS7) · [💻 Code](https://github.com/KU-VGI/APDM)
+- ![ICML 2025](https://img.shields.io/badge/ICML-2025-1f6feb?style=flat-square) **De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks** · [📄 Paper](https://proceedings.mlr.press/v267/fan25b.html) · [💻 Code](https://github.com/cyberrrange/de-antifake) `Voice`
+- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis** · [📄 Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/281e9aa15d152fb9c1dbd99e49579c5c-Abstract-Conference.html) · [💻 Code](https://github.com/wxzyd123/E2E-VGuard) `Voice`
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Latent Diffusion Unlearning: Protecting Against Unauthorized Personalization Through Trajectory Shifted Perturbations** · [📄 Paper](https://doi.org/10.1145/3746027.3755112) · [💻 Code](https://github.com/naresh-ub/unlearnable_samples)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **An h-space Based Adversarial Attack for Protection Against Few-shot Personalization** · [📄 Paper](https://doi.org/10.1145/3746027.3755659)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **SCOL: Style Code Orchestration in Latent Space for Proactive Face-Swapping Defense** · [📄 Paper](https://doi.org/10.1145/3746027.3755344)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **DFPD: Dual-Forgery Proactive Defense against Both Deepfakes and Traditional Image Manipulations** · [📄 Paper](https://doi.org/10.1145/3746027.3755768)
+- ![IJCAI 2025](https://img.shields.io/badge/IJCAI-2025-1f6feb?style=flat-square) **Preventing Latent Diffusion Model-Based Image Mimicry via Angle Shifting and Ensemble Learning** · [📄 Paper](https://www.ijcai.org/proceedings/2025/156) · [💻 Code](https://github.com/MinghaoLi01/cosattack)
 - ![TIFS 2024](https://img.shields.io/badge/TIFS-2024-2e8b57?style=flat-square) **DF-RAP: A Robust Adversarial Perturbation for Defending Against Deepfakes in Real-World Social Network Scenarios** · [📄 Paper](https://ieeexplore.ieee.org/document/10458678)
 - ![arXiv 2023](https://img.shields.io/badge/arXiv-2023-b31b1b?style=flat-square) **Feature Extraction Matters More: Universal Deepfake Disruption through Attacking Ensemble Feature Extractors** · [📄 Paper](https://arxiv.org/abs/2303.00200)
 - ![arXiv 2023](https://img.shields.io/badge/arXiv-2023-b31b1b?style=flat-square) **LEAT: Towards Robust Deepfake Disruption in Real-World Scenarios via Latent Ensemble Attack** · [📄 Paper](https://arxiv.org/abs/2307.01520)
@@ -719,6 +759,10 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **Decoupling Bias, Aligning Distributions: Synergistic Fairness Optimization for Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2511.10150) · [💻 Code](https://github.com/ywh1093/Fairness-Optimization)
 - ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-1f6feb?style=flat-square) **Open-Unfairness Adversarial Mitigation for Generalized Deepfake Detection** · [📄 Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Open-Unfairness_Adversarial_Mitigation_for_Generalized_Deepfake_Detection_ICCV_2025_paper.html)
+- ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AI-Face_A_Million-Scale_Demographically_Annotated_AI-Generated_Face_Dataset_and_Fairness_CVPR_2025_paper.html) · [💻 Code](https://github.com/Purdue-M2/AI-Face-FairnessBench)
+- ![AAAI 2025](https://img.shields.io/badge/AAAI-2025-1f6feb?style=flat-square) **Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations** · [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32572)
+- ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-1f6feb?style=flat-square) **Fair Deepfake Detectors Can Generalize** · [📄 Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4bd8c35573f0a011d84f5bf5c6c887f0-Abstract-Conference.html) · [💻 Code](https://github.com/iLearn-Lab/NeurIPS25-DAID)
+- ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **Rethinking Individual Fairness in Deepfake Detection** · [📄 Paper](https://doi.org/10.1145/3746027.3755244) · [💻 Code](https://github.com/Purdue-M2/Individual-Fairness-Deepfake-Detection)
 - ![CVPR 2024](https://img.shields.io/badge/CVPR-2024-1f6feb?style=flat-square) **Preserving Fairness Generalization in Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2402.17229) · [💻 Code](https://github.com/Purdue-M2/Fairness-Generalization)
 - ![arXiv 2024](https://img.shields.io/badge/arXiv-2024-b31b1b?style=flat-square) **Federated Face Forgery Detection Learning with Personalized Representation** · [📄 Paper](https://arxiv.org/html/2406.11145v1)
 - ![TIFS 2023](https://img.shields.io/badge/TIFS-2023-2e8b57?style=flat-square) **FedForgery: generalized face forgery detection with residual federated learning** · [📄 Paper](https://arxiv.org/abs/2210.09563) · [💻 Code](https://github.com/GANG370/FedForgery)
