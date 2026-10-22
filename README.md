@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-635-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-636-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -45,7 +45,7 @@
 | 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 27 | 2026 |
 | 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 2 | 2025 |
 | 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 42 | 2026 |
-| 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 55 | 2026 |
+| 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 56 | 2026 |
 | 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 30 | 2026 |
 | 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 39 | 2026 |
 | 🧩 [Continual and Incremental Detection](#continual-and-incremental-detection) | 16 | 2026 |
@@ -95,7 +95,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (2)
 - [🧭 Generalization Strategies](#-generalization-strategies)
   - [Foundation Model Adaptation](#foundation-model-adaptation) (42)
-  - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (55)
+  - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (56)
   - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (30)
 - [🧩 Detection Tasks and Settings](#-detection-tasks-and-settings)
   - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (39)
@@ -470,6 +470,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![ICML 2026](https://img.shields.io/badge/ICML-2026-1f6feb?style=flat-square) 🔥 **Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection** · [📄 Paper](https://proceedings.mlr.press/v306/wang26it.html)
 - ![TIFS 2026](https://img.shields.io/badge/TIFS-2026-2e8b57?style=flat-square) 🔥 **Dual-Granularity Contrastive Learning for DeepFake Detection** · [📄 Paper](https://doi.org/10.1109/TIFS.2026.3653569)
 - ![TCSVT 2026](https://img.shields.io/badge/TCSVT-2026-2e8b57?style=flat-square) 🔥 **Adaptive Consensus Multi-Teacher Distillation for Generalizable Face Forgery Detection** · [📄 Paper](https://doi.org/10.1109/tcsvt.2026.3668432)
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Beyond Shortcut Learning: Hierarchical Spatial Prototype Regularization for Face Forgery Detection** · [📄 Paper](https://arxiv.org/abs/2610.29442)
 - ![TIP 2025](https://img.shields.io/badge/TIP-2025-2e8b57?style=flat-square) **ED4: Explicit Data-level Debiasing for Deepfake Detection** · [📄 Paper](https://doi.org/10.1109/TIP.2025.3588323) · [💻 Code](https://github.com/beautyremain/ED4)
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kashiani_FreqDebias_Towards_Generalizable_Deepfake_Detection_via_Consistency-Driven_Frequency_Debiasing_CVPR_2025_paper.pdf)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Robust AI-Generated Face Detection with Imbalanced Data** · [📄 Paper](https://arxiv.org/pdf/2505.02182) · [💻 Code](https://github.com/Purdue-M2/SP_CUP)
