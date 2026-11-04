@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-640-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-641-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -64,7 +64,7 @@
 | ⚖️ [Robustness Defenses](#robustness-defenses) | 14 | 2026 |
 | ⚖️ [Efficiency](#efficiency) | 6 | 2026 |
 | ⚖️ [Fairness and Privacy](#fairness-and-privacy) | 13 | 2026 |
-| 📚 [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies) | 38 | 2026 |
+| 📚 [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies) | 39 | 2027 |
 
 Badge colors: ![](https://img.shields.io/badge/-main%20conference-1f6feb?style=flat-square) ![](https://img.shields.io/badge/-journal-2e8b57?style=flat-square) ![](https://img.shields.io/badge/-other%20venue-7b61b8?style=flat-square) ![](https://img.shields.io/badge/-workshop-8a8f98?style=flat-square) ![](https://img.shields.io/badge/-preprint-b31b1b?style=flat-square) &nbsp; 🔥 marks 2026 papers.
 
@@ -187,6 +187,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 ### Benchmarks and Evaluation Studies
 
+- ![WACV 2027](https://img.shields.io/badge/WACV-2027-7b61b8?style=flat-square) 🔥 **DF26: We Cannot Tell Fake From Real Anymore** · [📄 Paper](https://arxiv.org/abs/2609.07369) · [🤗 Dataset](https://huggingface.co/datasets/DF26/DF26) `Human Motion`
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift** · [📄 Paper](https://arxiv.org/pdf/2606.19184)
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **Pixels Don't Lie (But Your Detector Might): Bootstrapping MLLM-as-a-Judge for Trustworthy Deepfake Detection and Reasoning Supervision** · [📄 Paper](https://arxiv.org/abs/2602.19715) · [💻 Code](https://github.com/KjAeRsTuIsK/DeepfakeJudge)
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World** · [📄 Paper](https://arxiv.org/pdf/2512.04837)
