@@ -190,7 +190,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 
 ### Benchmarks and Evaluation Studies
 
-- ![WACV 2027](https://img.shields.io/badge/WACV-2027-7b61b8?style=flat-square) 🔥 **DF26: We Cannot Tell Fake From Real Anymore** · [📄 Paper](https://arxiv.org/abs/2609.07369) · [🤗 Dataset](https://huggingface.co/datasets/DF26/DF26) `Human Motion`
+- ![WACV 2027](https://img.shields.io/badge/WACV-2027-7b61b8?style=flat-square) 🔥 **DF26: We Cannot Tell Fake From Real Anymore** · [📄 Paper](https://arxiv.org/abs/2609.07369) · [🤗 Dataset](https://huggingface.co/datasets/DF26/DF26)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift** · [📄 Paper](https://arxiv.org/pdf/2606.19184)
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **Pixels Don't Lie (But Your Detector Might): Bootstrapping MLLM-as-a-Judge for Trustworthy Deepfake Detection and Reasoning Supervision** · [📄 Paper](https://arxiv.org/abs/2602.19715) · [💻 Code](https://github.com/KjAeRsTuIsK/DeepfakeJudge)
 - ![CVPR 2026](https://img.shields.io/badge/CVPR-2026-1f6feb?style=flat-square) 🔥 **A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World** · [📄 Paper](https://arxiv.org/pdf/2512.04837)
