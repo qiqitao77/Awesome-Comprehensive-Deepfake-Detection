@@ -31,6 +31,9 @@
 
 ## 📰 News
 
+- **\[2026.11\]** 🔥 New: [DF26](https://arxiv.org/abs/2609.07369) (WACV 2027), a benchmark of talking-person videos from seven recent text/image-to-video generators, on which both humans and state-of-the-art detectors perform near chance.
+- **\[2026.10\]** New: six recent works, including [Venus-DefakerOne2](https://arxiv.org/abs/2610.37918), [HSP](https://arxiv.org/abs/2610.29442), and two fairness papers ([FYC](https://arxiv.org/abs/2610.37882), [IIL](https://arxiv.org/abs/2610.37881)). 29 arXiv entries are updated to their published venues.
+- **\[2026.10\]** Systematic sweep of 2023 to 2026 venues (CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, ACM MM, WACV) and journals (TPAMI, TIP, TMM, TIFS, TCSVT, IJCV, PR). The list now covers 640+ papers.
 - **\[2026.10\]** The list is reorganized around a human-centric scope and a new taxonomy. Duplicate entries are removed, and venues and links are corrected.
 - **\[2025.04\]** 🎉 The updated survey is on [arXiv](https://arxiv.org/abs/2406.06965), with more recent works, a systematic taxonomy of detection methods, and broader discussion.
 - **\[2024.06\]** The first version of the survey is released on [arXiv](https://arxiv.org/abs/2406.06965).
