@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-645-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-646-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -31,6 +31,7 @@
 
 ## 📰 News
 
+- **\[2026.11\]** 🔥 New: [OrthoPairGTL](https://arxiv.org/abs/2611.14851) (BMVC 2027), paired geometric supervision on a DINOv3 backbone for generalizable deepfake detection, with a unified re-evaluation of six recent detectors on 17 cross-domain datasets.
 - **\[2026.11\]** 🔥 New: [Pulse or Provenance?](https://arxiv.org/abs/2611.13992), an analysis showing that rPPG-style detectors mostly pick up high-frequency generation artifacts and video source rather than a missing heartbeat, and that the official Celeb-DF splits share identities between train and test.
 - **\[2026.11\]** 🔥 New: [Metric-Aligned GRPO](https://arxiv.org/abs/2611.14436) (ACM MM 2026 Workshop), a predict-then-explain pipeline for explainable deepfake detection that tunes VLM explainers with GRPO on XPlainVerse.
 - **\[2026.11\]** 🔥 New: [MoSTE](https://arxiv.org/abs/2611.12443) (WACV 2027), a mixture of spatial and temporal experts that adapts CLIP for video deepfake detection and balances face-swap and face-reenactment generalization.
@@ -51,7 +52,7 @@
 | 🔍 [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) | 33 | 2026 |
 | 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 27 | 2026 |
 | 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 2 | 2025 |
-| 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 44 | 2027 |
+| 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 45 | 2027 |
 | 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 56 | 2026 |
 | 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 30 | 2026 |
 | 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 40 | 2026 |
@@ -101,7 +102,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) (27)
   - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (2)
 - [🧭 Generalization Strategies](#-generalization-strategies)
-  - [Foundation Model Adaptation](#foundation-model-adaptation) (44)
+  - [Foundation Model Adaptation](#foundation-model-adaptation) (45)
   - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (56)
   - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (30)
 - [🧩 Detection Tasks and Settings](#-detection-tasks-and-settings)
@@ -425,6 +426,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 ### Foundation Model Adaptation
 
 - ![WACV 2027](https://img.shields.io/badge/WACV-2027-7b61b8?style=flat-square) 🔥 **MoSTE: Mixture of Spatio-Temporal Experts for Deepfake Detection in Videos** · [📄 Paper](https://arxiv.org/abs/2611.12443)
+- ![BMVC 2027](https://img.shields.io/badge/BMVC-2027-7b61b8?style=flat-square) 🔥 **Paired Geometric Supervision for Generalizable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2611.14851)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **DBCF: Dual-Branch Complementary Fusion of Foundation Models for Generalized Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2609.34720)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection** · [📄 Paper](https://arxiv.org/pdf/2609.07670)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **GLID: Gated Local Intrinsic Dimension Repairs the Blind Spots of Face-Forgery Detectors** · [📄 Paper](https://arxiv.org/pdf/2607.18770)
