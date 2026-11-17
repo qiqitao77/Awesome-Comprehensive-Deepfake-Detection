@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-664-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-665-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -31,6 +31,7 @@
 
 ## 📰 News
 
+- **\[2026.11\]** 🔥 New: [FaceJev](https://arxiv.org/abs/2611.21604), an MLLM detector that answers eight per-part anomaly questions and reads decisions directly from answer logits, with the PartForensics dataset of part-level labels.
 - **\[2026.11\]** 🔥 New: NeurIPS 2026 and ACM MM 2026 papers, including [SynthForensics](https://arxiv.org/abs/2602.04939), [SpInShield](https://arxiv.org/abs/2605.07398), three voice-cloning studies (RVCBench, VIPBench, Voice "Cloning" Is Actually Style Transfer), face and audio-visual watermarking, and anti-customization defenses.
 - **\[2026.11\]** 🔥 New: [OrthoPairGTL](https://arxiv.org/abs/2611.14851) (BMVC 2027), paired geometric supervision on a DINOv3 backbone for generalizable deepfake detection, with a unified re-evaluation of six recent detectors on 17 cross-domain datasets.
 - **\[2026.11\]** 🔥 New: [Pulse or Provenance?](https://arxiv.org/abs/2611.13992), an analysis showing that rPPG-style detectors mostly pick up high-frequency generation artifacts and video source rather than a missing heartbeat, and that the official Celeb-DF splits share identities between train and test.
@@ -56,7 +57,7 @@
 | 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 45 | 2027 |
 | 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 56 | 2026 |
 | 🧭 [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) | 30 | 2026 |
-| 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 41 | 2026 |
+| 🧩 [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) | 42 | 2026 |
 | 🧩 [Continual and Incremental Detection](#continual-and-incremental-detection) | 16 | 2026 |
 | 🧩 [Sequential Manipulation Detection](#sequential-manipulation-detection) | 8 | 2025 |
 | 🧩 [Localization and Grounding](#localization-and-grounding) | 28 | 2026 |
@@ -107,7 +108,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) (56)
   - [Domain and Test-time Adaptation, Open-set Detection and Attribution](#domain-and-test-time-adaptation-open-set-detection-and-attribution) (30)
 - [🧩 Detection Tasks and Settings](#-detection-tasks-and-settings)
-  - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (41)
+  - [Explainable and Reasoning-based Detection](#explainable-and-reasoning-based-detection) (42)
   - [Continual and Incremental Detection](#continual-and-incremental-detection) (16)
   - [Sequential Manipulation Detection](#sequential-manipulation-detection) (8)
   - [Localization and Grounding](#localization-and-grounding) (28)
@@ -600,6 +601,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![IJCV 2026](https://img.shields.io/badge/IJCV-2026-2e8b57?style=flat-square) 🔥 **AvatarShield: Visual Reinforcement Learning for Human-Centric Synthetic Video Detection** · [📄 Paper](https://arxiv.org/pdf/2505.15173)
 - ![ACM MMW 2026](https://img.shields.io/badge/ACM%20MMW-2026-8a8f98?style=flat-square) 🔥 **Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2611.14436) `Explainable`
 - ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM-2026-1f6feb?style=flat-square) 🔥 **MSU Team at the Explainable Deepfake Detection Challenge 2026: Grounded Artifact Evidence for Deepfake Detection** · [📄 Paper](https://doi.org/10.1145/3767308.3838609)
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **FaceJev: Direct Visual Decisions for Face Forgery Detection** · [📄 Paper](https://arxiv.org/abs/2611.21604) `Explainable`
 - ![ACM MM 2025](https://img.shields.io/badge/ACM%20MM-2025-1f6feb?style=flat-square) **From Prediction to Explanation: Multimodal, Explainable, and Class (Real/Fake) Interactive Deepfake Detection Framework for Non-Expert Users** · [📄 Paper](https://zenodo.org/records/15198666)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Fake-in-Facext: Towards Fine-Grained Explainable DeepFake Analysis** · [📄 Paper](https://arxiv.org/pdf/2510.20531)
 - ![ICMLW 2025](https://img.shields.io/badge/ICMLW-2025-8a8f98?style=flat-square) **Visual Language Models as Zero-Shot Deepfake Detectors** · [📄 Paper](https://arxiv.org/pdf/2507.22469)
