@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-665-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-666-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -31,6 +31,7 @@
 
 ## 📰 News
 
+- **\[2026.11\]** 🔥 New: [ConsistencyNet](https://arxiv.org/abs/2611.21846), which detects deepfake videos from V-JEPA 2.1 prediction residuals under a consistency-margin prior (fakes are harder to predict than real videos).
 - **\[2026.11\]** 🔥 New: [FaceJev](https://arxiv.org/abs/2611.21604), an MLLM detector that answers eight per-part anomaly questions and reads decisions directly from answer logits, with the PartForensics dataset of part-level labels.
 - **\[2026.11\]** 🔥 New: NeurIPS 2026 and ACM MM 2026 papers, including [SynthForensics](https://arxiv.org/abs/2602.04939), [SpInShield](https://arxiv.org/abs/2605.07398), three voice-cloning studies (RVCBench, VIPBench, Voice "Cloning" Is Actually Style Transfer), face and audio-visual watermarking, and anti-customization defenses.
 - **\[2026.11\]** 🔥 New: [OrthoPairGTL](https://arxiv.org/abs/2611.14851) (BMVC 2027), paired geometric supervision on a DINOv3 backbone for generalizable deepfake detection, with a unified re-evaluation of six recent detectors on 17 cross-domain datasets.
@@ -50,7 +51,7 @@
 | Section | Papers | Newest |
 |:--|:-:|:-:|
 | 🔍 [Low-level Artifacts](#low-level-artifacts) | 54 | 2026 |
-| 🔍 [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) | 41 | 2026 |
+| 🔍 [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) | 42 | 2026 |
 | 🔍 [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) | 33 | 2026 |
 | 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 27 | 2026 |
 | 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 3 | 2026 |
@@ -99,7 +100,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies)
 - [🔍 Passive Detection](#-passive-detection)
   - [Low-level Artifacts](#low-level-artifacts) (54)
-  - [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) (41)
+  - [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) (42)
   - [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) (33)
   - [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) (27)
   - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (3)
@@ -315,6 +316,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![ICML 2026](https://img.shields.io/badge/ICML-2026-1f6feb?style=flat-square) 🔥 **Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses** · [📄 Paper](https://proceedings.mlr.press/v306/she26a.html) `Audio-Visual`
 - ![TPAMI 2026](https://img.shields.io/badge/TPAMI-2026-2e8b57?style=flat-square) 🔥 **Delving Deep Into Unraveling Spatio-Temporal Forgery Cues for Face Forgery Video Detection** · [📄 Paper](https://doi.org/10.1109/tpami.2026.3739838)
 - ![TBIOM 2026](https://img.shields.io/badge/TBIOM-2026-2e8b57?style=flat-square) 🔥 **Do You See What I Say? Generalizable Deepfake Detection based on Visual Speech Recognition** · [📄 Paper](https://arxiv.org/pdf/2511.22443)
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **Can a World Model Predict a Deepfake Video? A Consistency Margin Prior for Deepfake Detection** · [📄 Paper](https://arxiv.org/abs/2611.21846)
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Face Forgery Video Detection via Temporal Forgery Cue Unraveling** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Face_Forgery_Video_Detection_via_Temporal_Forgery_Cue_Unraveling_CVPR_2025_paper.pdf) · [💻 Code](https://github.com/zhenglab/TFCU)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **VoD: Learning Volume of Differences for Video-Based Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2503.07607) · [💻 Code](https://github.com/xuyingzhongguo/VoD)
 - ![ICME 2025](https://img.shields.io/badge/ICME-2025-7b61b8?style=flat-square) **GC-ConsFlow: Leveraging Optical Flow Residuals and Global Context for Robust Deepfake Detection** · [📄 Paper](https://arxiv.org/pdf/2501.13435)
