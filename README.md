@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-666-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-667-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -31,6 +31,7 @@
 
 ## 📰 News
 
+- **\[2026.11\]** 🔥 New: [TwinD](https://arxiv.org/abs/2611.25935), which trains a facial deepfake detector on reconstruction twins and blob twins and generalizes from blending fakes to entire face synthesis.
 - **\[2026.11\]** 🔥 New: [ConsistencyNet](https://arxiv.org/abs/2611.21846), which detects deepfake videos from V-JEPA 2.1 prediction residuals under a consistency-margin prior (fakes are harder to predict than real videos).
 - **\[2026.11\]** 🔥 New: [FaceJev](https://arxiv.org/abs/2611.21604), an MLLM detector that answers eight per-part anomaly questions and reads decisions directly from answer logits, with the PartForensics dataset of part-level labels.
 - **\[2026.11\]** 🔥 New: NeurIPS 2026 and ACM MM 2026 papers, including [SynthForensics](https://arxiv.org/abs/2602.04939), [SpInShield](https://arxiv.org/abs/2605.07398), three voice-cloning studies (RVCBench, VIPBench, Voice "Cloning" Is Actually Style Transfer), face and audio-visual watermarking, and anti-customization defenses.
@@ -53,7 +54,7 @@
 | 🔍 [Low-level Artifacts](#low-level-artifacts) | 54 | 2026 |
 | 🔍 [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) | 42 | 2026 |
 | 🔍 [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) | 33 | 2026 |
-| 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 27 | 2026 |
+| 🔍 [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) | 28 | 2026 |
 | 🔍 [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) | 3 | 2026 |
 | 🧭 [Foundation Model Adaptation](#foundation-model-adaptation) | 45 | 2027 |
 | 🧭 [Disentanglement, Debiasing and Representation Learning](#disentanglement-debiasing-and-representation-learning) | 56 | 2026 |
@@ -102,7 +103,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
   - [Low-level Artifacts](#low-level-artifacts) (54)
   - [Spatiotemporal and Physical Consistency](#spatiotemporal-and-physical-consistency) (42)
   - [Identity and Facial Semantic Consistency](#identity-and-facial-semantic-consistency) (33)
-  - [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) (27)
+  - [Synthetic Training Data and Forgery Augmentation](#synthetic-training-data-and-forgery-augmentation) (28)
   - [Fully Synthetic Human-centric Video](#fully-synthetic-human-centric-video) (3)
 - [🧭 Generalization Strategies](#-generalization-strategies)
   - [Foundation Model Adaptation](#foundation-model-adaptation) (45)
@@ -398,6 +399,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![TIFS 2026](https://img.shields.io/badge/TIFS-2026-2e8b57?style=flat-square) 🔥 **MAP-Mamba: Multi-Artifacts Perception Mamba for Generalizable Face Forgery Detection** · [📄 Paper](https://doi.org/10.1109/TIFS.2026.3651948)
 - ![TPAMI 2026](https://img.shields.io/badge/TPAMI-2026-2e8b57?style=flat-square) 🔥 **Suppressing Gradient Conflict for Generalizable Deepfake Detection** · [📄 Paper](https://doi.org/10.1109/tpami.2026.3687009)
 - ![TCSVT 2026](https://img.shields.io/badge/TCSVT-2026-2e8b57?style=flat-square) 🔥 **Adaptive Learning With Augmentation Robustness Validation: Toward Generalizable Face Forgery Detection** · [📄 Paper](https://doi.org/10.1109/tcsvt.2026.3678982)
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **TwinD: Generalizing Deepfake Detection from Blending to Entire Face Synthesis** · [📄 Paper](https://arxiv.org/abs/2611.25935) · [💻 Code](https://github.com/yermandy/TwinD) · [🤗 Dataset](https://huggingface.co/datasets/yermandy/TwinD)
 - ![CVPR 2025](https://img.shields.io/badge/CVPR-2025-1f6feb?style=flat-square) **Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning** · [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Generalizing_Deepfake_Video_Detection_with_Plug-and-Play_Video-Level_Blending_and_Spatiotemporal_CVPR_2025_paper.pdf)
 - ![ICCVW 2025](https://img.shields.io/badge/ICCVW-2025-8a8f98?style=flat-square) **Practical Manipulation Model for Robust Deepfake Detection** · [📄 Paper](https://www.arxiv.org/abs/2506.05119) · [💻 Code](https://github.com/BenediktHopf/PMM)
 - ![Image and Vision Computing 2025](https://img.shields.io/badge/Image%20and%20Vision%20Computing-2025-2e8b57?style=flat-square) **FSBI: Deepfake Detection with Frequency Enhanced Self-Blended Images** · [📄 Paper](https://arxiv.org/html/2406.08625v1) · [💻 Code](https://github.com/gufranSabri/FSBI)
