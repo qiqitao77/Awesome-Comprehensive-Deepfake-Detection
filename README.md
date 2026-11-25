@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.06965-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.06965)
-[![Papers](https://img.shields.io/badge/papers-667-1f6feb?style=flat-square)](#contents)
+[![Papers](https://img.shields.io/badge/papers-668-1f6feb?style=flat-square)](#contents)
 [![Stars](https://img.shields.io/github/stars/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square&color=f5c518)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/qiqitao77/Awesome-Comprehensive-Deepfake-Detection?style=flat-square)](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-2e8b57?style=flat-square)](#-contributing)
@@ -31,6 +31,7 @@
 
 ## 📰 News
 
+- **\[2026.11\]** 🔥 New: [MOZAIC](https://arxiv.org/abs/2611.31301), an audio-video deepfake benchmark that pairs every source clip in all four real/fake video and audio combinations, testing which modality is fake, how it was made, identity, and explanation.
 - **\[2026.11\]** 🔥 New: [TwinD](https://arxiv.org/abs/2611.25935), which trains a facial deepfake detector on reconstruction twins and blob twins and generalizes from blending fakes to entire face synthesis.
 - **\[2026.11\]** 🔥 New: [ConsistencyNet](https://arxiv.org/abs/2611.21846), which detects deepfake videos from V-JEPA 2.1 prediction residuals under a consistency-margin prior (fakes are harder to predict than real videos).
 - **\[2026.11\]** 🔥 New: [FaceJev](https://arxiv.org/abs/2611.21604), an MLLM detector that answers eight per-part anomaly questions and reads decisions directly from answer logits, with the PartForensics dataset of part-level labels.
@@ -76,7 +77,7 @@
 | ⚖️ [Robustness Defenses](#robustness-defenses) | 15 | 2026 |
 | ⚖️ [Efficiency](#efficiency) | 6 | 2026 |
 | ⚖️ [Fairness and Privacy](#fairness-and-privacy) | 13 | 2026 |
-| 📚 [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies) | 48 | 2027 |
+| 📚 [Benchmarks and Evaluation Studies](#benchmarks-and-evaluation-studies) | 49 | 2027 |
 
 Badge colors: ![](https://img.shields.io/badge/-main%20conference-1f6feb?style=flat-square) ![](https://img.shields.io/badge/-journal-2e8b57?style=flat-square) ![](https://img.shields.io/badge/-other%20venue-7b61b8?style=flat-square) ![](https://img.shields.io/badge/-workshop-8a8f98?style=flat-square) ![](https://img.shields.io/badge/-preprint-b31b1b?style=flat-square) &nbsp; 🔥 marks 2026 papers.
 
@@ -225,6 +226,7 @@ Within each section, entries run from newest to oldest. Each paper appears once,
 - ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-1f6feb?style=flat-square) 🔥 **Voice "Cloning" Is Actually Style Transfer** · [📄 Paper](https://openreview.net/forum?id=9oCb1fNV0g) · [💻 Code](https://github.com/kzhou-cloud/voice-cloning-public) `Voice`
 - ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM-2026-1f6feb?style=flat-square) 🔥 **Listening Deepfake Detection: A New Perspective Beyond Speaking-Centric Forgery Analysis** · [📄 Paper](https://arxiv.org/abs/2604.12650) `Audio-Visual`
 - ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM-2026-1f6feb?style=flat-square) 🔥 **Explainable Deepfake Detection Challenge** · [📄 Paper](https://arxiv.org/abs/2607.21007) `Explainable`
+- ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-b31b1b?style=flat-square) 🔥 **MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake** · [📄 Paper](https://arxiv.org/abs/2611.31301) · [💻 Code](https://github.com/VectorInstitute/mozaic) · [🤗 Dataset](https://huggingface.co/datasets/vector-institute/Mozaic) `Audio-Visual` `Explainable`
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **LLMs Are Not Yet Ready for Deepfake Image Detection** · [📄 Paper](https://arxiv.org/abs/2506.10474)
 - ![Visual Intelligence 2025](https://img.shields.io/badge/Visual%20Intelligence-2025-2e8b57?style=flat-square) **SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models** · [📄 Paper](https://arxiv.org/abs/2402.04178) · [💻 Code](https://github.com/laiyingxin2/SHIELD)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv-2025-b31b1b?style=flat-square) **Can Multi-Modal (Reasoning) LLMs Work as Deepfake Detectors** · [📄 Paper](https://arxiv.org/pdf/2503.20084)
